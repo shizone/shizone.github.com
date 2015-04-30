@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
+<title>JavaFX 8 on Scala - SHI-Zone</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+		<div class="header-logo">
+			<a href="/"><img src="/images/logo.png" width="60" height="60"></a>
+		</div>
+		
+	</header>
+
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">JavaFX 8 on Scala</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2013-12-21">December 21, 2013</time></span>
+			<section itemprop="entry-text">
+				
+
+<p>これは <a href="http://www.adventar.org/calendars/146">JavaFX Advent Calendar 2013</a> の21日目のエントリです。</p>
+
+<p>前日は <a href="https://twitter.com/MulticolorWorld">@MulticolorWorld</a> さんの <a href="http://jimanglaurant.hatenablog.com/entry/2013/12/20/105413">JavaFXアプリケーション製作中に作ったライブラリの話(未完成)</a> でした。</p>
+
+<h2 id="本題:75fbcece16b104c77c1c23e29c5ff303">本題</h2>
+
+<p>タイトルの通り、ScalaでJavaFX8を使う話です。</p>
+
+<p><a href="http://www.java-users.jp/?page_id=695">JJUG CCC 2013 Fall</a> で発表するため資料作りしてる最中に</p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/skrb">@skrb</a> 8に変えてみたら、Scalaのビルドツールがクラッシュしちゃいました…。&#10;取り敢えずは7でガマンですかねぇ…。</p>&mdash; マイクチェックの時間だ！コラァ！！ (@razon) <a href="https://twitter.com/razon/statuses/397026508167852032">2013, 11月 3</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>ってことがあったので、ちゃんと動かすために調べてみました。</p>
+
+<h3 id="scalaのバージョン指定:75fbcece16b104c77c1c23e29c5ff303">Scalaのバージョン指定</h3>
+
+<p>Scalaは2.10.2以降のバージョンを指定する必要があります。</p>
+
+<h3 id="sbtのバージョン指定:75fbcece16b104c77c1c23e29c5ff303">sbtのバージョン指定</h3>
+
+<p>sbtは、0.12系だと動作しないので0.13系を指定します。</p>
+
+<h3 id="jfxrt-jarの配備位置の変更対応:75fbcece16b104c77c1c23e29c5ff303">jfxrt.jarの配備位置の変更対応</h3>
+
+<p>sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。<br />
+当方ではJAVA_HOMEからの相対パスで指定する方式( <a href="http://stackoverflow.com/questions/14123749/how-to-detect-javafx-runtime-jar-in-sbt">参考</a> )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。<br />
+両方に対応するように修正してみました。</p>
+
+<script src="http://gist-it.appspot.com/github/shizone/scala-javafx-fxml.g8/blob/master/src/main/g8/detect_javafx_runtime.sbt"></script>
+
+<p><a href="https://github.com/shizone/scala-javafx-fxml.g8">拙作のGiter8テンプレート</a> で対応しているので、参考にして頂ければ。</p>
+
+<h2 id="余談:75fbcece16b104c77c1c23e29c5ff303">余談</h2>
+
+<p><a href="https://github.com/shizone/tengu">自前のJavaFXアプリ</a> で動作確認してみたのですが、WebViewはだいぶ良くなってますね。<br />
+露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。</p>
+
+<p>![Tengu on JavaFX8](<a href="https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&quot;2013-12-21&quot;">https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&quot;2013-12-21&quot;</a>
+グリグリ動きますね</p>
+
+<h2 id="最後に:75fbcece16b104c77c1c23e29c5ff303">最後に</h2>
+
+<p>翌日は <a href="https://twitter.com/kikutaro_">@kikutaro_</a> さんの <a href="http://kikutaro777.hatenablog.com/entry/2013/12/22/120744">JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx</a> です。</p>
+
+			</section>
+		</article>
+	</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a></span>
+			<a href="https://twitter.com/razon" target="_blank">Twitter</a></span>
+			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a></span>
+			<a href="https://github.com/shizone/" target="_blank">GitHub</a></span>
+		</div>
+		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
+	</footer>
+
+</div>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-19371775-4', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>

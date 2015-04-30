@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
+<title>物好きな変態どもをTwitterのListに晒しあげる - SHI-Zone</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+		<div class="header-logo">
+			<a href="/"><img src="/images/logo.png" width="60" height="60"></a>
+		</div>
+		
+	</header>
+
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">物好きな変態どもをTwitterのListに晒しあげる</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2012-07-18">July 18, 2012</time></span>
+			<section itemprop="entry-text">
+				
+
+<p>このエントリは <a href="http://atnd.org/events/29918">変態アドベントカレンダー in Summer</a> の4日目です。</p>
+
+<p>前日は <a href="http://twitter.com/backpaper0">@backpaper0</a> さんの <a href="http://d.hatena.ne.jp/backpaper0/20120717/1342528086">システムイグジらない</a> でした。</p>
+
+<h2 id="今日のお題:6484c049dcd15dc2427144c1de044be7">今日のお題</h2>
+
+<p>こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。
+んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。</p>
+
+<h2 id="技術的な解説:6484c049dcd15dc2427144c1de044be7">技術的な解説</h2>
+
+<p>Scala + <a href="https://github.com/paulp/xsbtscript">xsbtscript</a> で書きました。</p>
+
+<p>xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。</p>
+
+<p>本当はTwitter4Jではなく <a href="https://github.com/Shinsuke-Abe/twitter4s">あべさんのTwitter4S</a> を使うつもりだったんですが、 <a href="http://d.hatena.ne.jp/Yoshiori/20120324/1332618170">githubのソースを直に取ってくるにはBuildの拡張が必要っぽい</a> ので断念しました。</p>
+
+<h2 id="コード:6484c049dcd15dc2427144c1de044be7">コード</h2>
+
+<script src="https://gist.github.com/3129700.js?file=hentai.scala"></script>
+
+<p>ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。</p>
+
+<h2 id="仕上がったものはこちら:6484c049dcd15dc2427144c1de044be7">仕上がったものはこちら</h2>
+
+<p><a href="https://twitter.com/#!/razon/%E5%A4%89%E6%85%8B%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-in-summer">@razon/変態アドベントカレンダー in summer</a></p>
+
+<h2 id="最後に:6484c049dcd15dc2427144c1de044be7">最後に</h2>
+
+<p>明日は根本さんこと <a href="http://twitter.com/zephiransas">@zephiransas</a> さんです。</p>
+
+			</section>
+		</article>
+	</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a></span>
+			<a href="https://twitter.com/razon" target="_blank">Twitter</a></span>
+			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a></span>
+			<a href="https://github.com/shizone/" target="_blank">GitHub</a></span>
+		</div>
+		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
+	</footer>
+
+</div>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-19371775-4', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>

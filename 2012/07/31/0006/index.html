@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
+<title>LinuxでJavaFX Scene Builderを動かし隊 - SHI-Zone</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+		<div class="header-logo">
+			<a href="/"><img src="/images/logo.png" width="60" height="60"></a>
+		</div>
+		
+	</header>
+
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">LinuxでJavaFX Scene Builderを動かし隊</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2012-07-31">July 31, 2012</time></span>
+			<section itemprop="entry-text">
+				
+
+<h2 id="今回のお題:1d8f909093c936ff6321114771f48277">今回のお題</h2>
+
+<p>JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。
+Linux版の2.xもだいぶ遅れて出ましたし。</p>
+
+<p>んで先日の <a href="http://okajug.appspot.com/study03.html#study03">第３回 岡山Javaユーザ会 勉強会</a> でも <a href="https://twitter.com/a_know">@a_know</a> さんのJavaFXのセッション聞いてて、
+JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。</p>
+
+<p>が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、</p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>JavaFX Scene BuilderってWineで動くかなぁ</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229745213688664064" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/razon">razon</a> JavaFXで書かれてるんじゃなかったっけ？</p>&mdash; 48さん (@bleu48) <a href="https://twitter.com/bleu48/status/229746698266763264" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/bleu48">bleu48</a> インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229747230268067841" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/bleu48">bleu48</a> @<a href="https://twitter.com/razon">razon</a> JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。</p>&mdash; Yuichi Sakurabaさん (@skrb) <a href="https://twitter.com/skrb/status/229750245662265344" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/skrb">skrb</a> @<a href="https://twitter.com/bleu48">bleu48</a> なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229750737972887552" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/razon">razon</a> @<a href="https://twitter.com/bleu48">bleu48</a> ぜひやってみて、うまくいったら教えてください！！</p>&mdash; Yuichi Sakurabaさん (@skrb) <a href="https://twitter.com/skrb/status/229751448903237632" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/skrb">skrb</a> @<a href="https://twitter.com/bleu48">bleu48</a> そうですねー。ちょっと、チャレンジしてみます！</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229751915469221889" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>てな訳で、試してみました。</p>
+
+<h2 id="手順:1d8f909093c936ff6321114771f48277">手順</h2>
+
+<p>手順自体はすっげー単純で、</p>
+
+<ol>
+<li>Wine入れる(ふつーにapt-getとかで入れておっけーです)</li>
+<li>Windows版のJDK7+JavaFX2.xをWineで突っ込む</li>
+<li>Windows版のJavaFX Scene BuilderをWineで突っ込む</li>
+</ol>
+
+<p>という、手順を書く必要があるのかっていうくらいそのまま行けました。
+特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。</p>
+
+<p><a href="http://twitpic.com/adihgm">
+<img src="http://twitpic.com/show/large/adihgm" alt="JavaFX Scene Builder on Ubuntu 12.04 LTS" />
+
+</a></p>
+
+<p>Windows版のJDKを入れないといけないのが何だか敗北感満載ですが、何とか動いたのでよしとします。
+これでScene Builder動かしてるの見てぐぬぬってなることもなくなりましたね。めでたしめでたし。</p>
+
+			</section>
+		</article>
+	</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a></span>
+			<a href="https://twitter.com/razon" target="_blank">Twitter</a></span>
+			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a></span>
+			<a href="https://github.com/shizone/" target="_blank">GitHub</a></span>
+		</div>
+		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
+	</footer>
+
+</div>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-19371775-4', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>

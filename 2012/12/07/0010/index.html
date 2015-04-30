@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
+<title>AdventCalendarのPost数から変態ランキングを作る - SHI-Zone</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+		<div class="header-logo">
+			<a href="/"><img src="/images/logo.png" width="60" height="60"></a>
+		</div>
+		
+	</header>
+
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">AdventCalendarのPost数から変態ランキングを作る</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2012-12-07">December 07, 2012</time></span>
+			<section itemprop="entry-text">
+				
+
+<p>このエントリは <a href="http://atnd.org/events/33835">HENTAI Advent Calendar 2012 - 変態アドベントカレンダー -</a> の7日目です。</p>
+
+<p>前日は <a href="http://twitter.com/ponkore">@ponkore</a> さんの <a href="https://gist.github.com/4216377">Clojure から POI ってみる</a> でした。</p>
+
+<h2 id="本題:a61069a1002902906cb1a37274f65a6e">本題</h2>
+
+<p>さて、この変態アドベントカレンダー、 <a href="http://atnd.org/events/22020">変態アドベントカレンダー 2011</a> 、 <a href="http://atnd.org/events/29918">変態アドベントカレンダー in Summer</a> に引き続き3回目になります。
+前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)</p>
+
+<p>で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。
+つまり変態オブ変態です。</p>
+
+<p>手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。</p>
+
+<h2 id="集計方法:a61069a1002902906cb1a37274f65a6e">集計方法</h2>
+
+<p>2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。
+幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。</p>
+
+<p>2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。</p>
+
+<h2 id="コード:a61069a1002902906cb1a37274f65a6e">コード</h2>
+
+<script src="https://gist.github.com/4225814.js?file=HentaiRank.scala"></script>
+
+<h2 id="実行結果:a61069a1002902906cb1a37274f65a6e">実行結果</h2>
+
+<p>(もじゃ変,7)</p>
+
+<p>(backpaper0,6)</p>
+
+<p>(KASUYA, Daisuke,5)</p>
+
+<p>(Kuchitama,5)</p>
+
+<p>(dproject21,4)</p>
+
+<p>(s_kozake,4)</p>
+
+<p>(issps2009,3)</p>
+
+<p>(真っ赤なレモン,3)</p>
+
+<p>(soudai1025,3)</p>
+
+<p>(susumuishigami,2)</p>
+
+<p>(winplus,2)</p>
+
+<p>(dekokun,2)</p>
+
+<p>(megascus,2)</p>
+
+<p>(toshi__ya,2)</p>
+
+<p>(hakurai,2)</p>
+
+<p>(tanago238,2)</p>
+
+<p>(bufferings,2)</p>
+
+<p>(daiksy,1)</p>
+
+<p>(N.Murakami,1)</p>
+
+<p>(KTZ ,1)</p>
+
+<p>(posaunehm,1)</p>
+
+<p>(zephiransas,1)</p>
+
+<p>(jyukutyo,1)</p>
+
+<p>(はがねのつるぎ,1)</p>
+
+<p>(tango238,1)</p>
+
+<p>(nyaarto,1)</p>
+
+<p>(sudai1025,1)</p>
+
+<p>(kuchitama,1)</p>
+
+<p>(miya2000,1)</p>
+
+<p>(satohjohn,1)</p>
+
+<p>(?,1)</p>
+
+<p>(mike_neck,1)</p>
+
+<p>(組　長,1)</p>
+
+<p>(s_taichan,1)</p>
+
+<p>(ponkore,1)</p>
+
+<p>(zerosum_,1)</p>
+
+<p>(ryosms,1)</p>
+
+<p>(kshoji,1)</p>
+
+<p>(dpoject21,1)</p>
+
+<p>(inaton,1)</p>
+
+<h1 id="俺だった:a61069a1002902906cb1a37274f65a6e">俺だった。</h1>
+
+<p>あ、因みに2012冬のdescriptionがATNDのユーザ名と違うためにバラけてる部分もありますね。
+まあその辺はあんま気にしないでください。</p>
+
+<h2 id="最後に:a61069a1002902906cb1a37274f65a6e">最後に</h2>
+
+<p>明日は <a href="https://twitter.com/tan_go238">たんご</a> さんです。</p>
+
+			</section>
+		</article>
+	</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a></span>
+			<a href="https://twitter.com/razon" target="_blank">Twitter</a></span>
+			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a></span>
+			<a href="https://github.com/shizone/" target="_blank">GitHub</a></span>
+		</div>
+		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
+	</footer>
+
+</div>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-19371775-4', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>
