@@ -1,0 +1,60 @@
+---
+layout: post
+title: "LinuxでJavaFX Scene Builderを動かし隊"
+date: 2012-07-31
+comments: true
+categories: JavaFX Linux Wine 
+---
+
+## 今回のお題
+
+JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。
+Linux版の2.xもだいぶ遅れて出ましたし。
+
+んで先日の [第３回 岡山Javaユーザ会 勉強会](http://okajug.appspot.com/study03.html#study03) でも [@a_know](https://twitter.com/a_know) さんのJavaFXのセッション聞いてて、
+JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。
+
+が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、
+
+<blockquote class="twitter-tweet" lang="ja"><p>JavaFX Scene BuilderってWineで動くかなぁ</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229745213688664064" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/razon">razon</a> JavaFXで書かれてるんじゃなかったっけ？</p>&mdash; 48さん (@bleu48) <a href="https://twitter.com/bleu48/status/229746698266763264" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/bleu48">bleu48</a> インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229747230268067841" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/bleu48">bleu48</a> @<a href="https://twitter.com/razon">razon</a> JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。</p>&mdash; Yuichi Sakurabaさん (@skrb) <a href="https://twitter.com/skrb/status/229750245662265344" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/skrb">skrb</a> @<a href="https://twitter.com/bleu48">bleu48</a> なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229750737972887552" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/razon">razon</a> @<a href="https://twitter.com/bleu48">bleu48</a> ぜひやってみて、うまくいったら教えてください！！</p>&mdash; Yuichi Sakurabaさん (@skrb) <a href="https://twitter.com/skrb/status/229751448903237632" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>@<a href="https://twitter.com/skrb">skrb</a> @<a href="https://twitter.com/bleu48">bleu48</a> そうですねー。ちょっと、チャレンジしてみます！</p>&mdash; ヴィムさん (@razon) <a href="https://twitter.com/razon/status/229751915469221889" data-datetime=""2012-07-30"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+てな訳で、試してみました。
+
+## 手順
+
+手順自体はすっげー単純で、
+
+1. Wine入れる(ふつーにapt-getとかで入れておっけーです)
+2. Windows版のJDK7+JavaFX2.xをWineで突っ込む
+3. Windows版のJavaFX Scene BuilderをWineで突っ込む
+
+という、手順を書く必要があるのかっていうくらいそのまま行けました。
+特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。
+
+<a href="http://twitpic.com/adihgm">
+![JavaFX Scene Builder on Ubuntu 12.04 LTS](http://twitpic.com/show/large/adihgm)
+</a>
+
+Windows版のJDKを入れないといけないのが何だか敗北感満載ですが、何とか動いたのでよしとします。
+これでScene Builder動かしてるの見てぐぬぬってなることもなくなりましたね。めでたしめでたし。
+
+

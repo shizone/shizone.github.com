@@ -1,0 +1,38 @@
+---
+layout: post
+title: "物好きな変態どもをTwitterのListに晒しあげる"
+date: 2012-07-18
+comments: true
+categories: 変態 Twitter Scala ATND
+---
+
+このエントリは [変態アドベントカレンダー in Summer](http://atnd.org/events/29918) の4日目です。
+
+前日は [@backpaper0](http://twitter.com/backpaper0) さんの [システムイグジらない](http://d.hatena.ne.jp/backpaper0/20120717/1342528086) でした。
+
+## 今日のお題
+
+こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。
+んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。
+
+## 技術的な解説
+
+Scala + [xsbtscript](https://github.com/paulp/xsbtscript) で書きました。
+
+xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。
+
+本当はTwitter4Jではなく [あべさんのTwitter4S](https://github.com/Shinsuke-Abe/twitter4s) を使うつもりだったんですが、 [githubのソースを直に取ってくるにはBuildの拡張が必要っぽい](http://d.hatena.ne.jp/Yoshiori/20120324/1332618170) ので断念しました。
+
+## コード
+
+<script src="https://gist.github.com/3129700.js?file=hentai.scala"></script>
+
+ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。
+
+## 仕上がったものはこちら
+
+[@razon/変態アドベントカレンダー in summer](https://twitter.com/#!/razon/%E5%A4%89%E6%85%8B%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-in-summer)
+
+## 最後に
+
+明日は根本さんこと [@zephiransas](http://twitter.com/zephiransas) さんです。

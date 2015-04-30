@@ -1,0 +1,65 @@
+---
+layout: post
+title: "ニュービーのための合同勉強会 in 大都会岡山ガイド"
+date: 2014-12-03
+comments: true
+categories: 勉強会 大都会 岡山 
+---
+
+ご安全に！もじゃ変です。
+
+このエントリは [大都会岡山 Advent Calendar 2014](http://www.adventar.org/calendars/661) の3日目のエントリです。  
+前日は [@maepon](https://twitter.com/maepon) さんの[大都会岡山のはずれにぽつんとある『四万十ラーメン』](http://maepon.skpn.com/etc/entry-64.html) でした。  
+翌日は [工事のおじさん](https://twitter.com/ryosms) の [大都会岡山を楽しむための用語集2014](http://blog.livedoor.jp/ryosms/archives/7959735.html) です。
+
+## 本題
+
+12/13(土)に、 [合同勉強会 in 大都会岡山 -2014 Winter-](http://gbdaitokai.doorkeeper.jp/events/15289) が開催されますが、はじめての参加者向けにガイド的ななんかを書こうかなぁと。
+
+### 合同勉強会 in 大都会岡山 とは？
+
+岡山に存在するIT勉強会コミュニティが皆で集まって、色々な発表をする勉強会です。  
+と、言いながら何だかんだで毎回県外枠とかもあったりする感じだったり。  
+幅広いテーマの話が聞けると思うので、「何か普段やってることと違うことを始めてみようかなぁ」とかお考えの方には、新たなネタ探しのヒントになったりするのではないかと。
+
+### 過去の開催実績とか
+
+* [2012 Spring](http://togetter.com/li/294533)
+* [2012 Winter](http://togetter.com/li/422559)
+* [2013 Winter](http://togetter.com/li/602756)
+
+### 勉強会参加の注意事項とか
+
+#### 会場について
+岡山県立大学の学部共通棟(北)の2Fにある8202講義室となります。  
+具体的な建物の位置については [キャンパスマップ](http://www.oka-pu.ac.jp/wp-content/uploads/2012/03/map_heimen.gif) を参考にしてみてください。
+
+#### 会場へのアクセスについて
+* 電車でのアクセス
+  - 最寄り駅はJR吉備線の「服部駅」になります。
+  - 西側(福山・倉敷方面)からのアクセスは、総社駅からの伯備線・吉備線の連結がかなり微妙な感じなのでご注意ください。
+  - 正直クルマでのアクセスのほうが無難な気がしています。
+  - 僕は [ハーレムさん](http://twitter.com/mako_wis) をアシにする気マンマンですよ。
+
+#### 昼食について
+売店が空いてるかも知れませんが、割と品揃えが微妙な可能性もあります。  
+徒歩で行ける範囲にお店は全然ない感じなので、あらかじめ調達して会場入りするのもアリかも知れません。  
+クルマ組にお昼ついていくというテも。
+
+#### おやつについて
+割と毎回、皆でおやつを持ち込んでシェアして食べながら話を聞いたりします。  
+**自分で消化できる範囲で、** おやつをお持ちください。
+万一余っても分配できるよう、個包装のものが望ましいです。
+
+#### フィギュアについて
+毎度毎度、受付席にフィギュアとかガンプラとかを展示する謎の習慣があったりするので、何かイチオシのブツがあれば是非お持ちください。
+
+### 勉強会の申込み
+<a class="doorkeeper-registration-widget" href="http://gbdaitokai.doorkeeper.jp/events/15289">合同勉強会 in 大都会岡山 -2014 Winter-</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+
+### あわせて申し込みたい
+<a class="doorkeeper-registration-widget" href="http://bonenkaigi.doorkeeper.jp/events/16471">忘年会議2014</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+
+<a class="doorkeeper-registration-widget" href="http://oisterdriven.doorkeeper.jp/events/17928">牡蠣駆動勉強会2014</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+
+それでは、皆さんと会場でお会いできることを楽しみにしています。

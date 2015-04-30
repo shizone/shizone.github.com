@@ -1,0 +1,124 @@
+---
+layout: post
+title: "AdventCalendarのPost数から変態ランキングを作る"
+date: 2012-12-07
+comments: true
+categories: 変態 Twitter Scala ATND
+---
+
+このエントリは [HENTAI Advent Calendar 2012 - 変態アドベントカレンダー -](http://atnd.org/events/33835) の7日目です。
+
+前日は [@ponkore](http://twitter.com/ponkore) さんの [Clojure から POI ってみる](https://gist.github.com/4216377) でした。
+
+## 本題
+
+さて、この変態アドベントカレンダー、 [変態アドベントカレンダー 2011](http://atnd.org/events/22020) 、 [変態アドベントカレンダー in Summer](http://atnd.org/events/29918) に引き続き3回目になります。
+前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)
+
+で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。
+つまり変態オブ変態です。
+
+手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。
+
+## 集計方法
+
+2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。
+幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。
+
+2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。
+
+## コード
+
+<script src="https://gist.github.com/4225814.js?file=HentaiRank.scala"></script>
+
+## 実行結果
+
+(もじゃ変,7)
+
+(backpaper0,6)
+
+(KASUYA, Daisuke,5)
+
+(Kuchitama,5)
+
+(dproject21,4)
+
+(s_kozake,4)
+
+(issps2009,3)
+
+(真っ赤なレモン,3)
+
+(soudai1025,3)
+
+(susumuishigami,2)
+
+(winplus,2)
+
+(dekokun,2)
+
+(megascus,2)
+
+(toshi__ya,2)
+
+(hakurai,2)
+
+(tanago238,2)
+
+(bufferings,2)
+
+(daiksy,1)
+
+(N.Murakami,1)
+
+(KTZ ,1)
+
+(posaunehm,1)
+
+(zephiransas,1)
+
+(jyukutyo,1)
+
+(はがねのつるぎ,1)
+
+(tango238,1)
+
+(nyaarto,1)
+
+(sudai1025,1)
+
+(kuchitama,1)
+
+(miya2000,1)
+
+(satohjohn,1)
+
+(?,1)
+
+(mike_neck,1)
+
+(組　長,1)
+
+(s_taichan,1)
+
+(ponkore,1)
+
+(zerosum_,1)
+
+(ryosms,1)
+
+(kshoji,1)
+
+(dpoject21,1)
+
+(inaton,1)
+
+# 俺だった。
+
+あ、因みに2012冬のdescriptionがATNDのユーザ名と違うためにバラけてる部分もありますね。
+まあその辺はあんま気にしないでください。
+
+## 最後に
+
+明日は [たんご](https://twitter.com/tan_go238) さんです。
+

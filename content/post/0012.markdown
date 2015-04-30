@@ -1,0 +1,37 @@
+---
+layout: post
+title: "ウェルカム・トゥ・オクトプレス"
+date: 2012-12-15
+comments: true
+categories: 大都会岡山 octopress 
+---
+
+このエントリは [大都会岡山 Advent Calendar 2012](http://www.adventar.org/calendars/39) の15日目です。
+
+前日は [@maepon](http://twitter.com/maepon) さんの [岡山（地方）でサテライト勉強会を開催することについて](http://maepon.skpn.com/web/entry-30.html) でした。
+
+
+## 本題
+
+このエントリは、 [合同勉強会in大都会岡山 -2012 Winter-](http://partake.in/events/4b7fe4db-858b-4193-b392-3406ed2b571f) より、ライブ更新しています。
+当ブログ構築に利用している [Octooress](http://atnd.org/events/34079) の紹介セッションです。
+
+## スライドはこちら
+
+<script async class="speakerdeck-embed" data-id="f1d43780281601300198123138196b5c" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
+
+「これからブログを始めてみようかな」とか「どこか別のところに移転したいなぁ」とかお考えの方は、
+この機会にOctopressを使ってみてはどうでしょうか？
+
+## この辺とか参考にすると捗るかも
+
+[GithubとOctopressでモダンな技術系ブログを作ってみる](http://blog.glidenote.com/blog/2011/11/07/install-octopress-on-github/)
+
+[Octopress + Github Pages + Dropbox でブログを構築](http://www.sankitch.me/blog/2012/05/05/build-octopress-on-github-dropbox/)
+
+[Octopressのデザインテーマを変更する](http://namusyaka.github.com/blog/2012/10/03/github-jekyll/)
+
+## 最後に
+
+明日は [@skrb](https://twitter.com/skrb) さんです。
+えっ、さくらばさん？マジで！？

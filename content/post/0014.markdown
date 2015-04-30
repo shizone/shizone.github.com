@@ -1,0 +1,70 @@
+---
+layout: post
+title: "最近行ってきた勉強会のまとめ"
+date: 2013-08-01
+comments: true
+categories: 勉強会 
+---
+
+長らく放置プレイをキメていたので、ここいらで最近行ってきた勉強会とかをまとめたいと思います。
+
+## 2013/05/11 オープンセミナー2013@岡山
+
+毎年恒例の [オープンセミナー岡山](http://openseminar.okaya.ma/2013/) です。  
+今回は実行委員長として開催してきました。  
+
+今年のテーマは「若くして活躍されている技術者」ということで、10代〜30歳までで講師をチョイスしてみました。  
+また、技術者以外の視点でのお話を聞きたいなーと思ったので、経営者の方を2名お呼びしました。  
+同日に他地方でデカいイベントが何件かあったのと、講師の知名度的には例年と比べるとややマイナーな布陣になったので参加者的には落ち込んだ感がありましたが、アンケートを見る限りは反響はこちらの意図した通りのリアクションが返ってきたのでその辺りはよかったかなーと思います。
+
+来年の実行委委員長は、 [ハーレムさん](http://twitter.com/mako_wis)です。楽しみですね。
+
+## 2013/05/14 Java Day Tokyo 2013
+
+前のエントリでも書いてるのですが、会社に交通費を出してもらって [Java Day Tokyo 2013](https://oj-events.jp/public/application/add/64) に参加してきました。  
+正直個人的には「おおっこれは！」と思うようなサプライズはあまりなかったのですが、久々に他地方の方と悪ノリしたりして色々楽しめました。  
+自社からあと2名連れてきたのですが、色々と感じるものもあったみたいで、連れてきた甲斐があったかなーと思います。
+
+## 2013/06/15 Java Day Tokyo 2013報告会@岡山
+
+で、Java Day Tokyo 2013の報告会を地元で開催してきました。  
+個人的に一番印象に残った『E-2「Java IDE の最新トレンド」』を元に、3つのIDEについて紹介しました。  
+現実問題大都会みたいな田舎では尚のことEcliなんとかが圧倒的なシェアを誇っているので、それ以外のものも是非触ってみて欲しいと思いネタをチョイスしてみました。  
+報告会の翌日から仕事で関東に移動だったので、色々とバタバタしてしまいましたね。
+
+## 2013/06/22 JPUG 2013 夏セミナー
+
+[#た](http://twitter.com/soudai1025) がJPUGの総会に参加するからお前も参加しろと煽られたので参加してきました。  
+が、実際のとこはろくに話も聞かずに次に登壇予定だった岡山Ruby会議02(後述)の死霊作ったり、そのための技術検証とかしてました。  
+隣の人には
+
+<blockquote class="twitter-tweet"><p>隣りに座ってる人のポスグレへの興味の無さが酷い。</p>&mdash; ( ˘⊖˘) ｡o (@megascus) <a href="https://twitter.com/megascus/statuses/348310596682407936">June 22, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+とか言われる始末。  
+まあ、隣の人もなんかJavaのコードとか書いてましたけどね。
+
+## 2013/07/06 岡山Ruby会議02
+
+大都会では2回目となるRegional Ruby KaigiにLT登壇してきました。  
+内容としては、 [lambda_driver.gem](http://yuroyoro.github.io/lambda_driver/) の紹介をしてきました。  
+5分で関数型プログラミングの考え方みたいなのを伝えるのは難しいだろうなと思ったので、思いっきり投げっぱなす感じで発表してきました。  
+その辺の話がわかる人には「flipの話とかいきなりしても何が嬉しいかわかんねえだろ！」と突っ込まれました。そうですね。僕もそう思います。  
+
+死霊はこちら
+<script async class="speakerdeck-embed" data-id="55b473b0c83f013044650acab7f96924" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
+
+## 2013/07/27 TDD Boot Camp Tokyo 2013-07
+
+来月には [TDD Boot Camp 岡山 2.0](http://tddbc.doorkeeper.jp/events/4941) が開催されるしTAとして事前に素振りしときたいなーと思っていたので、東京のTDDBCに参加してきました。  
+嬉しいことにScalaでペアが組めました！！  
+ペアを組んだ [@nisshieeorg](https://twitter.com/nisshieeorg) さんのお陰でガッツリと関数型っぽいコードになって満足でした。
+
+<blockquote class="twitter-tweet"><p>多くのチームが名前大事を声高らかに叫ぶ中、ガン無視して型大事で突き進んでいたScalaチーム <a href="https://twitter.com/search?q=%23tddbc&amp;src=hash">#tddbc</a></p>&mdash; 食洗機パイセン (@razon) <a href="https://twitter.com/razon/statuses/361034083670818817">July 27, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+コードは [こちら](https://github.com/shizone/tddbc201307)
+
+## まとめ
+
+こまめに参加レポ書け俺。

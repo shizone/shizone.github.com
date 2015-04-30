@@ -1,0 +1,22 @@
+---
+layout: post
+title: "JJUG ナイト・セミナーでLTしてきた"
+date: 2013-08-21
+comments: true
+categories: 勉強会 LT JJUG 
+---
+
+[JJUG ナイト・セミナー 「ビール片手にLT&納涼会」 ](http://jjug.doorkeeper.jp/events/5347) に参加してLTしてきました。
+
+## 死霊(LTで使ったやつからちょっと弄ってます)
+<script async class="speakerdeck-embed" data-id="09f3be50ebda013019536e84def31497" data-ratio="1.33507170795306" src="//speakerdeck.com/assets/embed.js"></script>
+
+## だけじゃわからないと思うので動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/Vny3t46ke44?list=PLuLCOB9HcrT158On7BxjnQoJohO7eKGIc" frameborder="0" allowfullscreen></iframe>
+
+## 参加してみて
+大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。  
+次はマジメな奴に挑戦してみたいですね。
+
+はっ、[JJUG CCC](http://www.java-users.jp/?p=598) か…！
+

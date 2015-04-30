@@ -1,0 +1,37 @@
+---
+layout: post
+title: "我々はいろふだ"
+date: 2012-12-09
+comments: true
+categories: irof いろふ
+---
+
+このエントリは [いろふ Advent Calendar](http://atnd.org/events/34079) の9日目です。
+
+前日は [@kazuhito_m	](http://twitter.com/kazuhito_m) さんの [いろふさんなら横でビルドしてるけど](http://www.bnbm.tk/2012/12/blog-post.html ) でした。
+
+
+## 本題
+
+世間ではいろふさんはインスタンスが増えるとかどうとか俄に囁かれていますね。しかし私は思うのです。
+いろふ Advent Calendarに参加している我々ももしかしていろふのインスタンスではないのか…と。
+
+そんな訳でこんなグリモンをゴリッと書いてみました。
+
+<script src="https://gist.github.com/4245034.js?file=irof.user.js"></script>
+
+### 適用結果
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/8021q1Bu_IBi9hFYpo4ABtMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ao6zjZfoLVw/UMScFldIX2I/AAAAAAAAARU/bcGGToWF8kw/s800/Screenshot_from_"2012-12-09"
+
+うん。これが正しい。
+
+## 諸注意
+
+いろふ Advent Calendar参加者の皆様はコレを導入してしまうと誰が誰だかわかんなくなって記事書くのが全く以て捗らなくなるので注意してください。
+導入してｷﾀｺﾚと思いつつもこれ書く時に頭を抱えて泣く泣く切った先駆者からの忠告です。
+
+## 最後に
+
+明日は [@kimukou_26](https://twitter.com/kimukou_26) さんです。
+

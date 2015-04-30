@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Octopressに引越しした"
+date: 2012-03-16
+comments: true
+categories: 
+---
+なんかはてながアレでアレな感じになっていたので、ちょっと話題になっていたOctopress + github pagesに移行してみました。
+
+元々「Scalaのシンタックスハイライト効くじゃんすげーじゃん」ではてなダイアリー始めたんですけど、最近はGist使ってるしあんま意味ねーなーとかも思い始めていたので。

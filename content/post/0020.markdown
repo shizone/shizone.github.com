@@ -1,0 +1,131 @@
+---
+layout: post
+title: "合同勉強会で「JJUG CCCで登壇してきたよ」という話をしたかった"
+date: 2013-12-15
+comments: true
+categories: 大都会岡山 合同勉強会 JJUG Scala 
+---
+
+これは [大都会岡山 Advent Calendar 2013](http://www.adventar.org/calendars/75) の15日目のエントリです。
+
+前日は [@sinmetal](https://twitter.com/sinmetal) の[転職してました](http://sinmetal.hatenablog.com/entry/2013/12/14/020117) でした。
+
+## 本題
+本来であれば [合同勉強会 in 大都会岡山 -2013 Winter-](http://gbdaitokai.doorkeeper.jp/events/5725) を開催してきた的な話をするつもりだったのですが、娘が入院してしまったため、そこで発表しようとしていた話にしたいと思います。
+
+* あ、娘は割と大丈夫です。点滴も取れて元気なもんですね。
+
+### [例によってトゥギャり](http://togetter.com/li/602756)
+
+## 合同勉強会って [なにゃねん](http://togetter.com/li/436304)
+
+大都会岡山の勉強会コミュニティがよってたかってアレしてコレする勉強会です。  
+多分源流は [このへん](http://togetter.com/li/127551)  
+合同勉強会と言っておきながら僕が県外の人を誘致してる結果JVM系の人が妙に多い気がしますが気にしてはいけません。
+
+## 「JJUG CCCで登壇してきたよ」という話をしたかった
+
+### JJUG CCCとは
+
+[日本Javaユーザーグループ](http://www.java-users.jp/) 主催のクロスコミュニティカンファレンスです。  
+春と秋、年2回開催されています。
+
+[今回の告知ページ](http://www.java-users.jp/?page_id=695)
+
+セッションを公募(Call for Papers)しており、挑戦してみたらうっかり通ったので、行ってきました。  
+ネタが通ったのは他の人と方向性が被らなかったからみたいです。  
+[あべさん](https://twitter.com/mao_instatlife) とネタが微妙に被って、殴り合いの結果俺がセッション、あべさんがBoFとなったとかなんとか。
+
+### 聞きに行ったセッション
+
+* 基調講演-1
+  - [資料](http://www.slideshare.net/yusuke/jjug-ccc-2013fallkeynoteshare)
+  - この基調講演の資料を作るドキュメンタリー的なLTが懇親会であったのですが、それがすげー面白かった。
+  - 最初の頃はだいぶ前から着手してマジメに作ってたのに最近は直前になって資料作り始めてうんたらかんたらみたいな。
+  - わかる。
+* 基調講演-2 2013 エンタープライズ Java 最前線
+  - 直前に [アレ](http://jvm.techmood.jp/2013/11/05/343) なことがあったので、どことなく(というかごく一部が)不穏な感じでしたね。
+  - マサカリの切り返し方は、さすがJavaエバンジェリストでした。
+  - [#てらだよしおがんばった](https://twitter.com/search?q=%23%E3%81%A6%E3%82%89%E3%81%A0%E3%82%88%E3%81%97%E3%81%8A%E3%81%8C%E3%82%93%E3%81%B0%E3%81%A3%E3%81%9F&f=realtime)
+* H-1 ジェネリクスの基礎とクラス設計への応用
+  - [資料](http://www.slideshare.net/nagise/jjug2013-public)
+  - ジェネリクスといえばなぎせさん
+  - 簡単な話からどんどん雲行きが怪しい方向に進み始める構成が秀逸だった。
+  - 懇親会LTの [Semicolonless Java8](http://d.hatena.ne.jp/Nagise/20131111/1384170146) も面白かった。
+* R1-2 JavaFX 8に関する7つのこと
+  - [資料](http://www.slideshare.net/skrb/javafx-8-7)
+  - 今回のセッションでJavaFXについて調べてたら「それ8からだから」的な事案に結構ぶつかってて、早いとこ8に移行したいなーとおもっていた自分にはうってつけのセッションだった
+  - まだまだバギーな部分もあり、その辺も辛口にぶった切るさくらばさんらしいセッションでしたね。
+  - Nashornの具体的なベンチマーク結果が見れたのも良かった。
+* H-3 ユニットテスト改善ガイド
+  - [資料](http://dev.classmethod.jp/testing/unittesting/working-effectively-with-unit-testing/)
+  - Javaのテストといえば渡辺さん
+  - 実際にユニットテストを導入するにあたって躓きやすいポイントがわかりやすく解説されていました。
+  - 思わず「うんうん」と唸ってしまう内容。
+  - 「無理に導入すると不幸になるよ」という話と、その辺の判断基準が具体的に示されているので、是非目を通して頂きたい。
+* H-4 リーンスタートアップ x Java
+  - [資料](http://www.slideshare.net/yusukey/x-java-jjug-jjugccc-ccch4)
+  - [イケメン](https://twitter.com/yusuke) がサムライズムの業務をJavaでどのように効率化していっているか的な話。
+  - Yayoi4Jわろす
+  - 自身の業務をプログラミングでどのように効率化していくか？という観点、大事ですよね。
+* R2-5 ScalaでJavaFXのWebViewを愛でる試み(てか自分が話した)
+  - [こっち見れ](http://shizone.github.io/blog/2013/11/10/jjuc-ccc-2013-falldescalatojavafxfalsehua-wositekita/)
+* R2-6 [BOF] JVM言語パネルディスカッション
+  - [あべさんがやらかしてくれました。](http://d.hatena.ne.jp/mao_instantlife/20131111/1384183243)
+  - [「Kotlinアイドルってなんですか？」](http://togetter.com/li/553334) って質問するサクラの役を忘れていました。 [たろーさん](https://twitter.com/ngsw_taro) ごめんなさい。
+
+### 発表のネタに使ったアプリ
+
+[https://github.com/shizone/tengu](https://github.com/shizone/tengu)
+
+* スライドのエンジンとして使っていた [picture show](https://github.com/softprops/picture-show) は結局窓から投げ捨てました。
+  - 2.9向けのビルド設定のまま止まっている
+  - 指定してあるバージョン依存ライブラリがもうリポジトリ上にない
+  - 自分でメンテナンスするのもアレだなーと思った。
+* エンジンとして [reveal.js](http://lab.hakim.se/reveal-js/#/) を使うことにした。
+  - PDF出力ができるのすげーいいですね
+  - 社内での手順書作るのにも使っちゃった
+* スライドを表示するところまではできてる
+* Speaker Notesの機能がまだできてない
+  - reveal.jsのSpeaker Notesを使うための設定云々のところをアプリ側で吸収してあげればよさそうだなーとか。
+* PDF Exportは取り敢えずChrome任せ
+  - JavaFX8でなんとかほげほげできるようになるといいなぁ
+
+### 次にJJUG CCCに登壇するのはあなたです！
+
+* 地方からの登壇者には交通費が支給されるので、「岡山だから…」と尻込みしている人には是非挑戦していただきたい！
+* 僕も次回リベンジしたいですね。
+
+## 謝辞
+
+急なお願いにも関わらず、快く合同勉強会の運営を引き継いでくれた皆様、ありがとうございました。
+
+* 司会
+  - [根本さん](https://twitter.com/zephiransas)
+* 受付
+  - [ハーレムさん](https://twitter.com/mako_wis)
+  - [あべさん](https://twitter.com/mao_instantlife)
+
+(なんか受付はザルだったみたいですが)
+
+例によって会場を提供してくださった [岡山県立大学](http://www.oka-pu.ac.jp) さん、毎度毎度ありがとうございます。
+
+豪華なプレゼントを用意してくださった [フリュー](http://www.furyu.jp) さん、ありがとうございました。
+
+あと、僕がセッション辞退したためにトップバッターとなってしまった [パトさん](https://twitter.com/patorash) 、なんかプレッシャーになったみたいで申し訳なかったです。
+
+<blockquote class="twitter-tweet" lang="ja"><p>あれ！？short1なくなってる！俺が1番手なの！？</p>&mdash; 尾古 豊明(パトラッシュ) (@patorash) <a href="https://twitter.com/patorash/statuses/411292085371678720">2013, 12月 13</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>まじでー！！！</p>&mdash; 尾古 豊明(パトラッシュ) (@patorash) <a href="https://twitter.com/patorash/statuses/411292111506374657">2013, 12月 13</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>開場あっためれんぞー！！！</p>&mdash; 尾古 豊明(パトラッシュ) (@patorash) <a href="https://twitter.com/patorash/statuses/411292186345349121">2013, 12月 13</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>会場</p>&mdash; 尾古 豊明(パトラッシュ) (@patorash) <a href="https://twitter.com/patorash/statuses/411292236605714432">2013, 12月 13</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 最後に
+
+翌日は [コーラ](https://twitter.com/LuckOfWise) の [そうだ床屋に行こう。](http://www.luckofwise.com/2013/12/blog-post_16.html) です。

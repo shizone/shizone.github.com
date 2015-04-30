@@ -1,0 +1,52 @@
+---
+layout: post
+title: "JavaFX 8 on Scala"
+date: 2013-12-21
+comments: true
+categories: Scala JavaFX Java8 
+---
+
+これは [JavaFX Advent Calendar 2013](http://www.adventar.org/calendars/146) の21日目のエントリです。
+
+前日は [@MulticolorWorld](https://twitter.com/MulticolorWorld) さんの [JavaFXアプリケーション製作中に作ったライブラリの話(未完成)](http://jimanglaurant.hatenablog.com/entry/2013/12/20/105413) でした。
+
+## 本題
+
+タイトルの通り、ScalaでJavaFX8を使う話です。
+
+[JJUG CCC 2013 Fall](http://www.java-users.jp/?page_id=695) で発表するため資料作りしてる最中に
+
+<blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/skrb">@skrb</a> 8に変えてみたら、Scalaのビルドツールがクラッシュしちゃいました…。&#10;取り敢えずは7でガマンですかねぇ…。</p>&mdash; マイクチェックの時間だ！コラァ！！ (@razon) <a href="https://twitter.com/razon/statuses/397026508167852032">2013, 11月 3</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ってことがあったので、ちゃんと動かすために調べてみました。
+
+### Scalaのバージョン指定
+
+Scalaは2.10.2以降のバージョンを指定する必要があります。
+
+### sbtのバージョン指定
+
+sbtは、0.12系だと動作しないので0.13系を指定します。  
+
+### jfxrt.jarの配備位置の変更対応
+
+sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。  
+当方ではJAVA_HOMEからの相対パスで指定する方式( [参考](http://stackoverflow.com/questions/14123749/how-to-detect-javafx-runtime-jar-in-sbt) )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。  
+両方に対応するように修正してみました。
+
+<script src="http://gist-it.appspot.com/github/shizone/scala-javafx-fxml.g8/blob/master/src/main/g8/detect_javafx_runtime.sbt"></script>
+
+[拙作のGiter8テンプレート](https://github.com/shizone/scala-javafx-fxml.g8) で対応しているので、参考にして頂ければ。
+
+## 余談
+
+[自前のJavaFXアプリ](https://github.com/shizone/tengu) で動作確認してみたのですが、WebViewはだいぶ良くなってますね。  
+露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。
+
+![Tengu on JavaFX8](https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_"2013-12-21"
+グリグリ動きますね
+
+## 最後に
+
+翌日は [@kikutaro_](https://twitter.com/kikutaro_) さんの [JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx](http://kikutaro777.hatenablog.com/entry/2013/12/22/120744) です。

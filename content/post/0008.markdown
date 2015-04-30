@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Javaの痛IDE用画像が欲しい(2)"
+date: 2012-08-10
+comments: true
+categories: Java Img 変態
+---
+
+このエントリは [変態アドベントカレンダー in Summer](http://atnd.org/events/29918) の何日目かはもうよくわかりません。
+
+前回は [@dproject21](http://twitter.com/dproject21) さんの [「iStockPhoto乞食」という変態プレゼンターな生き方](http://d.hatena.ne.jp/dproject21/20120808/1344426335) でした。
+
+一周前の [Javaの痛IDE用画像が欲しい\(1\)](http://shizone.github.com/blog/2012/07/30/javafalsetong-ideyong-hua-xiang-gayu-sii-1/) の完結編になります。
+
+## 今回の成果物
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/5SzShRqxzRrjmMfipmlFX2v193fpos-OgzdMgyvGVEI?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-VIPlri4fHq0/UCUbtwNKoNI/AAAAAAAAAQs/lr2A3zPHPYE/s640/okymjavaco_fix.png" height="640" width="549" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">送信者 <a href="https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&authkey=Gv1sRgCKL49v_py4HhAw&feat=embedwebsite">変態アドベントカレンダー</a></td></tr></table>
+
+SexyEditorへの適応例
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/QA8BdWxpvyCUnBr7GvUwcWv193fpos-OgzdMgyvGVEI?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-6MbmDd1ffFg/UCUbwYY5ItI/AAAAAAAAAQ0/wXNpKApEj-U/s640/Screenshot_from_"2012-08-10"
+
+これで [#okajug](http://okajug.appspot.com/) で痛IDEを披露して周囲をドン引きさせることができますね。
+
+# 最後に
+
+変態アドベントカレンダーも残すところあと2日となりましたが、大トリは誰になるのでしょうか？
+
+期待して待ちたいと思います。

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "ClojureとSinatraっぽいほうのSparkで遊んでみた"
+date: 2014-10-17
+comments: true
+categories: Clojure Spark
+---
+
+なんとなく思うところがあって、Clojureと [SinatraっぽいほうのSpark](http://www.sparkjava.com/) (紛らわしいんよな…)でHello Worldしてみました。
+
+<script src="http://gist-it.appspot.com/github/shizone/ClojureOnSpark/blob/master/project.clj"></script>
+
+<script src="http://gist-it.appspot.com/github/shizone/ClojureOnSpark/blob/master/src/app.clj"></script>
+
+Java8で書くのと比べて色々とクドい感じだけど、まぁこの辺はマクロでよしなにせぇっつう感じなんですかねぇ。

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "[読了]Cooking for Geeks"
+date: 2014-11-17
+comments: true
+categories: 本 料理 
+---
+
+<blockquote class="twitter-tweet" lang="ja"><p>ティッシュを買いそびれたこたにんからティッシュが飛んできた <a href="http://t.co/3rOLfHsUGu">pic.twitter.com/3rOLfHsUGu</a></p>&mdash; ゴッドローブ・マイツェン (@razon) <a href="https://twitter.com/razon/status/520209278905241601">2014, 10月 9</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+誕生日に [こたにん](https://twitter.com/kotanin) に貰った Cooking for Geeksを読み終わったので読書感想文でも書こうかと。
+
+## どんな本なのん
+天下のオライリー発の料理本ということで、料理本なんだけど雰囲気は技術書という、独特の本です。  
+文体はユーモアに溢れていて楽しく読み進めることができました。
+
+熱を加えることにより食材にどんな変化が起こるのかや、味や香りの組み合わせ、食中毒、食品添加物についてなど、ギークが喜びそうな薀蓄が満載でまさに「技術書」といった内容。  
+モダンな調理法や謎ハードでの調理法も色々と載っており、そういうのが好きな人にも楽しめるのではないかと。
+
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ja_KS/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/shiz0ne/posts/769400323128517" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shiz0ne/posts/769400323128517">投稿</a> by <a href="https://www.facebook.com/shiz0ne">もじゃ 変</a>.</div></div>
+Cooking for Geeksはしか
+
+マニアックな内容ばかりかというとそういう訳でもなく、道具の基本的な使い方(アメリカの、だけど)もあって初心者でも大丈夫だと思います。  
+邦訳にあたって日本と事情が違うところに関してはしっかりと訳注が入っており、ごあんしんです。
+
+レシピ的なものも随所に散りばめられており、一応レシピ本としても使うことはできます。  
+(ティム・オライリーのレシピなんかもある！)  
+元が洋書なだけあって、アメリカナイズされたレシピが日本人から見ると新鮮で、外国に全然行かない引き籠もりのジャップは「アメリカの食文化ってこんな感じなのかー」と新鮮な気持ちで見ることができました。
+
+## さいごに
+普段から料理を楽しんでいる人にも、料理してみたいんだけど尻込みしている人にもオススメできる本なので、興味があったらチェックしてみてくださいね。  
+(非エンジニアは首を傾げそうだけど)
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=razon-22&o=9&p=8&l=as1&asins=4873115094&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+

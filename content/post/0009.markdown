@@ -1,0 +1,63 @@
+---
+layout: post
+title: "TDDBC岡山1.0が開催されました"
+date: 2012-08-26
+comments: true
+categories: TDDBC TDD 勉強会 
+---
+
+2012/08/25(Sat)に、 [TDDBC](http://devtesting.jp/tddbc/) 岡山1.0が開催されました。
+
+スタッフとして懇親会場確保したり、お弁当の注文とかしたり、受付したり、お金の計算したり、ちょびっとだけTAしたりしてました。
+
+# 開催までの道のり
+
+[オープンセミナー2011@岡山](http://openseminar.okaya.ma/2011/) であべさん( [@mao_instantlife](https://twitter.com/mao_instantlife) )が開催宣言したのがTDDBC大都会の始まりです。その時にあべさんに「開催したいから協力してよー」的なことを言われて二つ返事でOK出してたような気がします。
+そこからちょいちょい大都会の技術コミュニティ関係の人らに赤紙飛ばしてTAスタッフが集まってきた感じですね。
+
+最初の足掛かりとして、 [OITEC](http://oitec.vbstation.net/) で [TDD Boot Camp in Tokyo](http://atnd.org/events/16311) サテライト開催としてUstを流しました。
+
+次に、[第21回オープンラボ岡山](http://openlab.okaya.ma/wiki.cgi?page=%CA%D9%B6%AF%B2%F1%2F%C2%E8021%B2%F3) で、[@kkd](https://twitter.com/kkd) さんを岡山にお招きしてTDDについての発表を行なっていただきました。
+
+そしてスタッフ向けとして、弊社オフィスを使ってTDDBC岡山0.5をひっそりと開催しました。
+TA向け教育としてTDDBC札幌のお題を皆で解きました。
+多分1.0でScala希望で来る人いないからJavaでやったほうがいいよねーとか言いながら、環境構築するのが面倒くさくなって結局Scalaでやっちゃった記憶があります。
+あべさんもScalaでやってましたっけね？
+
+TDDBCとか直接は関係ないのですが、[オープンセミナー2012@岡山](http://openseminar.okaya.ma/2012/) で[@t_wada](https://twitter.com/t_wada) さんをお招きしてお話していただきました。講演中に「あべさんがTDDBCを開催するので」と退路を断っていたのが印象的でしたね。
+
+そんなこんなで、何とかTDDBC岡山開催に漕ぎつけました。
+
+# TDDBC岡山当日について
+
+最初に受付を行なってお金を計算してお昼の買い出しに行って…と雑務中心にてんやわんやでした。
+有料のイベントは大変でしたね。何とかお金についてはキッチリ計算が合ったので一安心でした。
+
+TA要員としては正直戦力になれなかったなぁという感じです。
+次開催するときに是非リベンジしていきたいですね。
+
+懇親会ではいつもの大都会節全開で実にカオスな進行になってよかったと思います。
+初めて岡山にお越しいただいた方々にも楽しんでいただけたようでなによりです。
+
+<blockquote class="twitter-tweet" lang="ja"><p>岡山の LT 大会は本当に楽しいwwww <a href="https://twitter.com/search/?q=%23せやな"><s>#</s><b>せやな</b></a></p>&mdash; Takuto Wadaさん (@t_wada) <a href="https://twitter.com/t_wada/status/239331860835094528" data-datetime=""2012-08-25"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="ja"><p>岡山のLT面白すぎるw <a href="https://twitter.com/search/?q=%23tddbc"><s>#</s><b>tddbc</b></a> <a href="https://twitter.com/search/?q=%23せやな"><s>#</s><b>せやな</b></a> <a href="https://twitter.com/search/?q=%23あべさん抱いて"><s>#</s><b>あべさん抱いて</b></a></p>&mdash; なかやん・ゆーき・オンラインさん (@pocketberserker) <a href="https://twitter.com/pocketberserker/status/239332289845280768" data-datetime=""2012-08-25"
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ryouteiの座・スタジアムは大都会のIT勉強会クラスタ最大の武器ですね。
+
+当日の状況については例のごとくトゥギャってます。
+会場の熱気を少しでも感じていただければ。
+
+[TDDBC大都会岡山1.0 まとめ #tddbc](http://togetter.com/li/360619)
+
+# さいごに
+
+TDDBC岡山の開催にあたっては、主催のあべさんの多大なる尽力に依るところが非常に大きかったと思います。本当にお疲れ様でした。
+また、県外からお越しいただいた皆様、初めての開催で未熟な岡山スタッフを暖かくサポートしていただき非常に助かりました。ありがとうございます。
+参加者の皆様、TDDBC岡山をお楽しみいただけましたでしょうか？少しでも今後の糧になったら幸いです。
+
+次回もよろしくね！
+
+<a href="http://twitpic.com/ank8mo" title="そして間違いなく今日一番のショット。みんなの笑顔が輝いてるぜ！ ... on Twitpic"><img src="http://twitpic.com/show/thumb/ank8mo.jpg" width="150" height="150" alt="そして間違いなく今日一番のショット。みんなの笑顔が輝いてるぜ！ ... on Twitpic"></a>

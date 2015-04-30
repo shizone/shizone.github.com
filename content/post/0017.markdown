@@ -1,0 +1,41 @@
+---
+layout: post
+title: "TDD Boot Camp岡山2.0が開催されました"
+date: 2013-09-22
+comments: true
+categories: TDDBC TDD 勉強会  
+---
+
+去年の [TDDBC大都会1.0](http://shizone.github.io/blog/2012/08/26/tddbcgang-shan-gakai-cui-saremasita/) に続き、TDDBC岡山2.0が開催されたのでスタッフとして参加してきました。
+
+# 開催の模様
+
+## Togetter
+[http://togetter.com/li/556695](http://togetter.com/li/556695)
+
+## Photo(Thx! > [@zephiransas](https://twitter.com/zephiransas))
+[http://www.flickr.com/photos/zephiransas/sets/72157635436498440/](http://www.flickr.com/photos/zephiransas/sets/72157635436498440/)
+
+## Movie(Thx! > [@kiyokura](https://twitter.com/kiyokura))
+### 基調講演
+<iframe width="420" height="315" src="//www.youtube.com/embed/lLdA4cO_mag" frameborder="0" allowfullscreen></iframe>
+
+### ペアプロデモ
+<iframe width="420" height="315" src="//www.youtube.com/embed/lkmDNORcRPU" frameborder="0" allowfullscreen></iframe>
+
+# スタッフとして参加してみて
+
+去年に引き続きTAとしての参加でしたが、 [TDD Boot Camp Tokyo 2013-07](http://tddbc.doorkeeper.jp/events/4663) に参加者として初参加した時の経験が色々とTA業に活きた気がします。  
+反面、ペアプロデモについては課題を多く残す形となってしまいました。環境周りでペア双方が慣れておいたほうがよかったですね。Mac難しい。
+
+# 次回について
+
+次回は1.0、2.0のスタイルで開催することはないかなーと思います。規模を縮小するか、既存参加者向けの発展的なイベントの開催となるようです。
+
+# さいごに
+
+1.0に続き、実行委員長のあべさん( [@mao_instantlife](https://twitter.com/mao_instantlife) )、本当にお疲れ様でした。  
+今回もあまりイベントの設営でお手伝いできなかった感がありますが（東京への単身赴任が重なった所為ですが）、無事開催できてよかったと思います。
+
+<img src="http://farm8.staticflickr.com/7448/9701412230_1c15c193cf_c.jpg"/>
+どうでもいいけど、この写真のドヤ感が酷い

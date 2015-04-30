@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Javaの痛IDE用画像が欲しい(1)"
+date: 2012-07-30
+comments: true
+categories: Java Img 変態
+---
+
+このエントリは [変態アドベントカレンダー in Summer](http://atnd.org/events/29918) の15日目です。
+寝るまでが今日です。
+
+前日は [@backpaper0](http://twitter.com/backpaper0) さんの [例外投げ祭り](http://d.hatena.ne.jp/backpaper0/20120728/1343484422) でした。
+
+## 前置き
+
+今回のネタは、「HENTAI」路線で行こうかなーと。
+
+IntelliJ IDEAには、 [Sexy Editor](http://plugins.intellij.net/plugin/index?pr=idea&pluginId=1833) という痛IDEを作るためのPluginが存在します。
+で、このPlugin、拡張子ごとに別の画像が設定できたりとかそんな感じで素敵なんですが、
+今んとこScala用としてScalaちゃんの画像を用意していますがJava用の画像がないなーと前々から思っていました。
+
+実は [岡山Javaユーザ会](http://okajug.appspot.com/) には岡山Java子ちゃんというマスコットキャラがいて、
+（参考画像：
+[このへん](https://twitter.com/okazaking1977/status/157770403119501312/photo/1) とか [このへん](http://via.me/-2v6hqbo)
+）
+この子を痛IDE用素材として使いたいなーと思ったので自作することに。
+今回は第1回目として取り敢えず軽く書いて、単色を置いて見ました。
+
+## 今回の成果物
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/IM6TCUyuvnIOz7h8pBt8M2v193fpos-OgzdMgyvGVEI?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-QROIYXPCUoA/UBVdu8piWuI/AAAAAAAAAP8/CW250vfDbk8/s400/okymjavaco_1.png" height="400" width="300" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">送信者 <a href="https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&authkey=Gv1sRgCKL49v_py4HhAw&feat=embedwebsite">変態アドベントカレンダー</a></td></tr></table>
+
+で、おまけでDuke準拠？のカラーとかも。
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/7lVY6SJctsUY8Zs1rzZAemv193fpos-OgzdMgyvGVEI?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-2L-GEZm-gUs/UBVdu7QFWYI/AAAAAAAAAQE/wa_gvpFnTT8/s400/okymjavaco_2.png" height="400" width="300" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">送信者 <a href="https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&authkey=Gv1sRgCKL49v_py4HhAw&feat=embedwebsite">変態アドベントカレンダー</a></td></tr></table>
+
+試しにSexy Editorに設定してみたりとか
+
+<table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/aRzoQXMILC3oDUcZfesA-2v193fpos-OgzdMgyvGVEI?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-QMICsJDaBSE/UBa3fdaD91I/AAAAAAAAAQY/IfeD7bX8Ws8/s640/Screenshot_from_"2012-07-31"
+
+どうせアドベントカレンダーはもう一周するので、完成は次回という事で。
+
+## 最後に
+
+明日は根本さんこと [@zephiransas](http://twitter.com/zephiransas) さんです。
+

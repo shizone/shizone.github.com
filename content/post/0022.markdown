@@ -1,0 +1,179 @@
+---
+layout: post
+title: "今年の振り返りを俺のTogetterでアレするアレ"
+date: 2013-12-27
+comments: true
+categories: Togetter 
+---
+
+[去年の軍団長のアレ](http://blog2.gods.holy.jp/?eid=135) が俺無双だったので、今年の大都会界隈もTogetterで振り返ろうとかいうアレですよアレ。  
+完全に身内ネタなのでごめんねごめんね。
+
+<!-- more -->
+
+## 1月
+
+### [パトさん](https://twitter.com/patorash) がにゃんにゃん言ってた
+
+<script src="http://togetter.com/js/parts.js"></script><script>tgtr.ListWidget({id:'436304',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'438027',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+案の定マッハで廃れましたね。
+
+### 岡山Python勉強会が始まった
+
+<script>tgtr.ListWidget({id:'443609',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+公式ハッシュタグは #okaPython なのだが、実質 #おっpy になってしまった感ある
+
+### 座席表で悪ノリ
+
+<script>tgtr.ListWidget({id:'445602',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'445695',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'445621',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+ごめんなさい。
+
+### 根本さんがパンツをアレしてソレしてた
+
+<script>tgtr.ListWidget({id:'447952',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+これはひどい。
+
+### [ハーレムさん](https://twitter.com/mako_wis) 関連
+
+<script>tgtr.ListWidget({id:'447973',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'451832',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'501009',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+いじられキャラとしてすっかり定着。
+
+## 3月
+
+### すごいH本読書会
+
+<script>tgtr.ListWidget({id:'468829',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+結局第2回が開催されてないんですけど！！
+
+## 4月
+
+### [ハンバーグの会](http://www.circleaf.com/groups/15) 発足
+
+<script>tgtr.ListWidget({id:'483004',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+最近ハンバーグ食べてない
+
+## 5月
+
+### [オープンセミナー2013@岡山](http://openseminar.okaya.ma/2013/) 開催
+
+<script>tgtr.ListWidget({id:'500976',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+色々と至らぬ委員長業でしたが、お力添え頂きました皆様ありがとうございました。  
+来年のハーレム委員長にも期待ですね！
+
+### Agile Japan 2013 岡山サテライト & okayama-js
+
+<script>tgtr.ListWidget({id:'508322',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'508329',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+息子の運動会で行けず。無念。
+
+### [#た](https://twitter.com/soudai1025) がいつもの要領で弄られるアレ
+
+<script>tgtr.ListWidget({id:'510435',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+福山に転職してから出番が少なくなった感ある。
+
+## 6月
+
+### #ひむひむマジひむひむ
+
+<script>tgtr.ListWidget({id:'512845',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+このあたりで大都会界隈でも [ひむひむ](https://twitter.com/eielh) がキャズム超えた感ある。
+
+### #みずきさんかわいい
+
+<script>tgtr.ListWidget({id:'517500',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+裏で [はやさかさん](https://twitter.com/r_hayakasa) がiOS7の人柱やって遊んでたので勉強会後に皆色めき立ってた記憶がある。
+
+### Java Day Tokyo 2013報告会
+
+<script>tgtr.ListWidget({id:'518745',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+翌日俺が多摩にドナドナされていきました。
+
+## 7月
+
+### 倉敷と岡山の給食環境の違い(たぶん)
+
+<script>tgtr.ListWidget({id:'528656',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+先のJUnit実践入門読書会あたりで [根本さん](https://twitter.com/zephiransas) におじいちゃんキャラを設定したのだがこのへんになるとすっかり定着した感ある。
+
+### 岡山Ruby会議02
+
+<script>tgtr.ListWidget({id:'529536',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+いつもお世話になっている [岡山県立大学](http://www.oka-pu.ac.jp/) さんの8901室が会場となったのはこれが初だった気がする。
+
+## 8月
+
+### [中国地方DB勉強会](http://dbstudychugoku.github.io/)
+
+<script>tgtr.ListWidget({id:'543312',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+仕事がセクシーだったので方眼紙いじりながら司会しててあんまり話が聞けなかったかなしみ。
+
+### ぱとしおゴールイン
+
+<script>tgtr.ListWidget({id:'553460',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'554008',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'554915',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'594613',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+<script>tgtr.ListWidget({id:'599068',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+お幸せに！
+
+### TDD Boot Camp 大都会 2.0
+
+<script>tgtr.ListWidget({id:'556695',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+懇親会LTで [和田さん](https://twitter.com/t_wada) が [power-assert](https://github.com/twada/power-assert) の紹介やってた時に俺が「謎の技術」と評したので、その後延々と「謎の技術」という文言が飛び交っていたのでずっと記憶に残っています。
+
+## 9月
+
+### パソコン直流会
+
+<script>tgtr.ListWidget({id:'563676',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+麦スカッシュおいしかった(小並感)
+
+## 10月
+
+### トゥギャりないけど例外で [Scala発火村 in 天領倉敷](http://tkscala.doorkeeper.jp/events/5583)
+
+ふたりきりでそんなに会話もなく(やってる領域が全然違ったので)もくもくとするだけの会で正直発火村と呼べる規模ではなかった。  
+村というより限界集落ですね。
+
+## 11月
+
+### [さきっぽだけ](http://d.hatena.ne.jp/mao_instantlife/20131111/1384183243)
+
+例外その2。もっと流行らせたいの。
+
+## 12月
+
+### 合同勉強会 & 忘年会議
+
+<script>tgtr.ListWidget({id:'602756',url:'http://togetter.com/',width:'640px',height:'240px'});</script>
+
+娘が入院して行けず。無念。
+
+## まとめ
+
+思いのほか勉強会をマジメにトゥギャってた俺。  
+もっと皆もカジュアルにトゥギャるといいですね？

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "JJUC CCC 2013 FallでScalaとJavaFXの話をしてきた"
+date: 2013-11-10
+comments: true
+categories: JJUG Scala JavaFX
+---
+
+[JJUG CCC 2013 Fall](http://www.java-users.jp/?page_id=695) のCall for Paperがうっかり通っちゃったので、Scala+JavaFXのネタで登壇してきました。
+
+[死霊はこちら](http://shizone.github.io/slides/jjugccc_2013fall/)
+
+[死霊のソース](https://github.com/shizone/jjugccc2013fall)
+
+# 話したネタについて
+
+[tengu](https://github.com/shizone/tengu) という、 [picture show](https://github.com/softprops/picture-show) のGUIフロントエンドをJavaFXで作った話をしました。  
+
+# 反響
+正直、かなりスベった感があります。  
+テーマ自体に興味がある人がそもそも少なかったというか。  
+(Scalaだけやってる、JavaFXだけやってるみたいな人は多かった)
+
+寺田さんにもなんか慰められてしまう始末で、次回何とかリベンジしていきたいですね。  
+(まあ別に凹んだとかそういうのは一切ないんですけど)
+
+# その他
+tenguでは、picture showをそのままラップする以外に、プレゼンのカンペというかメモというか、そういうのを裏で表示する機能を追加してあります。  
+そのへん [イケメン](https://twitter.com/yusuke) に見せたら、  
+「あーそういうのついてないプレゼンツール結構あるよねー。こういうのナシで発表できる人、どうなってるんだろうねー」みたいな話になりました。  
+そういう人はすげー練習してるんでしょうね。今回ちゃんとした場だし事前にしっかり練習したいと思ってたんですが、アプリの実装自体に手間取ったのもあるし仕事がセクシーすぎたので、結局ぶっつけになってしまいました。  
+
+進捗ダメでした。
+
+あ、あと、JJUG CCC自体のレポは別エントリで上げたいと思います。
