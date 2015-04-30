@@ -7,6 +7,6 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - lukevivier/gh-pages@0.2.1:
+    - lukevivier/gh-pages:
         token: $GITHUB_TOKEN
         basedir: public
