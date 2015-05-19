@@ -7,7 +7,7 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - git-push:
+    - leipert/git-push:
         gh_oauth: $GITHUB_TOKEN
         gh_pages: true
         basedir: public
