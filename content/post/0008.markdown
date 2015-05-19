@@ -10,7 +10,7 @@ categories: Java Img 変態
 
 前回は [@dproject21](http://twitter.com/dproject21) さんの [「iStockPhoto乞食」という変態プレゼンターな生き方](http://d.hatena.ne.jp/dproject21/20120808/1344426335) でした。
 
-一周前の [Javaの痛IDE用画像が欲しい\(1\)](http://shizone.github.com/blog/2012/07/30/javafalsetong-ideyong-hua-xiang-gayu-sii-1/) の完結編になります。
+一周前の [Javaの痛IDE用画像が欲しい\(1\)](http://shizone.github.com/blog/2012/07/30/0005/) の完結編になります。
 
 ## 今回の成果物
 
