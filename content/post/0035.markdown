@@ -1,0 +1,40 @@
+---
+layout: post
+title: "オープンセミナー2015@岡山に参加して"
+date: 2015-05-19
+comments: true
+categories: 勉強会 岡山 オープンセミナー
+---
+
+ご安全に！もじゃ変です。
+
+5/16に開催された [オープンセミナー2015@岡山](http://oso.shibangawa.net/) に参加してきました。
+
+[今回もトゥギャりました](http://togetter.com/li/821858)
+
+## で、参加してどうだったのよ
+
+今回のテーマは「IT業界におけるセルフブランディング」でした。
+講師の皆様がたそれぞれに、どんな人生を歩んできたかみたいなバックボーンが多種多様で、興味深く聞くことができました。
+
+実は個人的にはセルフブランディングにはぶっちゃけそんなに興味がないんですが、自分の中にある「やっていきたいこと」に改めて気づかせてくれたのは地元枠のおふたり。
+
+* [ひむひむ](https://twitter.com/eielh)
+<script async class="speakerdeck-embed" data-slide="61" data-id="85b4524a99ad40f7896d09b1bf4d4ac1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+* [猟銃女子](https://twitter.com/sakie_boondock)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/niVTBkCy6CakTB?startSlide=14" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sakiemuneyasu/ss-48216393" title="わたしのつくりかた" target="_blank">わたしのつくりかた</a> </strong> from <strong><a href="//www.slideshare.net/sakiemuneyasu" target="_blank">Sakie Muneyasu</a></strong> </div>
+
+大都会で活躍しているいろんな人々を、もっと周囲にアピールしていきたいとか、そんなことを日頃思ってたんだなぁと。
+ブランディングとしては、「大都会岡山のITコミュニティのブランディング」ということかも知れない。
+
+僕は大都会のITコミュニティに触れて、色々得るものがあったり、楽しいことがあったり、大変お世話になったので、自分自身もそこに対して恩返ししていきたいなぁという思いが常々あって。
+この人すごい人だなぁとか、これから活躍していくんだろうなぁとか、そういう人たちを発射台からひたすら打ち上げる人間になりたいなぁと。なんかそんな感じです。
+
+そんな訳で、これから推してるひとたちのRTとかふぁぼとかそういうのが増えていくと思いますが、そういう思いをもってやってると解釈してやってつかーさい。
+
+## おまけ
+
+懇親会LTのスライド
+
+<script async class="speakerdeck-embed" data-id="88b7a8c924dc4063b27012330ca55ea7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
