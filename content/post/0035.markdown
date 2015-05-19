@@ -40,3 +40,5 @@ categories: 勉強会 岡山 オープンセミナー
 懇親会LTのスライド
 
 <script async class="speakerdeck-embed" data-id="88b7a8c924dc4063b27012330ca55ea7" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="37f0b9fd71ea4f308001ca52da5e5e59" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
