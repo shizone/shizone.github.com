@@ -12,7 +12,7 @@ categories: Java Scala
 
 ## 発表について
 
-[前回の天領倉敷Scala](http://shizone.github.com/blog/2012/07/13/tian-ling-cang-fu-scaladi-9hui-mian-qiang-hui-wokai-cui-sitayo/) でおさらいした話をベースに
+[前回の天領倉敷Scala](http://shizone.github.com/2012/07/13/0003/) でおさらいした話をベースに
 微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。
 天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。
 

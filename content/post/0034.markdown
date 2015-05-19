@@ -49,5 +49,5 @@ categories: 勉強会 岡山 大都会
 
 ## さいごに
 
-[前のエントリ](http://shizone.github.io/blog/2014/12/17/01/) でも告知しましたが次は [座駆動LT大会20150228](http://gbdaitokai.doorkeeper.jp/events/18496) となります。
+[前のエントリ](http://shizone.github.io/2014/12/17/01/) でも告知しましたが次は [座駆動LT大会20150228](http://gbdaitokai.doorkeeper.jp/events/18496) となります。
 ご都合よろしければこちらも是非ご参加ください。
