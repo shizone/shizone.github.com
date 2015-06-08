@@ -76,8 +76,13 @@ categories: 懇親会 LT
 
 ~~[戦国無双の刀剣展](http://www.city.setouchi.lg.jp/~osa-token/exhibitions/index.htm) も開催中なので、県外の方も観光ついでにどうっすか！！~~
 
-(2015/01/31追記)  
-ご好評？につき、第二回 [座駆動LT大会](http://gbdaitokai.doorkeeper.jp/events/18496) を開催します。
-LTしたい方、座に興味が出てきた方は是非お越しください。
+~~(2015/01/31追記)  
+~~ご好評？につき、第二回 [座駆動LT大会](http://gbdaitokai.doorkeeper.jp/events/18496) を開催します。
+~~LTしたい方、座に興味が出てきた方は是非お越しください。
 
-<a class="doorkeeper-registration-widget" href="http://gbdaitokai.doorkeeper.jp/events/18496">座駆動LT大会20150228</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
+(2015/06/08追記)  
+7/11(土)に [座駆動ビブリオバトル](https://gbdaitokai.doorkeeper.jp/events/24435) を開催します。  
+今回は自分のイチオシ本をプレゼンする「ビブリオバトル」です。  
+是非是非お越しくださいませ。
+
+<a class="doorkeeper-registration-widget" href="http://gbdaitokai.doorkeeper.jp/events/24435">座駆動LT大会20150228</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
