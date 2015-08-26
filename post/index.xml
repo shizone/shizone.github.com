@@ -6,8 +6,26 @@
     <description>Recent content in Posts on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 May 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kritaを試してみている</title>
+      <link>http://shizone.github.io/2015/08/27/0036/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2015/08/27/0036/</guid>
+      <description>&lt;p&gt;ご安全に！もじゃ変です。&lt;/p&gt;
+
+&lt;p&gt;家では割と長いことLinuxを使っているのですが、個人的にずっとGimpが肌に合わなくてもんにょりしていました。&lt;br /&gt;
+で、 &lt;a href=&#34;https://jp.krita.org/&#34;&gt;Krita&lt;/a&gt; がなんかよさげだったので試してみました。&lt;/p&gt;
+
+&lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;52211207_4a35c855628ecb121549fb606f582e92&#34; data-size=&#34;large&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=52211207&#34; target=&#34;_blank&#34;&gt;ScalaMatsuri法被ドヤリングScalaちゃん&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=5504112&#34; target=&#34;_blank&#34;&gt;shizone&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
+
+&lt;p&gt;リハビリがてらサクッと軽めに。&lt;br /&gt;
+Scalaちゃんってドヤ顔似合うよね。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>オープンセミナー2015@岡山に参加して</title>
@@ -1121,61 +1139,6 @@ thx! &amp;gt; &lt;a href=&#34;https://twitter.com/kotanin&#34;&gt;@kotanin&lt;/a
 
 &lt;p&gt;思いのほか勉強会をマジメにトゥギャってた俺。&lt;br /&gt;
 もっと皆もカジュアルにトゥギャるといいですね？&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JavaFX 8 on Scala</title>
-      <link>http://shizone.github.io/2013/12/21/0021/</link>
-      <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2013/12/21/0021/</guid>
-      <description>
-
-&lt;p&gt;これは &lt;a href=&#34;http://www.adventar.org/calendars/146&#34;&gt;JavaFX Advent Calendar 2013&lt;/a&gt; の21日目のエントリです。&lt;/p&gt;
-
-&lt;p&gt;前日は &lt;a href=&#34;https://twitter.com/MulticolorWorld&#34;&gt;@MulticolorWorld&lt;/a&gt; さんの &lt;a href=&#34;http://jimanglaurant.hatenablog.com/entry/2013/12/20/105413&#34;&gt;JavaFXアプリケーション製作中に作ったライブラリの話(未完成)&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;本題&lt;/h2&gt;
-
-&lt;p&gt;タイトルの通り、ScalaでJavaFX8を使う話です。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.java-users.jp/?page_id=695&#34;&gt;JJUG CCC 2013 Fall&lt;/a&gt; で発表するため資料作りしてる最中に&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/skrb&#34;&gt;@skrb&lt;/a&gt; 8に変えてみたら、Scalaのビルドツールがクラッシュしちゃいました…。&amp;#10;取り敢えずは7でガマンですかねぇ…。&lt;/p&gt;&amp;mdash; マイクチェックの時間だ！コラァ！！ (@razon) &lt;a href=&#34;https://twitter.com/razon/statuses/397026508167852032&#34;&gt;2013, 11月 3&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ってことがあったので、ちゃんと動かすために調べてみました。&lt;/p&gt;
-
-&lt;h3 id=&#34;scalaのバージョン指定:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;Scalaのバージョン指定&lt;/h3&gt;
-
-&lt;p&gt;Scalaは2.10.2以降のバージョンを指定する必要があります。&lt;/p&gt;
-
-&lt;h3 id=&#34;sbtのバージョン指定:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;sbtのバージョン指定&lt;/h3&gt;
-
-&lt;p&gt;sbtは、0.12系だと動作しないので0.13系を指定します。&lt;/p&gt;
-
-&lt;h3 id=&#34;jfxrt-jarの配備位置の変更対応:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;jfxrt.jarの配備位置の変更対応&lt;/h3&gt;
-
-&lt;p&gt;sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。&lt;br /&gt;
-当方ではJAVA_HOMEからの相対パスで指定する方式( &lt;a href=&#34;http://stackoverflow.com/questions/14123749/how-to-detect-javafx-runtime-jar-in-sbt&#34;&gt;参考&lt;/a&gt; )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。&lt;br /&gt;
-両方に対応するように修正してみました。&lt;/p&gt;
-
-&lt;script src=&#34;http://gist-it.appspot.com/github/shizone/scala-javafx-fxml.g8/blob/master/src/main/g8/detect_javafx_runtime.sbt&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/shizone/scala-javafx-fxml.g8&#34;&gt;拙作のGiter8テンプレート&lt;/a&gt; で対応しているので、参考にして頂ければ。&lt;/p&gt;
-
-&lt;h2 id=&#34;余談:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;余談&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/shizone/tengu&#34;&gt;自前のJavaFXアプリ&lt;/a&gt; で動作確認してみたのですが、WebViewはだいぶ良くなってますね。&lt;br /&gt;
-露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。&lt;/p&gt;
-
-&lt;p&gt;![Tengu on JavaFX8](&lt;a href=&#34;https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot;&#34;&gt;https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot;&lt;/a&gt;
-グリグリ動きますね&lt;/p&gt;
-
-&lt;h2 id=&#34;最後に:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;最後に&lt;/h2&gt;
-
-&lt;p&gt;翌日は &lt;a href=&#34;https://twitter.com/kikutaro_&#34;&gt;@kikutaro_&lt;/a&gt; さんの &lt;a href=&#34;http://kikutaro777.hatenablog.com/entry/2013/12/22/120744&#34;&gt;JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx&lt;/a&gt; です。&lt;/p&gt;
 </description>
     </item>
     
