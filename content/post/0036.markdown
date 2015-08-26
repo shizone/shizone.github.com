@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Kritaを試してみている"
+date: 2015-08-27
+comments: true
+categories: Krita Scalaちゃん
+---
+
+ご安全に！もじゃ変です。
+
+家では割と長いことLinuxを使っているのですが、個人的にずっとGimpが肌に合わなくてもんにょりしていました。  
+で、 [Krita](https://jp.krita.org/) がなんかよさげだったので試してみました。
+
+<script src="http://source.pixiv.net/source/embed.js" data-id="52211207_4a35c855628ecb121549fb606f582e92" data-size="large" data-border="on" charset="utf-8"></script><noscript><p><a href="http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=52211207" target="_blank">ScalaMatsuri法被ドヤリングScalaちゃん</a> by <a href="http://www.pixiv.net/member.php?id=5504112" target="_blank">shizone</a> on <a href="http://www.pixiv.net/" target="_blank">pixiv</a></p></noscript>
+
+リハビリがてらサクッと軽めに。  
+Scalaちゃんってドヤ顔似合うよね。
