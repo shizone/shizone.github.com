@@ -1,6 +1,5 @@
 +++
 date = "2015-12-26"
-draft = true
 title = "勉強会を盛り上げる大都会岡山の武器事情について"
 
 +++
@@ -9,7 +8,7 @@ title = "勉強会を盛り上げる大都会岡山の武器事情について"
 
 このエントリは[大都会岡山 Advent Calendar 2015](http://www.adventar.org/calendars/748)の26日目(勝手にやってるだけ)です。
 
-前日は[たがみ だいき](https://www.facebook.com/daiki.tagami)さんの[TBD](hoge)でした。
+前日は[たがみ だいき](https://www.facebook.com/daiki.tagami)さんの[Rails Girls Okayamaに参加した人が次にやったらいいこと](http://tagamidaiki.com/next-railsgirls/)でした。
 
 [勉強会にリアルマサカリ持ち込む](http://togetter.com/li/809066)の、流行った時期がありましたよね。  
 大都会岡山に於いてはマサカリだけならず、様々な武器が活躍してきました。  
