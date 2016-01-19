@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
+<title>僕もRustの開発環境を作ってみました(VS Code編) - SHI-Zone</title>
+</head>
+<body>
+
+<div class="container">
+
+	<header role="banner">
+		<div class="header-logo">
+			<a href="/"><img src="/images/logo.png" width="60" height="60"></a>
+		</div>
+		
+	</header>
+
+
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline">僕もRustの開発環境を作ってみました(VS Code編)</h1>
+			<span class="entry-meta"><time itemprop="datePublished" datetime="2016-01-19">January 19, 2016</time></span>
+			<section itemprop="entry-text">
+				
+
+<p>ご安全に！人マンです。</p>
+
+<p><a href="http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92">あべさんがRust開発環境完全マスター</a>したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。</p>
+
+<h1 id="まずrust入れる:7882701ff995251793368ea52fa7ca65">まずRust入れる</h1>
+
+<p><a href="https://www.rust-lang.org/">公式</a>で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)<br />
+あと、<a href="https://github.com/phildawes/racer">Racer</a> で使うためのRustのソースも<a href="https://www.rust-lang.org/downloads.html">ダウンロードページ</a>から落としてきます。</p>
+
+<p><em>RUST_HOME/bin</em> にパスを通しておきましょう。</p>
+
+<h1 id="cargoで色々入れる:7882701ff995251793368ea52fa7ca65">Cargoで色々入れる</h1>
+
+<p>Rustのパッケージマネージャである<a href="https://github.com/rust-lang/cargo">Cargo</a>でパッケージのインストールを行います。<br />
+RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から <em>cargo install</em> が使えるようになっています。</p>
+
+<pre><code>$ cargo install racer
+$ cargo install rustfmt
+</code></pre>
+
+<p>CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。</p>
+
+<p>cargo installでインストールされたパッケージは、 <em>$HOME/.cargo/bin</em> に配置されます。</p>
+
+<h1 id="vs-codeにrustycodeを入れる:7882701ff995251793368ea52fa7ca65">VS CodeにRustyCodeを入れる</h1>
+
+<p>エディタは<a href="https://www.visualstudio.com/ja-jp/products/code-vs.aspx">Visual Studio Code</a>にします。<br />
+コマンドパレットを表示(ctrl-shift-p)し、 <em>Install Extension</em> で「RustyCode」を選択してインストールします。<br />
+インストール後、VS Codeを再起動します。</p>
+
+<h1 id="rustycodeの設定:7882701ff995251793368ea52fa7ca65">RustyCodeの設定</h1>
+
+<p>メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。</p>
+
+<pre><code class="language-json">	//-------- Rusty Code configuration --------
+
+	// Specifies path to Racer binary if it's not in PATH
+	&quot;rust.racerPath&quot;: &quot;$HOME/.cargo/bin/racer&quot;,
+
+	// Specifies path to Rustfmt binary if it's not in PATH
+	&quot;rust.rustfmtPath&quot;: &quot;$HOME/.cargo/bin/rustfmt&quot;,
+
+	// Specifies path to /src directory of local copy of Rust sources
+	&quot;rust.rustLangSrcPath&quot;: &quot;$RUST_SRC_PATH/src&quot;,
+
+	// Specifies path to Cargo binary if it's not in PATH
+	&quot;rust.cargoPath&quot;: &quot;$RUST_HOME/bin/cargo&quot;,
+</code></pre>
+
+<p>※実際にはフルパスでお願いします。</p>
+
+<p>Racerのお陰で補完もそこそこ、Cargoもコマンドパレットから呼び出せるので割とステキな感じだと思います。<br />
+みなさんも是非Rust開発環境完全マスターしてみてください。</p>
+
+			</section>
+			<ul class="snsb">
+				<li><a class="twitter-share-button" href="https://twitter.com/share" data-via="razon" data-dnt="true" data-count="vertical">Tweet</a></li>
+				<li><div class="fb-like" data-href="http://shizone.github.io/2016/01/19/0039/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></li>
+				<li><a href="http://b.hatena.ne.jp/entry/http://shizone.github.io/2016/01/19/0039/" class="hatena-bookmark-button" data-hatena-bookmark-title="僕もRustの開発環境を作ってみました(VS Code編)" data-hatena-bookmark-layout="vertical-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></li>
+				<li><div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-href="http://shizone.github.io/2016/01/19/0039/"></div>
+</li>
+			</ul>
+		</article>
+	</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a></span>
+			<a href="https://twitter.com/razon" target="_blank">Twitter</a></span>
+			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a></span>
+			<a href="https://github.com/shizone/" target="_blank">GitHub</a></span>
+		</div>
+		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
+	</footer>
+
+</div>
+
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-19371775-4', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>
+
+<script>
+window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: "ja";}
+</script>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async">
+  {lang: "ja";}
+</script>
