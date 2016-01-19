@@ -1,0 +1,61 @@
++++
+date = "2016-01-19"
+title = "僕もRustの開発環境を作ってみました(VS Code編)"
+
++++
+
+ご安全に！人マンです。
+
+[あべさんがRust開発環境完全マスター](http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92)したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。
+
+# まずRust入れる
+
+[公式](https://www.rust-lang.org/)で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)  
+あと、[Racer](https://github.com/phildawes/racer) で使うためのRustのソースも[ダウンロードページ](https://www.rust-lang.org/downloads.html)から落としてきます。
+
+*RUST_HOME/bin* にパスを通しておきましょう。
+
+# Cargoで色々入れる
+
+Rustのパッケージマネージャである[Cargo](https://github.com/rust-lang/cargo)でパッケージのインストールを行います。  
+RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から *cargo install* が使えるようになっています。
+
+```
+$ cargo install racer
+$ cargo install rustfmt
+```
+
+CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。
+
+cargo installでインストールされたパッケージは、 *$HOME/.cargo/bin* に配置されます。
+
+# VS CodeにRustyCodeを入れる
+
+エディタは[Visual Studio Code](https://www.visualstudio.com/ja-jp/products/code-vs.aspx)にします。  
+コマンドパレットを表示(ctrl-shift-p)し、 *Install Extension* で「RustyCode」を選択してインストールします。  
+インストール後、VS Codeを再起動します。
+
+# RustyCodeの設定
+
+メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。
+
+```json
+	//-------- Rusty Code configuration --------
+
+	// Specifies path to Racer binary if it's not in PATH
+	"rust.racerPath": "$HOME/.cargo/bin/racer",
+
+	// Specifies path to Rustfmt binary if it's not in PATH
+	"rust.rustfmtPath": "$HOME/.cargo/bin/rustfmt",
+
+	// Specifies path to /src directory of local copy of Rust sources
+	"rust.rustLangSrcPath": "$RUST_SRC_PATH/src",
+
+	// Specifies path to Cargo binary if it's not in PATH
+	"rust.cargoPath": "$RUST_HOME/bin/cargo",
+```
+
+※実際にはフルパスでお願いします。
+
+Racerのお陰で補完もそこそこ、Cargoもコマンドパレットから呼び出せるので割とステキな感じだと思います。  
+みなさんも是非Rust開発環境完全マスターしてみてください。
