@@ -1,0 +1,48 @@
++++
+date = "2016-07-08"
+title = "大都会岡山のイット系コミュニティ"
+
++++
+
+[岡山編：エンジニアの給料は、全国平均より高い？ 低い？――岡山のIT企業、給与、コミュニティー](http://www.atmarkit.co.jp/ait/articles/1607/08/news023_3.html) で、まだまだリーチ出来ていない方面が存在することがよくわかった俺たちは、取り敢えず今年(2016年)
+勉強会を開催した、これから開催する、開催するかも、くらいのアクティビティが見られる大都会のIT系コミュニティをまとめてみようと思いましたよ。
+
+## 件の記事に載ってたやつ
+
+* [岡山Webクリエイターズ](http://www.okaweb.jp/)
+* [岡山IT飲み会](http://www.it-nomikai.jp/okayama)
+* [Okayama.rb(岡山Rubyコミュニティ)](https://okaruby.doorkeeper.jp/)
+* [JAWS-UG 岡山支部](https://jaws-ug.jp/bc/okayama/)
+
+## 個人的に把握しているやつ
+
+* [中国地方DB勉強会](https://dbstudychugoku.github.io/)
+* [岡山Javaユーザ会](https://okajug.doorkeeper.jp/)
+* [オープンセミナー岡山](http://okayama.open-seminar.org/)
+* [忘年会議](https://bonenkaigi.doorkeeper.jp/)
+* [合同勉強会in大都会岡山](https://gbdaitokai.doorkeeper.jp/)
+* [天領倉敷Scala](https://tkscala.doorkeeper.jp/)
+* [岡山Python勉強会](https://okapython.doorkeeper.jp/)
+* [岡山Gitユーザ会](https://okagit.doorkeeper.jp/)
+* [岡山Unity勉強会](https://okayamaunity.doorkeeper.jp/)
+* [岡山ゲーム開発勉強会](https://okayamagamecreators.doorkeeper.jp/)
+* [岡山Android, iOSアプリ開発もくもく会](https://okandroid.doorkeeper.jp/)
+* [オープンCAE勉強会＠岡山](https://opencaeoka.doorkeeper.jp/)
+* [kintone Cafe 岡山](https://kintonecafeokayama.doorkeeper.jp/)
+* [okayama-js](http://okayama-js.net/)
+* [Okayama IT Engineers Community(OITEC)](http://oitec.net/)
+* [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
+
+ほかにも何件か非公開だけど開催予定のやつもあるので公開されたら載せていきたい感じ。  
+その他「こんなんもあるぜ」とかご存知の方がいらっしゃいましたら教えて下さいませ。
+
+## まとめ
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ロマサガ勉強会を開催するしかない</p>&mdash; テクニカルリード人月 (@razon) <a href="https://twitter.com/razon/status/750153753186045952">2016年7月5日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ロマサガ勉強会でアンサガ枠として殴りこみかけてくれる人を募集していきたい</p>&mdash; テクニカルリード人月 (@razon) <a href="https://twitter.com/razon/status/750548218589638656">2016年7月6日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">アンサガ一応全キャラクリアしてるんすよ。(ある種一番やりこんでるサガかもしれない)</p>&mdash; えいる (@eielh) <a href="https://twitter.com/eielh/status/750595431919411200">2016年7月6日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
