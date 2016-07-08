@@ -33,6 +33,8 @@ title = "大都会岡山のイット系コミュニティ"
 * [Okayama IT Engineers Community(OITEC)](http://oitec.net/)
 * [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
 * [岡山スマホユーザー会](http://estpolis.com/okayama_smartphone_user/)
+* [Atlassian ユーザーグループ 中国地方](http://augca.connpass.com/)
+* [GCPUG岡山](https://plus.google.com/communities/115366422273280046817)
 
 ほかにも何件か非公開だけど開催予定のやつもあるので公開されたら載せていきたい感じ。  
 その他「こんなんもあるぜ」とかご存知の方がいらっしゃいましたら教えて下さいませ。
