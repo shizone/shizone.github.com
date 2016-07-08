@@ -32,6 +32,7 @@ title = "大都会岡山のイット系コミュニティ"
 * [okayama-js](http://okayama-js.net/)
 * [Okayama IT Engineers Community(OITEC)](http://oitec.net/)
 * [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
+* [岡山スマホユーザー会](http://estpolis.com/okayama_smartphone_user/)
 
 ほかにも何件か非公開だけど開催予定のやつもあるので公開されたら載せていきたい感じ。  
 その他「こんなんもあるぜ」とかご存知の方がいらっしゃいましたら教えて下さいませ。
