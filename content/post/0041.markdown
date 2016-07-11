@@ -1,0 +1,20 @@
++++
+date = "2016-07-12"
+title = "念願のサガ勉強会を開催するぞ！"
+
++++
+
+表題の通りです。  
+サガ芸人のみなさまの参戦を心よりお待ちしています。
+
+## 前回のあらすじ
+
+[大都会岡山のイット系コミュニティ](http://shizone.github.io/2016/07/08/0040/)
+
+## お申し込みはこちら
+
+[Sa・Ga Night Daitokai 1st](http://saga-daitokai.connpass.com/event/35779/)
+
+## おまけ：昼の部
+
+[Scala発火村 in 天領倉敷](https://tkscala.doorkeeper.jp/events/49023)
