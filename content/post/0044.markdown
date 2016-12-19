@@ -1,0 +1,96 @@
++++
+date = "2016-12-19"
+title = "合同勉強会 in 大都会岡山の5年間をふりかえる"
+
++++
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/zephiransas/31603682631" title="DSC_6822"><img src="https://c8.staticflickr.com/1/393/31603682631_e1d19b47f1_c.jpg" width="800" height="534" alt="DSC_6822"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+ご安全に！組長です。
+
+このエントリは [大都会岡山 Advent Calendar 2016](http://www.adventar.org/calendars/1580) の19日目のエントリです。  
+前日は [@zephiransas](https://twitter.com/zephiransas) さんの [合同勉強会2016に参加してきた](https://zephiransas.github.io/blog/2016/12/18/gbdaitokai2016/) でした。  
+翌日は [@ikkitang](https://twitter.com/ikkitang) さんです。
+
+## 本題
+
+### 合同勉強会 in 大都会岡山の前身
+
+[春の合同勉強会 in 岡山](http://kiyokura.hateblo.jp/entry/20110418/p1) が直接的な前身でしょうか。  
+僕はその日は [天領倉敷Scala](https://tkscala.doorkeeper.jp/) を開催していて、懇親会のメンツが全然足らなかったので合同勉強会に泣きついて混ぜてもらった記憶があります。弱小はつらいですね。
+
+### 2012年
+#### 2012 Spring 
+
+- [http://togetter.com/li/294533](http://togetter.com/li/294533)
+- [https://www.flickr.com/photos/zephiransas/sets/72157629923025255](https://www.flickr.com/photos/zephiransas/sets/72157629923025255)
+
+記念すべき第一回です。瀬戸内界隈のコミュニティ中心でスタート。  
+そういえばこの回ろくろ禁止ルールとかやってましたねえ。ろくろを回すのではなく投げていたのが僕です。
+
+#### 2012 Winter 
+
+- [http://togetter.com/li/422559](http://togetter.com/li/422559)
+- [https://www.flickr.com/photos/zephiransas/sets/72157632262305137](https://www.flickr.com/photos/zephiransas/sets/72157632262305137)
+
+[忘年会議](https://bonenkaigi.connpass.com) の前座としての地位を確立した回となります。  
+この時から県外より毎年お越しいただいてる方が結構います。大変ありがたいですね。これからもよろしくお願いします。
+
+### 2013年
+#### 2013 Winter
+
+- [https://gbdaitokai.doorkeeper.jp/events/5725](https://gbdaitokai.doorkeeper.jp/events/5725)
+- [http://togetter.com/li/602756](http://togetter.com/li/602756)
+- [https://www.flickr.com/photos/zephiransas/sets/72157638821751894](https://www.flickr.com/photos/zephiransas/sets/72157638821751894)
+
+娘が病気しちゃって欠席になった回です。  
+「よろしく」っつって丸投げしておいたらいい感じに回してくれたようです。  
+さすが大都会、層が厚いぜ！(ありがとうございますありがとうございます)
+
+### 2014年
+#### 2014 Winter
+
+- [https://gbdaitokai.doorkeeper.jp/events/15289](https://gbdaitokai.doorkeeper.jp/events/15289)
+- [http://togetter.com/li/757033](http://togetter.com/li/757033)
+- [https://www.flickr.com/photos/zephiransas/sets/72157649808263212](https://www.flickr.com/photos/zephiransas/sets/72157649808263212)
+
+謎の武器ブームが大都会に起こっていた年で、他の場所でもよく見受けられる [恐怖の鉞](https://www.amazon.co.jp/dp/B004VJPHCM) の他にも [こん棒](https://www.amazon.co.jp/dp/B002OSY4YO) 、 [勇者の剣](https://www.amazon.co.jp/dp/B004W1HNZI) 、 [ドラゴンの剣](https://www.amazon.co.jp/dp/B004VJPI44) といった怪しい品揃えが登壇者を飛び交う会となったのがこの年。
+
+### 2015年
+#### 2015 Winter
+
+- [https://gbdaitokai.doorkeeper.jp/events/31149](https://gbdaitokai.doorkeeper.jp/events/31149)
+- [http://togetter.com/li/908723](http://togetter.com/li/908723)
+- [https://www.flickr.com/photos/zephiransas/sets/72157659745544384](https://www.flickr.com/photos/zephiransas/sets/72157659745544384)
+
+例年参加人数が 忘年会議＞合同勉強会 だったんですが、この年で初めて忘年会議より多い参加者となりました。  
+やったぜ父ちゃん！
+
+### 2016年
+#### 2016 Fall
+
+- [https://gbdaitokai.doorkeeper.jp/events/47598](https://gbdaitokai.doorkeeper.jp/events/47598)
+- [http://togetter.com/li/1019776](http://togetter.com/li/1019776)
+
+2012年は2回開催したんですが、それ以降は年イチになってて「もう少し回数増やしたいなぁ」と思っていたので小規模バージョンを開催してみました。  
+「WIPなネタでもええんやで！」というニュアンスで告知したのでノースライドホワイトボード芸みたいな尖ったネタが飛び出してきて計画通りな感じでしたね。
+
+#### 2016 Winter
+
+- [https://gbdaitokai.connpass.com/event/37730/](https://gbdaitokai.connpass.com/event/37730/)
+- [http://togetter.com/li/1060197](http://togetter.com/li/1060197)
+- [https://www.flickr.com/photos/zephiransas/sets/72157674062172594](https://www.flickr.com/photos/zephiransas/sets/72157674062172594)
+
+大都会の合同勉強会と言いながら割と遠方からお越しくださる方も多くなってきたので、思い切って登壇枠に県内枠と県外枠を設けてみました。  
+そして県外枠のほうが先に埋まるという。ありがてぇありがてぇ。
+
+## 未来へ
+
+まとめると、
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">合同勉強会、雑な運営でもいい感じに回るのは周りの強キャラの皆様のおかげです。<br>ありがとうございます！ありがとうございます！<br>来年も皆さん頑張って僕を楽させてください！！<a href="https://twitter.com/hashtag/gbdaitokai?src=hash">#gbdaitokai</a></p>&mdash; 組長 (@razon) <a href="https://twitter.com/razon/status/810130360625307648">2016年12月17日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ということです。皆さんがんばってください。
+
+なお、合同勉強会では僕がアレした時用に中の人を増員したいなぁとかやんわりと考えているので、ちょっかい出してみてもいいかなぁという奇特な方がいらっしゃいましたら [@razon](https://twitter.com/razon) までリプライを頂けると大変助かります。よろしくお願いします。
