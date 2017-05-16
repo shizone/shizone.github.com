@@ -1,8 +1,14 @@
 box: golang
+pre:
+  steps:
+    - script:
+        name: output message
+        code: |
+          echo 'start to build & deploy'
 build:
   steps:
     - arjen/hugo-build:
-        version: 0.13
+        version: 0.18
         theme: hugo-zen
 deploy:
   steps:
