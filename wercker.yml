@@ -8,7 +8,9 @@ pre:
 build:
   steps:
     - arjen/hugo-build:
+        version: "HEAD"
         theme: hugo-zen
+        flags: --disableSitemap=true
 deploy:
   steps:
     - leipert/git-push:
