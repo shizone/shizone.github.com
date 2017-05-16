@@ -1,4 +1,4 @@
-box: golang
+box: mmgit/hugo-box
 pre:
   steps:
     - script:
@@ -8,7 +8,6 @@ pre:
 build:
   steps:
     - arjen/hugo-build:
-        version: 0.18
         theme: hugo-zen
 deploy:
   steps:
