@@ -2,6 +2,7 @@ baseurl = "http://shizone.github.io"
 languageCode = "ja"
 title = "SHI-Zone"
 author = "Yuuki 'Razon' Sumida"
+theme = "hugo-zen"
 
 [params]
   logo      = "/images/logo.png"
