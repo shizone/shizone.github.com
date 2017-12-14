@@ -1,5 +1,5 @@
 body {
-  font-family: "PT Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #FCFCFC;
 }
 
@@ -33,6 +33,8 @@ main {
 }
 
 .header-logo img {
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   border: 4px solid #E1E1E1;
 }
@@ -72,9 +74,3 @@ main {
   background: -webkit-linear-gradient(left, white, #E1E1E1, white);
   background: linear-gradient(to right, white, #E1E1E1, white);
 }
-
-.snsb {overflow: hidden;}
-.snsb li {float: left;
-   margin-right: 4px;
-   list-style-type : none;}
-.snsb iframe {margin: 0 !important;}
