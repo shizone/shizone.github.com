@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tddbc Tdd 勉強会 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-    <description>Recent content in Tddbc Tdd 勉強会 on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sun, 22 Sep 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -20,36 +19,36 @@
 
 &lt;p&gt;去年の &lt;a href=&#34;http://shizone.github.io/blog/2012/08/26/tddbcgang-shan-gakai-cui-saremasita/&#34;&gt;TDDBC大都会1.0&lt;/a&gt; に続き、TDDBC岡山2.0が開催されたのでスタッフとして参加してきました。&lt;/p&gt;
 
-&lt;h1 id=&#34;開催の模様:d28315671666133a9d946f9c57d20bfa&#34;&gt;開催の模様&lt;/h1&gt;
+&lt;h1 id=&#34;開催の模様&#34;&gt;開催の模様&lt;/h1&gt;
 
-&lt;h2 id=&#34;togetter:d28315671666133a9d946f9c57d20bfa&#34;&gt;Togetter&lt;/h2&gt;
+&lt;h2 id=&#34;togetter&#34;&gt;Togetter&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://togetter.com/li/556695&#34;&gt;http://togetter.com/li/556695&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;photo-thx-zephiransas-https-twitter-com-zephiransas:d28315671666133a9d946f9c57d20bfa&#34;&gt;Photo(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt;)&lt;/h2&gt;
+&lt;h2 id=&#34;photo-thx-zephiransas-https-twitter-com-zephiransas&#34;&gt;Photo(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt;)&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/zephiransas/sets/72157635436498440/&#34;&gt;http://www.flickr.com/photos/zephiransas/sets/72157635436498440/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;movie-thx-kiyokura-https-twitter-com-kiyokura:d28315671666133a9d946f9c57d20bfa&#34;&gt;Movie(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;)&lt;/h2&gt;
+&lt;h2 id=&#34;movie-thx-kiyokura-https-twitter-com-kiyokura&#34;&gt;Movie(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;)&lt;/h2&gt;
 
-&lt;h3 id=&#34;基調講演:d28315671666133a9d946f9c57d20bfa&#34;&gt;基調講演&lt;/h3&gt;
+&lt;h3 id=&#34;基調講演&#34;&gt;基調講演&lt;/h3&gt;
 
 &lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lLdA4cO_mag&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h3 id=&#34;ペアプロデモ:d28315671666133a9d946f9c57d20bfa&#34;&gt;ペアプロデモ&lt;/h3&gt;
+&lt;h3 id=&#34;ペアプロデモ&#34;&gt;ペアプロデモ&lt;/h3&gt;
 
 &lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lkmDNORcRPU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;h1 id=&#34;スタッフとして参加してみて:d28315671666133a9d946f9c57d20bfa&#34;&gt;スタッフとして参加してみて&lt;/h1&gt;
+&lt;h1 id=&#34;スタッフとして参加してみて&#34;&gt;スタッフとして参加してみて&lt;/h1&gt;
 
 &lt;p&gt;去年に引き続きTAとしての参加でしたが、 &lt;a href=&#34;http://tddbc.doorkeeper.jp/events/4663&#34;&gt;TDD Boot Camp Tokyo 2013-07&lt;/a&gt; に参加者として初参加した時の経験が色々とTA業に活きた気がします。&lt;br /&gt;
 反面、ペアプロデモについては課題を多く残す形となってしまいました。環境周りでペア双方が慣れておいたほうがよかったですね。Mac難しい。&lt;/p&gt;
 
-&lt;h1 id=&#34;次回について:d28315671666133a9d946f9c57d20bfa&#34;&gt;次回について&lt;/h1&gt;
+&lt;h1 id=&#34;次回について&#34;&gt;次回について&lt;/h1&gt;
 
 &lt;p&gt;次回は1.0、2.0のスタイルで開催することはないかなーと思います。規模を縮小するか、既存参加者向けの発展的なイベントの開催となるようです。&lt;/p&gt;
 
-&lt;h1 id=&#34;さいごに:d28315671666133a9d946f9c57d20bfa&#34;&gt;さいごに&lt;/h1&gt;
+&lt;h1 id=&#34;さいごに&#34;&gt;さいごに&lt;/h1&gt;
 
 &lt;p&gt;1.0に続き、実行委員長のあべさん( &lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt; )、本当にお疲れ様でした。&lt;br /&gt;
 今回もあまりイベントの設営でお手伝いできなかった感がありますが（東京への単身赴任が重なった所為ですが）、無事開催できてよかったと思います。&lt;/p&gt;
@@ -71,7 +70,7 @@
 
 &lt;p&gt;スタッフとして懇親会場確保したり、お弁当の注文とかしたり、受付したり、お金の計算したり、ちょびっとだけTAしたりしてました。&lt;/p&gt;
 
-&lt;h1 id=&#34;開催までの道のり:a1cd50e97860ed0fbf48ac0894fc1889&#34;&gt;開催までの道のり&lt;/h1&gt;
+&lt;h1 id=&#34;開催までの道のり&#34;&gt;開催までの道のり&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://openseminar.okaya.ma/2011/&#34;&gt;オープンセミナー2011@岡山&lt;/a&gt; であべさん( &lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt; )が開催宣言したのがTDDBC大都会の始まりです。その時にあべさんに「開催したいから協力してよー」的なことを言われて二つ返事でOK出してたような気がします。
 そこからちょいちょい大都会の技術コミュニティ関係の人らに赤紙飛ばしてTAスタッフが集まってきた感じですね。&lt;/p&gt;
@@ -89,7 +88,7 @@ TA向け教育としてTDDBC札幌のお題を皆で解きました。
 
 &lt;p&gt;そんなこんなで、何とかTDDBC岡山開催に漕ぎつけました。&lt;/p&gt;
 
-&lt;h1 id=&#34;tddbc岡山当日について:a1cd50e97860ed0fbf48ac0894fc1889&#34;&gt;TDDBC岡山当日について&lt;/h1&gt;
+&lt;h1 id=&#34;tddbc岡山当日について&#34;&gt;TDDBC岡山当日について&lt;/h1&gt;
 
 &lt;p&gt;最初に受付を行なってお金を計算してお昼の買い出しに行って…と雑務中心にてんやわんやでした。
 有料のイベントは大変でしたね。何とかお金についてはキッチリ計算が合ったので一安心でした。&lt;/p&gt;
@@ -113,7 +112,7 @@ TA向け教育としてTDDBC札幌のお題を皆で解きました。
 
 &lt;p&gt;&lt;a href=&#34;http://togetter.com/li/360619&#34;&gt;TDDBC大都会岡山1.0 まとめ #tddbc&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;さいごに:a1cd50e97860ed0fbf48ac0894fc1889&#34;&gt;さいごに&lt;/h1&gt;
+&lt;h1 id=&#34;さいごに&#34;&gt;さいごに&lt;/h1&gt;
 
 &lt;p&gt;TDDBC岡山の開催にあたっては、主催のあべさんの多大なる尽力に依るところが非常に大きかったと思います。本当にお疲れ様でした。
 また、県外からお越しいただいた皆様、初めての開催で未熟な岡山スタッフを暖かくサポートしていただき非常に助かりました。ありがとうございます。

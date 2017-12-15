@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>大都会岡山 合同勉強会 Jjug Scala on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A-jjug-scala/</link>
-    <description>Recent content in 大都会岡山 合同勉強会 Jjug Scala on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A-jjug-scala/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Dec 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-%E5%90%88%E5%90%8C%E5%8B%89%E5%BC%B7%E4%BC%9A-jjug-scala/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,7 +21,7 @@
 
 &lt;p&gt;前日は &lt;a href=&#34;https://twitter.com/sinmetal&#34;&gt;@sinmetal&lt;/a&gt; の&lt;a href=&#34;http://sinmetal.hatenablog.com/entry/2013/12/14/020117&#34;&gt;転職してました&lt;/a&gt; でした。&lt;/p&gt;
 
-&lt;h2 id=&#34;本題:d568d5d793dec0a173da284b429b35c4&#34;&gt;本題&lt;/h2&gt;
+&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
 
 &lt;p&gt;本来であれば &lt;a href=&#34;http://gbdaitokai.doorkeeper.jp/events/5725&#34;&gt;合同勉強会 in 大都会岡山 -2013 Winter-&lt;/a&gt; を開催してきた的な話をするつもりだったのですが、娘が入院してしまったため、そこで発表しようとしていた話にしたいと思います。&lt;/p&gt;
 
@@ -30,17 +29,17 @@
 &lt;li&gt;あ、娘は割と大丈夫です。点滴も取れて元気なもんですね。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;例によってトゥギャり-http-togetter-com-li-602756:d568d5d793dec0a173da284b429b35c4&#34;&gt;&lt;a href=&#34;http://togetter.com/li/602756&#34;&gt;例によってトゥギャり&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;例によってトゥギャり-http-togetter-com-li-602756&#34;&gt;&lt;a href=&#34;http://togetter.com/li/602756&#34;&gt;例によってトゥギャり&lt;/a&gt;&lt;/h3&gt;
 
-&lt;h2 id=&#34;合同勉強会って-なにゃねん-http-togetter-com-li-436304:d568d5d793dec0a173da284b429b35c4&#34;&gt;合同勉強会って &lt;a href=&#34;http://togetter.com/li/436304&#34;&gt;なにゃねん&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;合同勉強会って-なにゃねん-http-togetter-com-li-436304&#34;&gt;合同勉強会って &lt;a href=&#34;http://togetter.com/li/436304&#34;&gt;なにゃねん&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;大都会岡山の勉強会コミュニティがよってたかってアレしてコレする勉強会です。&lt;br /&gt;
 多分源流は &lt;a href=&#34;http://togetter.com/li/127551&#34;&gt;このへん&lt;/a&gt;&lt;br /&gt;
 合同勉強会と言っておきながら僕が県外の人を誘致してる結果JVM系の人が妙に多い気がしますが気にしてはいけません。&lt;/p&gt;
 
-&lt;h2 id=&#34;jjug-cccで登壇してきたよ-という話をしたかった:d568d5d793dec0a173da284b429b35c4&#34;&gt;「JJUG CCCで登壇してきたよ」という話をしたかった&lt;/h2&gt;
+&lt;h2 id=&#34;jjug-cccで登壇してきたよ-という話をしたかった&#34;&gt;「JJUG CCCで登壇してきたよ」という話をしたかった&lt;/h2&gt;
 
-&lt;h3 id=&#34;jjug-cccとは:d568d5d793dec0a173da284b429b35c4&#34;&gt;JJUG CCCとは&lt;/h3&gt;
+&lt;h3 id=&#34;jjug-cccとは&#34;&gt;JJUG CCCとは&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.java-users.jp/&#34;&gt;日本Javaユーザーグループ&lt;/a&gt; 主催のクロスコミュニティカンファレンスです。&lt;br /&gt;
 春と秋、年2回開催されています。&lt;/p&gt;
@@ -51,7 +50,7 @@
 ネタが通ったのは他の人と方向性が被らなかったからみたいです。&lt;br /&gt;
 &lt;a href=&#34;https://twitter.com/mao_instatlife&#34;&gt;あべさん&lt;/a&gt; とネタが微妙に被って、殴り合いの結果俺がセッション、あべさんがBoFとなったとかなんとか。&lt;/p&gt;
 
-&lt;h3 id=&#34;聞きに行ったセッション:d568d5d793dec0a173da284b429b35c4&#34;&gt;聞きに行ったセッション&lt;/h3&gt;
+&lt;h3 id=&#34;聞きに行ったセッション&#34;&gt;聞きに行ったセッション&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;基調講演-1
@@ -115,7 +114,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;発表のネタに使ったアプリ:d568d5d793dec0a173da284b429b35c4&#34;&gt;発表のネタに使ったアプリ&lt;/h3&gt;
+&lt;h3 id=&#34;発表のネタに使ったアプリ&#34;&gt;発表のネタに使ったアプリ&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/shizone/tengu&#34;&gt;https://github.com/shizone/tengu&lt;/a&gt;&lt;/p&gt;
 
@@ -146,14 +145,14 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;次にjjug-cccに登壇するのはあなたです:d568d5d793dec0a173da284b429b35c4&#34;&gt;次にJJUG CCCに登壇するのはあなたです！&lt;/h3&gt;
+&lt;h3 id=&#34;次にjjug-cccに登壇するのはあなたです&#34;&gt;次にJJUG CCCに登壇するのはあなたです！&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;地方からの登壇者には交通費が支給されるので、「岡山だから…」と尻込みしている人には是非挑戦していただきたい！&lt;/li&gt;
 &lt;li&gt;僕も次回リベンジしたいですね。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;謝辞:d568d5d793dec0a173da284b429b35c4&#34;&gt;謝辞&lt;/h2&gt;
+&lt;h2 id=&#34;謝辞&#34;&gt;謝辞&lt;/h2&gt;
 
 &lt;p&gt;急なお願いにも関わらず、快く合同勉強会の運営を引き継いでくれた皆様、ありがとうございました。&lt;/p&gt;
 
@@ -191,7 +190,7 @@
 &lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;会場&lt;/p&gt;&amp;mdash; 尾古 豊明(パトラッシュ) (@patorash) &lt;a href=&#34;https://twitter.com/patorash/statuses/411292236605714432&#34;&gt;2013, 12月 13&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;最後に:d568d5d793dec0a173da284b429b35c4&#34;&gt;最後に&lt;/h2&gt;
+&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
 
 &lt;p&gt;翌日は &lt;a href=&#34;https://twitter.com/LuckOfWise&#34;&gt;コーラ&lt;/a&gt; の &lt;a href=&#34;http://www.luckofwise.com/2013/12/blog-post_16.html&#34;&gt;そうだ床屋に行こう。&lt;/a&gt; です。&lt;/p&gt;
 </description>

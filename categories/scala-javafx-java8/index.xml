@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scala Javafx Java8 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/scala-javafx-java8/</link>
-    <description>Recent content in Scala Javafx Java8 on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/scala-javafx-java8/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 Dec 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/scala-javafx-java8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,7 +21,7 @@
 
 &lt;p&gt;前日は &lt;a href=&#34;https://twitter.com/MulticolorWorld&#34;&gt;@MulticolorWorld&lt;/a&gt; さんの &lt;a href=&#34;http://jimanglaurant.hatenablog.com/entry/2013/12/20/105413&#34;&gt;JavaFXアプリケーション製作中に作ったライブラリの話(未完成)&lt;/a&gt; でした。&lt;/p&gt;
 
-&lt;h2 id=&#34;本題:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;本題&lt;/h2&gt;
+&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
 
 &lt;p&gt;タイトルの通り、ScalaでJavaFX8を使う話です。&lt;/p&gt;
 
@@ -33,15 +32,15 @@
 
 &lt;p&gt;ってことがあったので、ちゃんと動かすために調べてみました。&lt;/p&gt;
 
-&lt;h3 id=&#34;scalaのバージョン指定:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;Scalaのバージョン指定&lt;/h3&gt;
+&lt;h3 id=&#34;scalaのバージョン指定&#34;&gt;Scalaのバージョン指定&lt;/h3&gt;
 
 &lt;p&gt;Scalaは2.10.2以降のバージョンを指定する必要があります。&lt;/p&gt;
 
-&lt;h3 id=&#34;sbtのバージョン指定:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;sbtのバージョン指定&lt;/h3&gt;
+&lt;h3 id=&#34;sbtのバージョン指定&#34;&gt;sbtのバージョン指定&lt;/h3&gt;
 
 &lt;p&gt;sbtは、0.12系だと動作しないので0.13系を指定します。&lt;/p&gt;
 
-&lt;h3 id=&#34;jfxrt-jarの配備位置の変更対応:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;jfxrt.jarの配備位置の変更対応&lt;/h3&gt;
+&lt;h3 id=&#34;jfxrt-jarの配備位置の変更対応&#34;&gt;jfxrt.jarの配備位置の変更対応&lt;/h3&gt;
 
 &lt;p&gt;sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。&lt;br /&gt;
 当方ではJAVA_HOMEからの相対パスで指定する方式( &lt;a href=&#34;http://stackoverflow.com/questions/14123749/how-to-detect-javafx-runtime-jar-in-sbt&#34;&gt;参考&lt;/a&gt; )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。&lt;br /&gt;
@@ -51,7 +50,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/shizone/scala-javafx-fxml.g8&#34;&gt;拙作のGiter8テンプレート&lt;/a&gt; で対応しているので、参考にして頂ければ。&lt;/p&gt;
 
-&lt;h2 id=&#34;余談:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;余談&lt;/h2&gt;
+&lt;h2 id=&#34;余談&#34;&gt;余談&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/shizone/tengu&#34;&gt;自前のJavaFXアプリ&lt;/a&gt; で動作確認してみたのですが、WebViewはだいぶ良くなってますね。&lt;br /&gt;
 露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。&lt;/p&gt;
@@ -59,7 +58,7 @@
 &lt;p&gt;![Tengu on JavaFX8](&lt;a href=&#34;https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot;&#34;&gt;https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot;&lt;/a&gt;
 グリグリ動きますね&lt;/p&gt;
 
-&lt;h2 id=&#34;最後に:75fbcece16b104c77c1c23e29c5ff303&#34;&gt;最後に&lt;/h2&gt;
+&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
 
 &lt;p&gt;翌日は &lt;a href=&#34;https://twitter.com/kikutaro_&#34;&gt;@kikutaro_&lt;/a&gt; さんの &lt;a href=&#34;http://kikutaro777.hatenablog.com/entry/2013/12/22/120744&#34;&gt;JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx&lt;/a&gt; です。&lt;/p&gt;
 </description>

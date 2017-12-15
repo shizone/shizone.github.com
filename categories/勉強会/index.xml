@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>勉強会 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-    <description>Recent content in 勉強会 on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -24,7 +23,7 @@
 &lt;p&gt;ってなことを最近もやもやと思っていて、どんなもんかここで垂れ流そうと思います。&lt;br /&gt;
 面白そうだーとか一緒にやってみたいなーとかいう方がいらっしゃったらここのDISQUSとか、もしくはTwitterとかFBあたりから連絡くれると嬉しいんですよ僕は。&lt;/p&gt;
 
-&lt;h2 id=&#34;概要:2a5cb89e3b0f2c9bf7f42dd09c67994a&#34;&gt;概要&lt;/h2&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;毎回違う会社の会議室を借りて平日の晩に勉強会やる(1周したらループ)&lt;/li&gt;
@@ -37,7 +36,7 @@
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/search?f=realtime&amp;amp;q=%23I%E7%A4%BE&#34;&gt;#I社Night&lt;/a&gt; とか &lt;a href=&#34;https://twitter.com/search?f=realtime&amp;amp;q=%23R%E7%A4%BE&#34;&gt;#R社Night&lt;/a&gt; とか &lt;a href=&#34;https://twitter.com/search?f=realtime&amp;amp;q=%23C%E7%A4%BE&#34;&gt;#C社Night&lt;/a&gt; とかそういうタイトルにしたい&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;なんでこんなこと考えたの:2a5cb89e3b0f2c9bf7f42dd09c67994a&#34;&gt;なんでこんなこと考えたの&lt;/h2&gt;
+&lt;h2 id=&#34;なんでこんなこと考えたの&#34;&gt;なんでこんなこと考えたの&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;外の勉強会に行くのは抵抗があるけど社内でやるなら出てもいいかくらいの人と交流してみたい&lt;/li&gt;
@@ -46,12 +45,12 @@
 &lt;li&gt;ぶっちゃけ名前ありき&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;こんなんで新規層の開拓は難しいんじゃないのかい:2a5cb89e3b0f2c9bf7f42dd09c67994a&#34;&gt;こんなんで新規層の開拓は難しいんじゃないのかい&lt;/h2&gt;
+&lt;h2 id=&#34;こんなんで新規層の開拓は難しいんじゃないのかい&#34;&gt;こんなんで新規層の開拓は難しいんじゃないのかい&lt;/h2&gt;
 
 &lt;p&gt;コミュニティにJoinしてくれる人材を新たに発掘する、みたいなのはあんまり考えてなくて、「自社開催回くらいなら参加してもいいか」みたいな人がいないかと思いまして。&lt;br /&gt;
 いないかなぁ。どうだろうかなぁ。&lt;/p&gt;
 
-&lt;h2 id=&#34;と-ここまで書きながら:2a5cb89e3b0f2c9bf7f42dd09c67994a&#34;&gt;と、ここまで書きながら&lt;/h2&gt;
+&lt;h2 id=&#34;と-ここまで書きながら&#34;&gt;と、ここまで書きながら&lt;/h2&gt;
 
 &lt;p&gt;すげー頓挫しそうなイベントだなと思ってしまった。&lt;br /&gt;
 反響があれば割と頑張ってみようと思うのでご意見ご感想をお聞かせください。&lt;/p&gt;
@@ -68,7 +67,7 @@
 
 &lt;p&gt;最近参加した勉強会をまとめたので、次は今後の参加/開催予定のものとか。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-08-03-第一回-中国地方db勉強会:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/08/03 第一回　中国地方DB勉強会&lt;/h2&gt;
+&lt;h2 id=&#34;2013-08-03-第一回-中国地方db勉強会&#34;&gt;2013/08/03 第一回　中国地方DB勉強会&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://local.aguuu.com/events/20621&#34;&gt;http://local.aguuu.com/events/20621&lt;/a&gt;&lt;/p&gt;
 
@@ -77,7 +76,7 @@
 主催者（#た）が欠席だし司会の俺が当日岡山移動だったりでえらいバタバタしてますが、まー何とかなると思います。&lt;br /&gt;
 遠方からの講師を呼べるのは、JPUG絡みイベントの強みですなー。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-08-19-jjugナイトセミナー-8月lt大会:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/08/19 JJUGナイトセミナー 8月LT大会&lt;/h2&gt;
+&lt;h2 id=&#34;2013-08-19-jjugナイトセミナー-8月lt大会&#34;&gt;2013/08/19 JJUGナイトセミナー 8月LT大会&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://atnd.org/event/E0018054&#34;&gt;http://atnd.org/event/E0018054&lt;/a&gt;&lt;/p&gt;
 
@@ -86,7 +85,7 @@
 ネタは今のところ技術的なやつというよりは完全に飛び道具で行こうと思っています。&lt;br /&gt;
 大都会の悪ノリで乗り込んで玉砕することが想定されますので生暖かい目で見守ってください。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-8-31-tdd-boot-camp-岡山-2-0:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/8/31 TDD Boot Camp 岡山 2.0&lt;/h2&gt;
+&lt;h2 id=&#34;2013-8-31-tdd-boot-camp-岡山-2-0&#34;&gt;2013/8/31 TDD Boot Camp 岡山 2.0&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://tddbc.doorkeeper.jp/events/4941&#34;&gt;http://tddbc.doorkeeper.jp/events/4941&lt;/a&gt;&lt;/p&gt;
 
@@ -95,14 +94,14 @@
 たぶんペアプロデモは俺と &lt;a href=&#34;http://twitter.com/mao_instantlife&#34;&gt;あべさん&lt;/a&gt; でScala（！）でやると思います。&lt;br /&gt;
 まあ、周りの人がついていける範疇の書き方で。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-09-14-岡山git勉強会-201309:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/09/14 岡山Git勉強会 201309&lt;/h2&gt;
+&lt;h2 id=&#34;2013-09-14-岡山git勉強会-201309&#34;&gt;2013/09/14 岡山Git勉強会 201309&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://local.aguuu.com/events/19879&#34;&gt;http://local.aguuu.com/events/19879&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;みんな大好きパソコン交流会というか、寧ろビアガーデン駆動なのがポイントです。&lt;br /&gt;
 GitHubのハンズオンやるらしいので、興味があるけどまだあまり触れてない方とか、是非ご参加いただければ。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-09-16-javaee7-ハンズオン:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/09/16 JavaEE7 ハンズオン&lt;/h2&gt;
+&lt;h2 id=&#34;2013-09-16-javaee7-ハンズオン&#34;&gt;2013/09/16 JavaEE7 ハンズオン&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://local.aguuu.com/events/21329&#34;&gt;http://local.aguuu.com/events/21329&lt;/a&gt;&lt;/p&gt;
 
@@ -110,20 +109,20 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 すげー興味はあるんですが、（2日前がパソコン交流会なので）参加は厳しそうな気がするなぁと思っています。&lt;br /&gt;
 （家庭内の調整とかまぁ色々ありますしねぇ）&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-10-天領倉敷scala:c8d209333261157a3b9ca0275ce4d314&#34;&gt;&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; 天領倉敷Scala&lt;/h2&gt;
+&lt;h2 id=&#34;2013-10-天領倉敷scala&#34;&gt;&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; 天領倉敷Scala&lt;/h2&gt;
 
 &lt;p&gt;あと日付はまだ確定してないんですが、大都会の弱小コミュニティこと &lt;a href=&#34;http://tenryo-kurashiki-scala.appspot.com/&#34;&gt;天領倉敷Scala&lt;/a&gt; をそろそろ再動させたいと思います。&lt;br /&gt;
 オープンセミナー岡山の実行委員長業とか関東での仕事とかが絡んでて全然開催できてなかったので何とか10月中には。&lt;br /&gt;
 ただ、今年はこれで打ち止めになりそうな感じですねー。年2回開催。かなり少なくなっちゃったな…。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-12-14-合同勉強会in大都会岡山-2013:c8d209333261157a3b9ca0275ce4d314&#34;&gt;2013/12/14 合同勉強会in大都会岡山 2013&lt;/h2&gt;
+&lt;h2 id=&#34;2013-12-14-合同勉強会in大都会岡山-2013&#34;&gt;2013/12/14 合同勉強会in大都会岡山 2013&lt;/h2&gt;
 
 &lt;p&gt;まだ告知サイトはオープンしてないのですが（来月頭を予定）、今年も大都会の合同勉強会を開催します。&lt;br /&gt;
 もちろん懇親会は毎年恒例の忘年会議です。&lt;br /&gt;
 今年は短めのセッションとかLTとかで構成したいなー、とやんわりと考えてますが実際には変わるかも知れません。&lt;br /&gt;
 なんか話したいなーって方は今からネタを考えておいて頂ければ！！&lt;/p&gt;
 
-&lt;h2 id=&#34;まとめ:c8d209333261157a3b9ca0275ce4d314&#34;&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;気になるイベントはありましたか？是非是非、色々と参加してみてくださいね。&lt;/p&gt;
 </description>
@@ -139,7 +138,7 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 
 &lt;p&gt;長らく放置プレイをキメていたので、ここいらで最近行ってきた勉強会とかをまとめたいと思います。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-05-11-オープンセミナー2013-岡山:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/05/11 オープンセミナー2013@岡山&lt;/h2&gt;
+&lt;h2 id=&#34;2013-05-11-オープンセミナー2013-岡山&#34;&gt;2013/05/11 オープンセミナー2013@岡山&lt;/h2&gt;
 
 &lt;p&gt;毎年恒例の &lt;a href=&#34;http://openseminar.okaya.ma/2013/&#34;&gt;オープンセミナー岡山&lt;/a&gt; です。&lt;br /&gt;
 今回は実行委員長として開催してきました。&lt;/p&gt;
@@ -150,20 +149,20 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 
 &lt;p&gt;来年の実行委委員長は、 &lt;a href=&#34;http://twitter.com/mako_wis&#34;&gt;ハーレムさん&lt;/a&gt;です。楽しみですね。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-05-14-java-day-tokyo-2013:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/05/14 Java Day Tokyo 2013&lt;/h2&gt;
+&lt;h2 id=&#34;2013-05-14-java-day-tokyo-2013&#34;&gt;2013/05/14 Java Day Tokyo 2013&lt;/h2&gt;
 
 &lt;p&gt;前のエントリでも書いてるのですが、会社に交通費を出してもらって &lt;a href=&#34;https://oj-events.jp/public/application/add/64&#34;&gt;Java Day Tokyo 2013&lt;/a&gt; に参加してきました。&lt;br /&gt;
 正直個人的には「おおっこれは！」と思うようなサプライズはあまりなかったのですが、久々に他地方の方と悪ノリしたりして色々楽しめました。&lt;br /&gt;
 自社からあと2名連れてきたのですが、色々と感じるものもあったみたいで、連れてきた甲斐があったかなーと思います。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-06-15-java-day-tokyo-2013報告会-岡山:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/06/15 Java Day Tokyo 2013報告会@岡山&lt;/h2&gt;
+&lt;h2 id=&#34;2013-06-15-java-day-tokyo-2013報告会-岡山&#34;&gt;2013/06/15 Java Day Tokyo 2013報告会@岡山&lt;/h2&gt;
 
 &lt;p&gt;で、Java Day Tokyo 2013の報告会を地元で開催してきました。&lt;br /&gt;
 個人的に一番印象に残った『E-2「Java IDE の最新トレンド」』を元に、3つのIDEについて紹介しました。&lt;br /&gt;
 現実問題大都会みたいな田舎では尚のことEcliなんとかが圧倒的なシェアを誇っているので、それ以外のものも是非触ってみて欲しいと思いネタをチョイスしてみました。&lt;br /&gt;
 報告会の翌日から仕事で関東に移動だったので、色々とバタバタしてしまいましたね。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-06-22-jpug-2013-夏セミナー:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/06/22 JPUG 2013 夏セミナー&lt;/h2&gt;
+&lt;h2 id=&#34;2013-06-22-jpug-2013-夏セミナー&#34;&gt;2013/06/22 JPUG 2013 夏セミナー&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://twitter.com/soudai1025&#34;&gt;#た&lt;/a&gt; がJPUGの総会に参加するからお前も参加しろと煽られたので参加してきました。&lt;br /&gt;
 が、実際のとこはろくに話も聞かずに次に登壇予定だった岡山Ruby会議02(後述)の死霊作ったり、そのための技術検証とかしてました。&lt;br /&gt;
@@ -175,7 +174,7 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 &lt;p&gt;とか言われる始末。&lt;br /&gt;
 まあ、隣の人もなんかJavaのコードとか書いてましたけどね。&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-07-06-岡山ruby会議02:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/07/06 岡山Ruby会議02&lt;/h2&gt;
+&lt;h2 id=&#34;2013-07-06-岡山ruby会議02&#34;&gt;2013/07/06 岡山Ruby会議02&lt;/h2&gt;
 
 &lt;p&gt;大都会では2回目となるRegional Ruby KaigiにLT登壇してきました。&lt;br /&gt;
 内容としては、 &lt;a href=&#34;http://yuroyoro.github.io/lambda_driver/&#34;&gt;lambda_driver.gem&lt;/a&gt; の紹介をしてきました。&lt;br /&gt;
@@ -185,7 +184,7 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 &lt;p&gt;死霊はこちら
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;55b473b0c83f013044650acab7f96924&#34; data-ratio=&#34;1.33507170795306&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;2013-07-27-tdd-boot-camp-tokyo-2013-07:148a927b6300388fa8bef097c4373e8c&#34;&gt;2013/07/27 TDD Boot Camp Tokyo 2013-07&lt;/h2&gt;
+&lt;h2 id=&#34;2013-07-27-tdd-boot-camp-tokyo-2013-07&#34;&gt;2013/07/27 TDD Boot Camp Tokyo 2013-07&lt;/h2&gt;
 
 &lt;p&gt;来月には &lt;a href=&#34;http://tddbc.doorkeeper.jp/events/4941&#34;&gt;TDD Boot Camp 岡山 2.0&lt;/a&gt; が開催されるしTAとして事前に素振りしときたいなーと思っていたので、東京のTDDBCに参加してきました。&lt;br /&gt;
 嬉しいことにScalaでペアが組めました！！&lt;br /&gt;
@@ -196,7 +195,7 @@ GitHubのハンズオンやるらしいので、興味があるけどまだあ�
 
 &lt;p&gt;コードは &lt;a href=&#34;https://github.com/shizone/tddbc201307&#34;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;まとめ:148a927b6300388fa8bef097c4373e8c&#34;&gt;まとめ&lt;/h2&gt;
+&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;
 
 &lt;p&gt;こまめに参加レポ書け俺。&lt;/p&gt;
 </description>

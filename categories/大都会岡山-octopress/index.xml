@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>大都会岡山 Octopress on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-octopress/</link>
-    <description>Recent content in 大都会岡山 Octopress on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-octopress/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sat, 15 Dec 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/%E5%A4%A7%E9%83%BD%E4%BC%9A%E5%B2%A1%E5%B1%B1-octopress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,19 +21,19 @@
 
 &lt;p&gt;前日は &lt;a href=&#34;http://twitter.com/maepon&#34;&gt;@maepon&lt;/a&gt; さんの &lt;a href=&#34;http://maepon.skpn.com/web/entry-30.html&#34;&gt;岡山（地方）でサテライト勉強会を開催することについて&lt;/a&gt; でした。&lt;/p&gt;
 
-&lt;h2 id=&#34;本題:53653f614b6e7c96c543a142d3c9305c&#34;&gt;本題&lt;/h2&gt;
+&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
 
 &lt;p&gt;このエントリは、 &lt;a href=&#34;http://partake.in/events/4b7fe4db-858b-4193-b392-3406ed2b571f&#34;&gt;合同勉強会in大都会岡山 -2012 Winter-&lt;/a&gt; より、ライブ更新しています。
 当ブログ構築に利用している &lt;a href=&#34;http://atnd.org/events/34079&#34;&gt;Octooress&lt;/a&gt; の紹介セッションです。&lt;/p&gt;
 
-&lt;h2 id=&#34;スライドはこちら:53653f614b6e7c96c543a142d3c9305c&#34;&gt;スライドはこちら&lt;/h2&gt;
+&lt;h2 id=&#34;スライドはこちら&#34;&gt;スライドはこちら&lt;/h2&gt;
 
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;f1d43780281601300198123138196b5c&#34; data-ratio=&#34;1.33507170795306&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;「これからブログを始めてみようかな」とか「どこか別のところに移転したいなぁ」とかお考えの方は、
 この機会にOctopressを使ってみてはどうでしょうか？&lt;/p&gt;
 
-&lt;h2 id=&#34;この辺とか参考にすると捗るかも:53653f614b6e7c96c543a142d3c9305c&#34;&gt;この辺とか参考にすると捗るかも&lt;/h2&gt;
+&lt;h2 id=&#34;この辺とか参考にすると捗るかも&#34;&gt;この辺とか参考にすると捗るかも&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://blog.glidenote.com/blog/2011/11/07/install-octopress-on-github/&#34;&gt;GithubとOctopressでモダンな技術系ブログを作ってみる&lt;/a&gt;&lt;/p&gt;
 
@@ -42,7 +41,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://namusyaka.github.com/blog/2012/10/03/github-jekyll/&#34;&gt;Octopressのデザインテーマを変更する&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;最後に:53653f614b6e7c96c543a142d3c9305c&#34;&gt;最後に&lt;/h2&gt;
+&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
 
 &lt;p&gt;明日は &lt;a href=&#34;https://twitter.com/skrb&#34;&gt;@skrb&lt;/a&gt; さんです。
 えっ、さくらばさん？マジで！？&lt;/p&gt;

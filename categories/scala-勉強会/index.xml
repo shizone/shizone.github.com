@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scala 勉強会 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/scala-%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-    <description>Recent content in Scala 勉強会 on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/scala-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Jul 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/scala-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -22,17 +21,17 @@
 間に合同勉強会で発表したのを抜きにすると、実に5ヶ月ぶりくらいの開催です。
 超久々。&lt;/p&gt;
 
-&lt;h2 id=&#34;死霊:d23f77a3a3a1214faf584f088e57d004&#34;&gt;死霊&lt;/h2&gt;
+&lt;h2 id=&#34;死霊&#34;&gt;死霊&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://shizone.github.com/slides/tkscala_09/#0&#34;&gt;久しぶりなのでScalaのおさらい&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;懇親会について:d23f77a3a3a1214faf584f088e57d004&#34;&gt;懇親会について&lt;/h2&gt;
+&lt;h2 id=&#34;懇親会について&#34;&gt;懇親会について&lt;/h2&gt;
 
 &lt;p&gt;常に懇親会の開催危機に瀕している天領倉敷Scalaですが、今回は何故か10/11人という謎の確変が発生しました。
 当日ビアガーデンに行く予定だったんですが見事に雨天となってしまい、懇親会難民になってしまうハプニングもありましたが、何とか開催できました。
 何か、Scalaの話は殆どしなくてGitとガンプラの話ばっかだったなぁ。&lt;/p&gt;
 
-&lt;h2 id=&#34;次回勉強会:d23f77a3a3a1214faf584f088e57d004&#34;&gt;次回勉強会&lt;/h2&gt;
+&lt;h2 id=&#34;次回勉強会&#34;&gt;次回勉強会&lt;/h2&gt;
 
 &lt;p&gt;&lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;06&lt;/sub&gt;(Sat)にやりますよ。是非来てくださいね。&lt;/p&gt;
 

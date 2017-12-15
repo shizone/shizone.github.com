@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<meta name="generator" content="Hugo 0.14" />
+<meta name="generator" content="Hugo 0.17" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="//fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
@@ -35,14 +35,14 @@
 
 <p><a href="http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92">あべさんがRust開発環境完全マスター</a>したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。</p>
 
-<h1 id="まずrust入れる:7882701ff995251793368ea52fa7ca65">まずRust入れる</h1>
+<h1 id="まずrust入れる">まずRust入れる</h1>
 
 <p><a href="https://www.rust-lang.org/">公式</a>で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)<br />
 あと、<a href="https://github.com/phildawes/racer">Racer</a> で使うためのRustのソースも<a href="https://www.rust-lang.org/downloads.html">ダウンロードページ</a>から落としてきます。</p>
 
 <p><em>RUST_HOME/bin</em> にパスを通しておきましょう。</p>
 
-<h1 id="cargoで色々入れる:7882701ff995251793368ea52fa7ca65">Cargoで色々入れる</h1>
+<h1 id="cargoで色々入れる">Cargoで色々入れる</h1>
 
 <p>Rustのパッケージマネージャである<a href="https://github.com/rust-lang/cargo">Cargo</a>でパッケージのインストールを行います。<br />
 RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から <em>cargo install</em> が使えるようになっています。</p>
@@ -55,13 +55,13 @@ $ cargo install rustfmt
 
 <p>cargo installでインストールされたパッケージは、 <em>$HOME/.cargo/bin</em> に配置されます。</p>
 
-<h1 id="vs-codeにrustycodeを入れる:7882701ff995251793368ea52fa7ca65">VS CodeにRustyCodeを入れる</h1>
+<h1 id="vs-codeにrustycodeを入れる">VS CodeにRustyCodeを入れる</h1>
 
 <p>エディタは<a href="https://www.visualstudio.com/ja-jp/products/code-vs.aspx">Visual Studio Code</a>にします。<br />
 コマンドパレットを表示(ctrl-shift-p)し、 <em>Install Extension</em> で「RustyCode」を選択してインストールします。<br />
 インストール後、VS Codeを再起動します。</p>
 
-<h1 id="rustycodeの設定:7882701ff995251793368ea52fa7ca65">RustyCodeの設定</h1>
+<h1 id="rustycodeの設定">RustyCodeの設定</h1>
 
 <p>メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。</p>
 
@@ -104,3 +104,17 @@ $ cargo install rustfmt
 
 </div>
 
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-12345678-9', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+</html>

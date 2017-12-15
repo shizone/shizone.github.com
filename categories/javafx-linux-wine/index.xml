@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javafx Linux Wine on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/javafx-linux-wine/</link>
-    <description>Recent content in Javafx Linux Wine on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/javafx-linux-wine/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/javafx-linux-wine/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,7 +17,7 @@
       <guid>http://shizone.github.io/2012/07/31/0006/</guid>
       <description>
 
-&lt;h2 id=&#34;今回のお題:1d8f909093c936ff6321114771f48277&#34;&gt;今回のお題&lt;/h2&gt;
+&lt;h2 id=&#34;今回のお題&#34;&gt;今回のお題&lt;/h2&gt;
 
 &lt;p&gt;JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。
 Linux版の2.xもだいぶ遅れて出ましたし。&lt;/p&gt;
@@ -51,7 +50,7 @@ JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝ
 
 &lt;p&gt;てな訳で、試してみました。&lt;/p&gt;
 
-&lt;h2 id=&#34;手順:1d8f909093c936ff6321114771f48277&#34;&gt;手順&lt;/h2&gt;
+&lt;h2 id=&#34;手順&#34;&gt;手順&lt;/h2&gt;
 
 &lt;p&gt;手順自体はすっげー単純で、&lt;/p&gt;
 
@@ -66,7 +65,6 @@ JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝ
 
 &lt;p&gt;&lt;a href=&#34;http://twitpic.com/adihgm&#34;&gt;
 &lt;img src=&#34;http://twitpic.com/show/large/adihgm&#34; alt=&#34;JavaFX Scene Builder on Ubuntu 12.04 LTS&#34; /&gt;
-
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Windows版のJDKを入れないといけないのが何だか敗北感満載ですが、何とか動いたのでよしとします。

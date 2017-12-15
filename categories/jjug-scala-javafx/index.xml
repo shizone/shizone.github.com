@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jjug Scala Javafx on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/jjug-scala-javafx/</link>
-    <description>Recent content in Jjug Scala Javafx on SHI-Zone</description>
+    <title>SHI-Zone</title>
+    <link>http://shizone.github.io/categories/jjug-scala-javafx/index.xml</link>
+    <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://shizone.github.io/categories/jjug-scala-javafx/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -24,11 +23,11 @@
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/shizone/jjugccc2013fall&#34;&gt;死霊のソース&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;話したネタについて:e6674fd39a6de394888d9ee08ff0b12d&#34;&gt;話したネタについて&lt;/h1&gt;
+&lt;h1 id=&#34;話したネタについて&#34;&gt;話したネタについて&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/shizone/tengu&#34;&gt;tengu&lt;/a&gt; という、 &lt;a href=&#34;https://github.com/softprops/picture-show&#34;&gt;picture show&lt;/a&gt; のGUIフロントエンドをJavaFXで作った話をしました。&lt;/p&gt;
 
-&lt;h1 id=&#34;反響:e6674fd39a6de394888d9ee08ff0b12d&#34;&gt;反響&lt;/h1&gt;
+&lt;h1 id=&#34;反響&#34;&gt;反響&lt;/h1&gt;
 
 &lt;p&gt;正直、かなりスベった感があります。&lt;br /&gt;
 テーマ自体に興味がある人がそもそも少なかったというか。&lt;br /&gt;
@@ -37,7 +36,7 @@
 &lt;p&gt;寺田さんにもなんか慰められてしまう始末で、次回何とかリベンジしていきたいですね。&lt;br /&gt;
 (まあ別に凹んだとかそういうのは一切ないんですけど)&lt;/p&gt;
 
-&lt;h1 id=&#34;その他:e6674fd39a6de394888d9ee08ff0b12d&#34;&gt;その他&lt;/h1&gt;
+&lt;h1 id=&#34;その他&#34;&gt;その他&lt;/h1&gt;
 
 &lt;p&gt;tenguでは、picture showをそのままラップする以外に、プレゼンのカンペというかメモというか、そういうのを裏で表示する機能を追加してあります。&lt;br /&gt;
 そのへん &lt;a href=&#34;https://twitter.com/yusuke&#34;&gt;イケメン&lt;/a&gt; に見せたら、&lt;br /&gt;
