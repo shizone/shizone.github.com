@@ -10,7 +10,7 @@ build:
     - arjen/hugo-build:
         version: "0.40.3"
         theme: hugo-zen
-        flags: --disableSitemap=true
+        flags: --disableKinds=sitemap
 deploy:
   steps:
     - leipert/git-push:
