@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/java-scala/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Java Scala on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/java-scala/</link>
+    <description>Recent content in Java Scala on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/java-scala/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/java-scala/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>第3回 岡山Javaユーザ会 勉強会で発表してきた</title>
@@ -15,29 +18,13 @@
       <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/08/01/0007/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://okajug.appspot.com/study03.html#study03&#34;&gt;第3回 岡山Javaユーザ会 勉強会&lt;/a&gt; で発表してきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shizone.github.com/slides/okajug_03/&#34;&gt;死霊&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;発表について&#34;&gt;発表について&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shizone.github.com/2012/07/13/0003/&#34;&gt;前回の天領倉敷Scala&lt;/a&gt; でおさらいした話をベースに
-微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。
-天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。&lt;/p&gt;
-
-&lt;p&gt;でも結構ガッツリやんないと伝わらないんだよなぁ。この辺のバランス取りは毎回難しいですね。&lt;/p&gt;
-
-&lt;h2 id=&#34;金魚本忘れて悔しい思いをしたお話&#34;&gt;金魚本忘れて悔しい思いをしたお話&lt;/h2&gt;
-
-&lt;p&gt;折角寺田さんが岡山に来たのに、金魚本持ってくるの忘れちゃったんですよね。
-んでサプライズで金魚本プレゼントがあったもんだから貰った人たちはサインして貰っててぐぬぬってました。&lt;/p&gt;
-
-&lt;p&gt;スタッフの立場を忘れてガチで勝ちに行く根本さん大人気ない！&lt;/p&gt;
-
-&lt;p&gt;次寺田さんが岡山に来た時は絶対に忘れないようにしないとですね。&lt;/p&gt;
-</description>
+      <description>第3回 岡山Javaユーザ会 勉強会 で発表してきました。
+死霊
+発表について 前回の天領倉敷Scala でおさらいした話をベースに 微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。 天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。
+でも結構ガッツリやんないと伝わらないんだよなぁ。この辺のバランス取りは毎回難しいですね。
+金魚本忘れて悔しい思いをしたお話 折角寺田さんが岡山に来たのに、金魚本持ってくるの忘れちゃったんですよね。 んでサプライズで金魚本プレゼントがあったもんだから貰った人たちはサインして貰っててぐぬぬってました。
+スタッフの立場を忘れてガチで勝ちに行く根本さん大人気ない！
+次寺田さんが岡山に来た時は絶対に忘れないようにしないとですね。</description>
     </item>
     
   </channel>

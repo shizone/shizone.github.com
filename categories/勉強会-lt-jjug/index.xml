@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>勉強会 Lt Jjug on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/</link>
+    <description>Recent content in 勉強会 Lt Jjug on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JJUG ナイト・セミナーでLTしてきた</title>
@@ -15,25 +18,10 @@
       <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2013/08/21/0016/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://jjug.doorkeeper.jp/events/5347&#34;&gt;JJUG ナイト・セミナー 「ビール片手にLT&amp;amp;納涼会」 &lt;/a&gt; に参加してLTしてきました。&lt;/p&gt;
-
-&lt;h2 id=&#34;死霊-ltで使ったやつからちょっと弄ってます&#34;&gt;死霊(LTで使ったやつからちょっと弄ってます)&lt;/h2&gt;
-
-&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;09f3be50ebda013019536e84def31497&#34; data-ratio=&#34;1.33507170795306&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;だけじゃわからないと思うので動画&#34;&gt;だけじゃわからないと思うので動画&lt;/h2&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/Vny3t46ke44?list=PLuLCOB9HcrT158On7BxjnQoJohO7eKGIc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;参加してみて&#34;&gt;参加してみて&lt;/h2&gt;
-
-&lt;p&gt;大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。&lt;br /&gt;
-次はマジメな奴に挑戦してみたいですね。&lt;/p&gt;
-
-&lt;p&gt;はっ、&lt;a href=&#34;http://www.java-users.jp/?p=598&#34;&gt;JJUG CCC&lt;/a&gt; か…！&lt;/p&gt;
-</description>
+      <description>JJUG ナイト・セミナー 「ビール片手にLT&amp;amp;納涼会」  に参加してLTしてきました。
+死霊(LTで使ったやつからちょっと弄ってます)  だけじゃわからないと思うので動画  参加してみて 大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。
+次はマジメな奴に挑戦してみたいですね。
+はっ、JJUG CCC か…！</description>
     </item>
     
   </channel>

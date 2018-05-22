@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/clojure-spark/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Clojure Spark on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/clojure-spark/</link>
+    <description>Recent content in Clojure Spark on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/clojure-spark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/clojure-spark/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>ClojureとSinatraっぽいほうのSparkで遊んでみた</title>
@@ -15,14 +18,8 @@
       <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2014/10/17/0029/</guid>
-      <description>&lt;p&gt;なんとなく思うところがあって、Clojureと &lt;a href=&#34;http://www.sparkjava.com/&#34;&gt;SinatraっぽいほうのSpark&lt;/a&gt; (紛らわしいんよな…)でHello Worldしてみました。&lt;/p&gt;
-
-&lt;script src=&#34;http://gist-it.appspot.com/github/shizone/ClojureOnSpark/blob/master/project.clj&#34;&gt;&lt;/script&gt;
-
-&lt;script src=&#34;http://gist-it.appspot.com/github/shizone/ClojureOnSpark/blob/master/src/app.clj&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;Java8で書くのと比べて色々とクドい感じだけど、まぁこの辺はマクロでよしなにせぇっつう感じなんですかねぇ。&lt;/p&gt;
-</description>
+      <description>なんとなく思うところがあって、Clojureと SinatraっぽいほうのSpark (紛らわしいんよな…)でHello Worldしてみました。
+  Java8で書くのと比べて色々とクドい感じだけど、まぁこの辺はマクロでよしなにせぇっつう感じなんですかねぇ。</description>
     </item>
     
   </channel>

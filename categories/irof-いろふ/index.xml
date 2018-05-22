@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/irof-%E3%81%84%E3%82%8D%E3%81%B5/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Irof いろふ on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/irof-%E3%81%84%E3%82%8D%E3%81%B5/</link>
+    <description>Recent content in Irof いろふ on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/irof-%E3%81%84%E3%82%8D%E3%81%B5/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/irof-%E3%81%84%E3%82%8D%E3%81%B5/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>我々はいろふだ</title>
@@ -15,36 +18,14 @@
       <pubDate>Sun, 09 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/12/09/0011/</guid>
-      <description>
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://atnd.org/events/34079&#34;&gt;いろふ Advent Calendar&lt;/a&gt; の9日目です。&lt;/p&gt;
-
-&lt;p&gt;前日は &lt;a href=&#34;http://twitter.com/kazuhito_m&#34;&gt;@kazuhito_m    &lt;/a&gt; さんの &lt;a href=&#34;http://www.bnbm.tk/2012/12/blog-post.html&#34;&gt;いろふさんなら横でビルドしてるけど&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
-
-&lt;p&gt;世間ではいろふさんはインスタンスが増えるとかどうとか俄に囁かれていますね。しかし私は思うのです。
-いろふ Advent Calendarに参加している我々ももしかしていろふのインスタンスではないのか…と。&lt;/p&gt;
-
-&lt;p&gt;そんな訳でこんなグリモンをゴリッと書いてみました。&lt;/p&gt;
-
-&lt;script src=&#34;https://gist.github.com/4245034.js?file=irof.user.js&#34;&gt;&lt;/script&gt;
-
-&lt;h3 id=&#34;適用結果&#34;&gt;適用結果&lt;/h3&gt;
-
-&lt;p&gt;&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/8021q1Bu_IBi9hFYpo4ABtMTjNZETYmyPJy0liipFm0?feat=embedwebsite&#34;&gt;&amp;lt;img src=&amp;ldquo;&lt;a href=&#34;https://lh3.googleusercontent.com/-ao6zjZfoLVw/UMScFldIX2I/AAAAAAAAARU/bcGGToWF8kw/s800/Screenshot_from_&amp;quot;2012-12-09&amp;quot;&#34;&gt;https://lh3.googleusercontent.com/-ao6zjZfoLVw/UMScFldIX2I/AAAAAAAAARU/bcGGToWF8kw/s800/Screenshot_from_&amp;quot;2012-12-09&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;うん。これが正しい。&lt;/p&gt;
-
-&lt;h2 id=&#34;諸注意&#34;&gt;諸注意&lt;/h2&gt;
-
-&lt;p&gt;いろふ Advent Calendar参加者の皆様はコレを導入してしまうと誰が誰だかわかんなくなって記事書くのが全く以て捗らなくなるので注意してください。
-導入してｷﾀｺﾚと思いつつもこれ書く時に頭を抱えて泣く泣く切った先駆者からの忠告です。&lt;/p&gt;
-
-&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
-
-&lt;p&gt;明日は &lt;a href=&#34;https://twitter.com/kimukou_26&#34;&gt;@kimukou_26&lt;/a&gt; さんです。&lt;/p&gt;
-</description>
+      <description>このエントリは いろふ Advent Calendar の9日目です。
+前日は @kazuhito_m  さんの いろふさんなら横でビルドしてるけど でした。
+本題 世間ではいろふさんはインスタンスが増えるとかどうとか俄に囁かれていますね。しかし私は思うのです。 いろふ Advent Calendarに参加している我々ももしかしていろふのインスタンスではないのか…と。
+そんな訳でこんなグリモンをゴリッと書いてみました。
+ 適用結果 &amp;lt;img src=&amp;ldquo;https://lh3.googleusercontent.com/-ao6zjZfoLVw/UMScFldIX2I/AAAAAAAAARU/bcGGToWF8kw/s800/Screenshot_from_&amp;quot;2012-12-09&amp;quot;
+うん。これが正しい。
+諸注意 いろふ Advent Calendar参加者の皆様はコレを導入してしまうと誰が誰だかわかんなくなって記事書くのが全く以て捗らなくなるので注意してください。 導入してｷﾀｺﾚと思いつつもこれ書く時に頭を抱えて泣く泣く切った先駆者からの忠告です。
+最後に 明日は @kimukou_26 さんです。</description>
     </item>
     
   </channel>

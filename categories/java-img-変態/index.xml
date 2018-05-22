@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/java-img-%E5%A4%89%E6%85%8B/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Java Img 変態 on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/java-img-%E5%A4%89%E6%85%8B/</link>
+    <description>Recent content in Java Img 変態 on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/java-img-%E5%A4%89%E6%85%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/java-img-%E5%A4%89%E6%85%8B/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Javaの痛IDE用画像が欲しい(2)</title>
@@ -15,30 +18,14 @@
       <pubDate>Fri, 10 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/08/10/0008/</guid>
-      <description>
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://atnd.org/events/29918&#34;&gt;変態アドベントカレンダー in Summer&lt;/a&gt; の何日目かはもうよくわかりません。&lt;/p&gt;
-
-&lt;p&gt;前回は &lt;a href=&#34;http://twitter.com/dproject21&#34;&gt;@dproject21&lt;/a&gt; さんの &lt;a href=&#34;http://d.hatena.ne.jp/dproject21/20120808/1344426335&#34;&gt;「iStockPhoto乞食」という変態プレゼンターな生き方&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;p&gt;一周前の &lt;a href=&#34;http://shizone.github.com/2012/07/30/0005/&#34;&gt;Javaの痛IDE用画像が欲しい(1)&lt;/a&gt; の完結編になります。&lt;/p&gt;
-
-&lt;h2 id=&#34;今回の成果物&#34;&gt;今回の成果物&lt;/h2&gt;
-
-&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/5SzShRqxzRrjmMfipmlFX2v193fpos-OgzdMgyvGVEI?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-VIPlri4fHq0/UCUbtwNKoNI/AAAAAAAAAQs/lr2A3zPHPYE/s640/okymjavaco_fix.png&#34; height=&#34;640&#34; width=&#34;549&#34; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;font-family:arial,sans-serif; font-size:11px; text-align:right&#34;&gt;送信者 &lt;a href=&#34;https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&amp;authkey=Gv1sRgCKL49v_py4HhAw&amp;feat=embedwebsite&#34;&gt;変態アドベントカレンダー&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;p&gt;SexyEditorへの適応例&lt;/p&gt;
-
-&lt;p&gt;&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/QA8BdWxpvyCUnBr7GvUwcWv193fpos-OgzdMgyvGVEI?feat=embedwebsite&#34;&gt;&amp;lt;img src=&amp;ldquo;&lt;a href=&#34;https://lh4.googleusercontent.com/-6MbmDd1ffFg/UCUbwYY5ItI/AAAAAAAAAQ0/wXNpKApEj-U/s640/Screenshot_from_&amp;quot;2012-08-10&amp;quot;&#34;&gt;https://lh4.googleusercontent.com/-6MbmDd1ffFg/UCUbwYY5ItI/AAAAAAAAAQ0/wXNpKApEj-U/s640/Screenshot_from_&amp;quot;2012-08-10&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;これで &lt;a href=&#34;http://okajug.appspot.com/&#34;&gt;#okajug&lt;/a&gt; で痛IDEを披露して周囲をドン引きさせることができますね。&lt;/p&gt;
-
-&lt;h1 id=&#34;最後に&#34;&gt;最後に&lt;/h1&gt;
-
-&lt;p&gt;変態アドベントカレンダーも残すところあと2日となりましたが、大トリは誰になるのでしょうか？&lt;/p&gt;
-
-&lt;p&gt;期待して待ちたいと思います。&lt;/p&gt;
-</description>
+      <description>このエントリは 変態アドベントカレンダー in Summer の何日目かはもうよくわかりません。
+前回は @dproject21 さんの 「iStockPhoto乞食」という変態プレゼンターな生き方 でした。
+一周前の Javaの痛IDE用画像が欲しい(1) の完結編になります。
+今回の成果物 送信者 変態アドベントカレンダー SexyEditorへの適応例
+&amp;lt;img src=&amp;ldquo;https://lh4.googleusercontent.com/-6MbmDd1ffFg/UCUbwYY5ItI/AAAAAAAAAQ0/wXNpKApEj-U/s640/Screenshot_from_&amp;quot;2012-08-10&amp;quot;
+これで #okajug で痛IDEを披露して周囲をドン引きさせることができますね。
+最後に 変態アドベントカレンダーも残すところあと2日となりましたが、大トリは誰になるのでしょうか？
+期待して待ちたいと思います。</description>
     </item>
     
     <item>
@@ -47,46 +34,16 @@
       <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/07/30/0005/</guid>
-      <description>
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://atnd.org/events/29918&#34;&gt;変態アドベントカレンダー in Summer&lt;/a&gt; の15日目です。
-寝るまでが今日です。&lt;/p&gt;
-
-&lt;p&gt;前日は &lt;a href=&#34;http://twitter.com/backpaper0&#34;&gt;@backpaper0&lt;/a&gt; さんの &lt;a href=&#34;http://d.hatena.ne.jp/backpaper0/20120728/1343484422&#34;&gt;例外投げ祭り&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;前置き&#34;&gt;前置き&lt;/h2&gt;
-
-&lt;p&gt;今回のネタは、「HENTAI」路線で行こうかなーと。&lt;/p&gt;
-
-&lt;p&gt;IntelliJ IDEAには、 &lt;a href=&#34;http://plugins.intellij.net/plugin/index?pr=idea&amp;amp;pluginId=1833&#34;&gt;Sexy Editor&lt;/a&gt; という痛IDEを作るためのPluginが存在します。
-で、このPlugin、拡張子ごとに別の画像が設定できたりとかそんな感じで素敵なんですが、
-今んとこScala用としてScalaちゃんの画像を用意していますがJava用の画像がないなーと前々から思っていました。&lt;/p&gt;
-
-&lt;p&gt;実は &lt;a href=&#34;http://okajug.appspot.com/&#34;&gt;岡山Javaユーザ会&lt;/a&gt; には岡山Java子ちゃんというマスコットキャラがいて、
-（参考画像：
-&lt;a href=&#34;https://twitter.com/okazaking1977/status/157770403119501312/photo/1&#34;&gt;このへん&lt;/a&gt; とか &lt;a href=&#34;http://via.me/-2v6hqbo&#34;&gt;このへん&lt;/a&gt;
-）
-この子を痛IDE用素材として使いたいなーと思ったので自作することに。
-今回は第1回目として取り敢えず軽く書いて、単色を置いて見ました。&lt;/p&gt;
-
-&lt;h2 id=&#34;今回の成果物&#34;&gt;今回の成果物&lt;/h2&gt;
-
-&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/IM6TCUyuvnIOz7h8pBt8M2v193fpos-OgzdMgyvGVEI?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-QROIYXPCUoA/UBVdu8piWuI/AAAAAAAAAP8/CW250vfDbk8/s400/okymjavaco_1.png&#34; height=&#34;400&#34; width=&#34;300&#34; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;font-family:arial,sans-serif; font-size:11px; text-align:right&#34;&gt;送信者 &lt;a href=&#34;https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&amp;authkey=Gv1sRgCKL49v_py4HhAw&amp;feat=embedwebsite&#34;&gt;変態アドベントカレンダー&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;p&gt;で、おまけでDuke準拠？のカラーとかも。&lt;/p&gt;
-
-&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/7lVY6SJctsUY8Zs1rzZAemv193fpos-OgzdMgyvGVEI?feat=embedwebsite&#34;&gt;&lt;img src=&#34;https://lh6.googleusercontent.com/-2L-GEZm-gUs/UBVdu7QFWYI/AAAAAAAAAQE/wa_gvpFnTT8/s400/okymjavaco_2.png&#34; height=&#34;400&#34; width=&#34;300&#34; /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;font-family:arial,sans-serif; font-size:11px; text-align:right&#34;&gt;送信者 &lt;a href=&#34;https://picasaweb.google.com/117560743785798308154/yEKjcF?authuser=0&amp;authkey=Gv1sRgCKL49v_py4HhAw&amp;feat=embedwebsite&#34;&gt;変態アドベントカレンダー&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
-&lt;p&gt;試しにSexy Editorに設定してみたりとか&lt;/p&gt;
-
-&lt;p&gt;&lt;table style=&#34;width:auto;&#34;&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&#34;https://picasaweb.google.com/lh/photo/aRzoQXMILC3oDUcZfesA-2v193fpos-OgzdMgyvGVEI?feat=embedwebsite&#34;&gt;&amp;lt;img src=&amp;ldquo;&lt;a href=&#34;https://lh3.googleusercontent.com/-QMICsJDaBSE/UBa3fdaD91I/AAAAAAAAAQY/IfeD7bX8Ws8/s640/Screenshot_from_&amp;quot;2012-07-31&amp;quot;&#34;&gt;https://lh3.googleusercontent.com/-QMICsJDaBSE/UBa3fdaD91I/AAAAAAAAAQY/IfeD7bX8Ws8/s640/Screenshot_from_&amp;quot;2012-07-31&amp;quot;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;どうせアドベントカレンダーはもう一周するので、完成は次回という事で。&lt;/p&gt;
-
-&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
-
-&lt;p&gt;明日は根本さんこと &lt;a href=&#34;http://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt; さんです。&lt;/p&gt;
-</description>
+      <description>このエントリは 変態アドベントカレンダー in Summer の15日目です。 寝るまでが今日です。
+前日は @backpaper0 さんの 例外投げ祭り でした。
+前置き 今回のネタは、「HENTAI」路線で行こうかなーと。
+IntelliJ IDEAには、 Sexy Editor という痛IDEを作るためのPluginが存在します。 で、このPlugin、拡張子ごとに別の画像が設定できたりとかそんな感じで素敵なんですが、 今んとこScala用としてScalaちゃんの画像を用意していますがJava用の画像がないなーと前々から思っていました。
+実は 岡山Javaユーザ会 には岡山Java子ちゃんというマスコットキャラがいて、 （参考画像： このへん とか このへん ） この子を痛IDE用素材として使いたいなーと思ったので自作することに。 今回は第1回目として取り敢えず軽く書いて、単色を置いて見ました。
+今回の成果物 送信者 変態アドベントカレンダー で、おまけでDuke準拠？のカラーとかも。
+送信者 変態アドベントカレンダー 試しにSexy Editorに設定してみたりとか
+&amp;lt;img src=&amp;ldquo;https://lh3.googleusercontent.com/-QMICsJDaBSE/UBa3fdaD91I/AAAAAAAAAQY/IfeD7bX8Ws8/s640/Screenshot_from_&amp;quot;2012-07-31&amp;quot;
+どうせアドベントカレンダーはもう一周するので、完成は次回という事で。
+最後に 明日は根本さんこと @zephiransas さんです。</description>
     </item>
     
   </channel>

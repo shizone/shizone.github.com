@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8B%89%E5%BC%B7%E4%BC%9A-oso/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>セミナー 勉強会 Oso on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8B%89%E5%BC%B7%E4%BC%9A-oso/</link>
+    <description>Recent content in セミナー 勉強会 Oso on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8B%89%E5%BC%B7%E4%BC%9A-oso/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8B%89%E5%BC%B7%E4%BC%9A-oso/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>オープンセミナー2014@岡山に参加してきました</title>
@@ -15,53 +18,29 @@
       <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2014/05/23/0023/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/profile_banners/5805422/1400385563/web_retina =720x&#34; alt=&#34;軍団長に殺されかけました&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;5/17に開催された &lt;a href=&#34;http://okayama.open-seminar.org/&#34;&gt;オープンセミナー2014@岡山&lt;/a&gt; に参加してきました。&lt;/p&gt;
-
-&lt;h2 id=&#34;参加してみて&#34;&gt;参加してみて&lt;/h2&gt;
-
-&lt;p&gt;今回は「フロントエンドとサーバーサイド」というテーマだったこともあって、デザイナーっぽい方面の人もそこそこ参加してました。&lt;br /&gt;
-皆、普段良く聞くテーマの話とあまり聞かないテーマの話、バランス良く聞けてよかったのではないかと思います。&lt;/p&gt;
-
-&lt;p&gt;個人的には最近はインフラ方面のノウハウを蓄積していきたいと思っているので、大場さんの話が聞けてよかったです。&lt;/p&gt;
-
-&lt;p&gt;毎年の実行委員長が抱いている想いというか、拘りみたいなものが垣間見えて、色々と興味深い。&lt;br /&gt;
-来年の実行委員長である &lt;a href=&#34;https://twitter.com/i705&#34;&gt;軍団長&lt;/a&gt; がどのようなセミナーをつくり上げるか、今から楽しみでもあります。&lt;/p&gt;
-
-&lt;p&gt;実行委員長の &lt;a href=&#34;https://twitter.com/mako_wis&#34;&gt;ハーレムさん&lt;/a&gt; 、 本当にお疲れ様でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;スタッフとして&#34;&gt;スタッフとして&lt;/h2&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;なんだかんだでオープンセミナーは半年仕事だから結構色々とリソース持ってかれる感あったなぁ。&amp;#10;来年はハーレムさんも軍団長も無理しない程度に頑張ってくだせぇ。&amp;#10;お手伝いできるところはしますので。&lt;/p&gt;&amp;mdash; いいえ、私は遠慮しておきます (@razon) &lt;a href=&#34;https://twitter.com/razon/statuses/333751167689580544&#34;&gt;2013, 5月 13&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;とかいっちょ前のことを言ってたんですが、如何せん仕事で多摩送りにされていた所為で全然手伝いができませんでした。&lt;br /&gt;
-&lt;a href=&#34;https://twitter.com/mako_wis&#34;&gt;ハーレムさん&lt;/a&gt; 、 &lt;a href=&#34;https://twitter.com/i705&#34;&gt;軍団長&lt;/a&gt; 、マジすまんかった。&lt;/p&gt;
-
-&lt;p&gt;という訳でやった仕事といえば当日の懇親会の司会くらい。&lt;br /&gt;
-何となく &lt;a href=&#34;http://www.amazon.co.jp/dp/B004VJPHCM&#34;&gt;マサカリ&lt;/a&gt; と &lt;a href=&#34;http://www.amazon.co.jp/dp/B002OSY4YO&#34;&gt;こん棒&lt;/a&gt; を持っていったのですがそこそこ活躍しました。&lt;/p&gt;
-
-&lt;p&gt;今回は実行委員長を労おうと、サプライズでプレゼント(寄せ書きとAmazonのWish Listからポチった)を用意しました。&lt;br /&gt;
-オープンセミナーに限らず、勉強会の運営で頑張る人たちへ、プラスになるような仕組みを色々と作っていければと思います。&lt;/p&gt;
-
-&lt;p&gt;大都会の懇親会といえば大きくネタ方面に振れたLTがウリですが、今回初めて座・スタジアムにお越し頂いた方々、お楽しみいただけたでしょうか。&lt;br /&gt;
-これから他のイベントにもいろいろ参加してくれると嬉しいなぁ、とか。&lt;/p&gt;
-
-&lt;p&gt;特に &lt;a href=&#34;http://gbdaitokai.doorkeeper.jp/&#34;&gt;このへん&lt;/a&gt; とか &lt;a href=&#34;http://bonenkaigi.doorkeeper.jp/&#34;&gt;このへん&lt;/a&gt; にメンバー登録しておくと、色々とステキな感じになるのでは。&lt;/p&gt;
-
-&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
-
-&lt;p&gt;オープンセミナーの実行委員会は、来年のセミナーを運営してくれる新メンバーを大募集しているような気がします。&lt;br /&gt;
-いや誰にも聞いてないんですけど。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/i705&#34;&gt;軍団長&lt;/a&gt; とかに「俺が来年の岡山を盛り上げるぜ！」みたいな感じでコンタクトを取るとステキだなぁ、とか思ったりします。&lt;br /&gt;
-俺が。&lt;/p&gt;
-
-&lt;p&gt;皆様の参加を心よりお待ちしています。&lt;/p&gt;
-</description>
+      <description>5/17に開催された オープンセミナー2014@岡山 に参加してきました。
+参加してみて 今回は「フロントエンドとサーバーサイド」というテーマだったこともあって、デザイナーっぽい方面の人もそこそこ参加してました。
+皆、普段良く聞くテーマの話とあまり聞かないテーマの話、バランス良く聞けてよかったのではないかと思います。
+個人的には最近はインフラ方面のノウハウを蓄積していきたいと思っているので、大場さんの話が聞けてよかったです。
+毎年の実行委員長が抱いている想いというか、拘りみたいなものが垣間見えて、色々と興味深い。
+来年の実行委員長である 軍団長 がどのようなセミナーをつくり上げるか、今から楽しみでもあります。
+実行委員長の ハーレムさん 、 本当にお疲れ様でした。
+スタッフとして なんだかんだでオープンセミナーは半年仕事だから結構色々とリソース持ってかれる感あったなぁ。&amp;#10;来年はハーレムさんも軍団長も無理しない程度に頑張ってくだせぇ。&amp;#10;お手伝いできるところはしますので。
+&amp;mdash; いいえ、私は遠慮しておきます (@razon) 2013, 5月 13 
+とかいっちょ前のことを言ってたんですが、如何せん仕事で多摩送りにされていた所為で全然手伝いができませんでした。
+ハーレムさん 、 軍団長 、マジすまんかった。
+という訳でやった仕事といえば当日の懇親会の司会くらい。
+何となく マサカリ と こん棒 を持っていったのですがそこそこ活躍しました。
+今回は実行委員長を労おうと、サプライズでプレゼント(寄せ書きとAmazonのWish Listからポチった)を用意しました。
+オープンセミナーに限らず、勉強会の運営で頑張る人たちへ、プラスになるような仕組みを色々と作っていければと思います。
+大都会の懇親会といえば大きくネタ方面に振れたLTがウリですが、今回初めて座・スタジアムにお越し頂いた方々、お楽しみいただけたでしょうか。
+これから他のイベントにもいろいろ参加してくれると嬉しいなぁ、とか。
+特に このへん とか このへん にメンバー登録しておくと、色々とステキな感じになるのでは。
+さいごに オープンセミナーの実行委員会は、来年のセミナーを運営してくれる新メンバーを大募集しているような気がします。
+いや誰にも聞いてないんですけど。
+軍団長 とかに「俺が来年の岡山を盛り上げるぜ！」みたいな感じでコンタクトを取るとステキだなぁ、とか思ったりします。
+俺が。
+皆様の参加を心よりお待ちしています。</description>
     </item>
     
   </channel>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/javafx-linux-wine/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Javafx Linux Wine on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/javafx-linux-wine/</link>
+    <description>Recent content in Javafx Linux Wine on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/javafx-linux-wine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/javafx-linux-wine/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>LinuxでJavaFX Scene Builderを動かし隊</title>
@@ -15,61 +18,26 @@
       <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/07/31/0006/</guid>
-      <description>
-
-&lt;h2 id=&#34;今回のお題&#34;&gt;今回のお題&lt;/h2&gt;
-
-&lt;p&gt;JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。
-Linux版の2.xもだいぶ遅れて出ましたし。&lt;/p&gt;
-
-&lt;p&gt;んで先日の &lt;a href=&#34;http://okajug.appspot.com/study03.html#study03&#34;&gt;第３回 岡山Javaユーザ会 勉強会&lt;/a&gt; でも &lt;a href=&#34;https://twitter.com/a_know&#34;&gt;@a_know&lt;/a&gt; さんのJavaFXのセッション聞いてて、
-JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。&lt;/p&gt;
-
-&lt;p&gt;が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;JavaFX Scene BuilderってWineで動くかなぁ&lt;/p&gt;&amp;mdash; ヴィムさん (@razon) &lt;a href=&#34;https://twitter.com/razon/status/229745213688664064&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/razon&#34;&gt;razon&lt;/a&gt; JavaFXで書かれてるんじゃなかったっけ？&lt;/p&gt;&amp;mdash; 48さん (@bleu48) &lt;a href=&#34;https://twitter.com/bleu48/status/229746698266763264&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;bleu48&lt;/a&gt; インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。&lt;/p&gt;&amp;mdash; ヴィムさん (@razon) &lt;a href=&#34;https://twitter.com/razon/status/229747230268067841&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;bleu48&lt;/a&gt; @&lt;a href=&#34;https://twitter.com/razon&#34;&gt;razon&lt;/a&gt; JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。&lt;/p&gt;&amp;mdash; Yuichi Sakurabaさん (@skrb) &lt;a href=&#34;https://twitter.com/skrb/status/229750245662265344&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/skrb&#34;&gt;skrb&lt;/a&gt; @&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;bleu48&lt;/a&gt; なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。&lt;/p&gt;&amp;mdash; ヴィムさん (@razon) &lt;a href=&#34;https://twitter.com/razon/status/229750737972887552&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/razon&#34;&gt;razon&lt;/a&gt; @&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;bleu48&lt;/a&gt; ぜひやってみて、うまくいったら教えてください！！&lt;/p&gt;&amp;mdash; Yuichi Sakurabaさん (@skrb) &lt;a href=&#34;https://twitter.com/skrb/status/229751448903237632&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;@&lt;a href=&#34;https://twitter.com/skrb&#34;&gt;skrb&lt;/a&gt; @&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;bleu48&lt;/a&gt; そうですねー。ちょっと、チャレンジしてみます！&lt;/p&gt;&amp;mdash; ヴィムさん (@razon) &lt;a href=&#34;https://twitter.com/razon/status/229751915469221889&#34; data-datetime=&#34;&#34;2012-07-30&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;てな訳で、試してみました。&lt;/p&gt;
-
-&lt;h2 id=&#34;手順&#34;&gt;手順&lt;/h2&gt;
-
-&lt;p&gt;手順自体はすっげー単純で、&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Wine入れる(ふつーにapt-getとかで入れておっけーです)&lt;/li&gt;
-&lt;li&gt;Windows版のJDK7+JavaFX2.xをWineで突っ込む&lt;/li&gt;
-&lt;li&gt;Windows版のJavaFX Scene BuilderをWineで突っ込む&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;という、手順を書く必要があるのかっていうくらいそのまま行けました。
-特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitpic.com/adihgm&#34;&gt;
-&lt;img src=&#34;http://twitpic.com/show/large/adihgm&#34; alt=&#34;JavaFX Scene Builder on Ubuntu 12.04 LTS&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Windows版のJDKを入れないといけないのが何だか敗北感満載ですが、何とか動いたのでよしとします。
-これでScene Builder動かしてるの見てぐぬぬってなることもなくなりましたね。めでたしめでたし。&lt;/p&gt;
-</description>
+      <description>今回のお題 JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。 Linux版の2.xもだいぶ遅れて出ましたし。
+んで先日の 第３回 岡山Javaユーザ会 勉強会 でも @a_know さんのJavaFXのセッション聞いてて、 JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。
+が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、
+JavaFX Scene BuilderってWineで動くかなぁ
+&amp;mdash; ヴィムさん (@razon) 
+@razon JavaFXで書かれてるんじゃなかったっけ？
+&amp;mdash; 48さん (@bleu48) 
+@bleu48 インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。
+&amp;mdash; ヴィムさん (@razon) 
+@bleu48 @razon JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。
+&amp;mdash; Yuichi Sakurabaさん (@skrb) 
+@skrb @bleu48 なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。
+&amp;mdash; ヴィムさん (@razon) 
+@razon @bleu48 ぜひやってみて、うまくいったら教えてください！！
+&amp;mdash; Yuichi Sakurabaさん (@skrb) 
+@skrb @bleu48 そうですねー。ちょっと、チャレンジしてみます！
+&amp;mdash; ヴィムさん (@razon) 
+てな訳で、試してみました。
+手順 手順自体はすっげー単純で、
+ Wine入れる(ふつーにapt-getとかで入れておっけーです) Windows版のJDK7+JavaFX2.xをWineで突っ込む Windows版のJavaFX Scene BuilderをWineで突っ込む  という、手順を書く必要があるのかっていうくらいそのまま行けました。 特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。</description>
     </item>
     
   </channel>

@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SHI-Zone</title>
-    <link>http://shizone.github.io/index.xml</link>
+    <link>http://shizone.github.io/</link>
     <description>Recent content on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sat, 16 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://shizone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>忘年会議のスタッフを募集します</title>
+      <link>http://shizone.github.io/2018/05/22/0052/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2018/05/22/0052/</guid>
+      <description>ご安全に！もじゃ変です。
+昨年 きよくらさん から 忘年会議 の運営を引き継ぎまして、そろそろメンバー増員して役割分担しないと体制的にヤバいなーという気がしてきたのでお手伝いして頂ける方を募集したいと思います。
+ボスケテ
+忘年会議 is 何  忘年会議とは、毎年12月に岡山で開催されている、瀬戸内地方のIT技術に興味ある方が一同に会する恒例の名物的なイベントです。
+ https://bonenkaigi.connpass.com/
+日本一の懇親会場として名高い Ryoutei 座・スタジアム で開催されております。
+岡山の「Ryoutei 座・スタジアム」は日本一の懇親会会場だと思う #oso2017 pic.twitter.com/gs78VacV1J
+&amp;mdash; Takuto Wada (@t_wada) 2017年5月13日 
+募集する役割 1. 昼の部(合同勉強会)の司会  直接忘年会議とは関係ないのですが、昼の部である 合同勉強会 in 大都会岡山 の司会です  2. 夜の部(忘年会議)のメイン司会  本編のメイン司会です  オープニング(会場諸注意等) 大都会アワード のプレゼンター 〆 などなど、司会全般です   3. 忘年会議アーリーチェックイン(昼間の先行受付)  忘年会議の受付をスムーズにするため、昼間の合同勉強会の間に先行して料金の支払い・入場券の発行を行うアーリーチェックインを実施しています  4. 忘年会議受付  アーリーチェックイン済みの入場券チェックと会場で入場受付される方の料金支払い、金額計算と支払の担当です  5. オープンセミナーの日程調整進行  忘年会議内で各地方の オープンセミナー の開催日程および実行委員長/副実行委員長調整が開催されるため、その司会進行  #忘年会議 @Ryotei 座・スタジアムの最中に、来年のオープンセミナーの日程調整してた。こんなの全国的にも初めて見た！ pic.</description>
+    </item>
     
     <item>
       <title>主催者のためのRyoutei 座・スタジアム利用ガイド</title>
@@ -16,82 +35,28 @@
       <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/12/16/0051/</guid>
-      <description>
-
-&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/35002354133/in/album-72157682866520502/lightbox/&#34; title=&#34;DSC_1422&#34;&gt;&lt;img src=&#34;https://farm5.staticflickr.com/4229/35002354133_4e38b52e31_b.jpg&#34; width=&#34;1024&#34; height=&#34;684&#34; alt=&#34;DSC_1422&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ご安全に！もじゃ変です。&lt;br /&gt;
-このエントリは &lt;a href=&#34;https://adventar.org/calendars/2259&#34;&gt;大都会岡山 Advent Calendar 2017&lt;/a&gt; の16日目です。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
-
-&lt;p&gt;大都会界隈が誇る懇親会場として名高い &lt;a href=&#34;http://www.233-3959.com/pc/ryoutei/disp_catalogue.php?key=13&#34;&gt;Ryoutei 座・スタジアム&lt;/a&gt; (よくわからない方は&lt;a href=&#34;http://shizone.github.io/2014/09/03/0024/&#34;&gt;過去エントリ&lt;/a&gt; を参照のこと) を何らかのイベントで使ってみたいという方向けに、個人的に気をつけていることなどを書いていきたいと思います。皆も座を使ってなんかイベントを開催してくれよな！&lt;/p&gt;
-
-&lt;h2 id=&#34;予約をする&#34;&gt;予約をする&lt;/h2&gt;
-
-&lt;p&gt;まずは会場の予約ですが、ハコが1枠しかないので割とサクッと予約が埋まってしまいます。2ヶ月先とかでも埋まってる時は埋まっちゃう感じ。&lt;br /&gt;
-&lt;strong&gt;予約するのは早ければ早いほうがいい&lt;/strong&gt; というのと、予約連絡を入れる前に候補日を幾つか用意しておいたほうがよいです。&lt;br /&gt;
-また、最小20人以上必要なので、何人くらい集まりそうかは予測を立てておく必要があります。&lt;br /&gt;
-(昔ニッチなイベントをやって人が集まらなかったのでキャンセルして別会場にした苦い思い出があります)&lt;/p&gt;
-
-&lt;p&gt;人数変更は、わかった時点で早めにお店に連絡しておきましょう。&lt;br /&gt;
-会場がビュッフェスタイルなのもあり、当日の人数変更も大幅な増減がなければ調整できます。ここも座のありがたいポイントですね。(とはいえドタキャンとかがないように参加者にはキャンセル処理の徹底をしておいたほうがいいです)&lt;/p&gt;
-
-&lt;h2 id=&#34;クーポンを確認する&#34;&gt;クーポンを確認する&lt;/h2&gt;
-
-&lt;p&gt;座・スタジアムの料金は現在では3,500円+消費税=3,780円となっていますが、 &lt;a href=&#34;http://www.233-3959.com/pc/ryoutei/coupon.php&#34;&gt;クーポン&lt;/a&gt; を利用することにより税込みで3,500円になります。(消費税分浮きます)&lt;br /&gt;
-開催時に印刷してお店に持ち込むとよいでしょう。&lt;/p&gt;
-
-&lt;h2 id=&#34;会費の回収-受付について&#34;&gt;会費の回収・受付について&lt;/h2&gt;
-
-&lt;p&gt;入口に受付っぽい席が作られているのでそこで受付・会費の回収を行うとよいでしょう。(受付担当を立てておくのがベターです)&lt;br /&gt;
-昼間に別会場で何かしらのイベントを開催するようであれば、両方に参加する人からは昼間のうちに事前回収(アーリーチェックイン)を行っておくと会場での受付がスムーズになります。&lt;/p&gt;
-
-&lt;p&gt;遅刻してくる方がいらっしゃる場合もあるので、受付ブースはイベントの開始後もある程度キープしておく必要があります。&lt;br /&gt;
-会費の支払いは開始から2H以内です。&lt;/p&gt;
-
-&lt;h2 id=&#34;参加者へのアナウンス&#34;&gt;参加者へのアナウンス&lt;/h2&gt;
-
-&lt;p&gt;お店に入ってからスタッフの方に「座・スタジアム」とお伝えして案内してもらうのがスムーズです。&lt;br /&gt;
-参加者の方へ開催前にその旨を連絡しておくとよいでしょう。&lt;/p&gt;
-
-&lt;p&gt;※参加者の方へ連絡例(昔やったイベントから引っ張り出してきた)&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;■はじめての参加者の方
-
-会場であるRyouteiに入店した際、お店の方に「座・スタジアム(ざ・すたじあむ)」とお伝えください。
-参加費のお支払いについては座・スタジアムに入ってすぐのところに受付を設けますので、そちらでお願いします。
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;会場入りしてから&#34;&gt;会場入りしてから&lt;/h2&gt;
-
-&lt;p&gt;プロジェクタを使う(使いますよね？)場合に、まず接続チェックを一番最初にやっておきましょう。&lt;br /&gt;
-たまにプロジェクタ接続周りが変わっていることがあり、その辺が詳しい人を巻き込んで接続チェックしておきましょう。&lt;/p&gt;
-
-&lt;h2 id=&#34;会場での諸注意&#34;&gt;会場での諸注意&lt;/h2&gt;
-
-&lt;p&gt;最初に参加者に会場についての諸注意を行っておくとよいでしょう。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ビュッフェスタイルである旨
-
-&lt;ul&gt;
-&lt;li&gt;3時間食べ飲み放題だが、2Hで食べ物は下げられる(刺身とかはもっと早く下げられたはず)&lt;/li&gt;
-&lt;li&gt;最初に食べ物・飲み物を取りに行くタイミングはちゃんと決めてアナウンスする&lt;/li&gt;
-&lt;li&gt;食べ物を取りに行く流れ、飲み物の場所のアナウンス(図を参照)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;喫煙場所について&lt;/li&gt;
-&lt;li&gt;お手洗いの場所について&lt;/li&gt;
-&lt;li&gt;ひな壇でコケて飲み物をこぼす事案が過去何度も発生するので気をつける、階段を塞がないなど注意しておく&lt;/li&gt;
-&lt;li&gt;退店後にお店前にたむろしないように念押しする(最後に再度アナウンスするとよいでしょう)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ryoutei、だいたいこういう感じです&lt;img src=&#34;http://shizone.github.io/images/za.png&#34; alt=&#34;座の平面図(ざっくり)&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
-
-&lt;p&gt;また3月くらいに座駆動LT大会をやろうと思っていたのですが歓送迎会シーズンで全滅オーラなので初夏あたりにやりたいお気持ちです。皆さんよろしくお願いします。&lt;/p&gt;
-</description>
+      <description>ご安全に！もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2017 の16日目です。
+本題 大都会界隈が誇る懇親会場として名高い Ryoutei 座・スタジアム (よくわからない方は過去エントリ を参照のこと) を何らかのイベントで使ってみたいという方向けに、個人的に気をつけていることなどを書いていきたいと思います。皆も座を使ってなんかイベントを開催してくれよな！
+予約をする まずは会場の予約ですが、ハコが1枠しかないので割とサクッと予約が埋まってしまいます。2ヶ月先とかでも埋まってる時は埋まっちゃう感じ。
+予約するのは早ければ早いほうがいい というのと、予約連絡を入れる前に候補日を幾つか用意しておいたほうがよいです。
+また、最小20人以上必要なので、何人くらい集まりそうかは予測を立てておく必要があります。
+(昔ニッチなイベントをやって人が集まらなかったのでキャンセルして別会場にした苦い思い出があります)
+人数変更は、わかった時点で早めにお店に連絡しておきましょう。
+会場がビュッフェスタイルなのもあり、当日の人数変更も大幅な増減がなければ調整できます。ここも座のありがたいポイントですね。(とはいえドタキャンとかがないように参加者にはキャンセル処理の徹底をしておいたほうがいいです)
+クーポンを確認する 座・スタジアムの料金は現在では3,500円+消費税=3,780円となっていますが、 クーポン を利用することにより税込みで3,500円になります。(消費税分浮きます)
+開催時に印刷してお店に持ち込むとよいでしょう。
+会費の回収・受付について 入口に受付っぽい席が作られているのでそこで受付・会費の回収を行うとよいでしょう。(受付担当を立てておくのがベターです)
+昼間に別会場で何かしらのイベントを開催するようであれば、両方に参加する人からは昼間のうちに事前回収(アーリーチェックイン)を行っておくと会場での受付がスムーズになります。
+遅刻してくる方がいらっしゃる場合もあるので、受付ブースはイベントの開始後もある程度キープしておく必要があります。
+会費の支払いは開始から2H以内です。
+参加者へのアナウンス お店に入ってからスタッフの方に「座・スタジアム」とお伝えして案内してもらうのがスムーズです。
+参加者の方へ開催前にその旨を連絡しておくとよいでしょう。
+※参加者の方へ連絡例(昔やったイベントから引っ張り出してきた)
+■はじめての参加者の方 会場であるRyouteiに入店した際、お店の方に「座・スタジアム(ざ・すたじあむ)」とお伝えください。 参加費のお支払いについては座・スタジアムに入ってすぐのところに受付を設けますので、そちらでお願いします。  会場入りしてから プロジェクタを使う(使いますよね？)場合に、まず接続チェックを一番最初にやっておきましょう。
+たまにプロジェクタ接続周りが変わっていることがあり、その辺が詳しい人を巻き込んで接続チェックしておきましょう。
+会場での諸注意 最初に参加者に会場についての諸注意を行っておくとよいでしょう。
+ ビュッフェスタイルである旨  3時間食べ飲み放題だが、2Hで食べ物は下げられる(刺身とかはもっと早く下げられたはず) 最初に食べ物・飲み物を取りに行くタイミングはちゃんと決めてアナウンスする 食べ物を取りに行く流れ、飲み物の場所のアナウンス(図を参照)  喫煙場所について お手洗いの場所について ひな壇でコケて飲み物をこぼす事案が過去何度も発生するので気をつける、階段を塞がないなど注意しておく 退店後にお店前にたむろしないように念押しする(最後に再度アナウンスするとよいでしょう)  Ryoutei、だいたいこういう感じですさいごに また3月くらいに座駆動LT大会をやろうと思っていたのですが歓送迎会シーズンで全滅オーラなので初夏あたりにやりたいお気持ちです。皆さんよろしくお願いします。</description>
     </item>
     
     <item>
@@ -100,38 +65,21 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/12/15/0050/</guid>
-      <description>
-
-&lt;p&gt;タイトルは逆噴射聡一郎先生リスペクトです。もじゃ変です。&lt;br /&gt;
-このエントリは &lt;a href=&#34;https://adventar.org/calendars/2837&#34;&gt;そんな広島 Advent Calendar 2017&lt;/a&gt; の15日目です。&lt;br /&gt;
-埋めてくださいと言われたので埋めました。&lt;/p&gt;
-
-&lt;h2 id=&#34;僕と広島&#34;&gt;僕と広島&lt;/h2&gt;
-
-&lt;p&gt;僕は倉敷生まれの倉敷育ちですがこの業界に入って駆け出しの頃に広島の新幹線止まる駅が辺鄙なところにあるあたりでもしもしの仕事をしていた時期があります。あの頃はあそこ全盛期だったのではないだろうか。&lt;br /&gt;
-その時知り合った方と今年久々に仕事をする機会があったりしてまあ最近はそんな感じです。&lt;br /&gt;
-あとTVチャンピオンが土曜の夕方やってたのは衝撃だったもんだ。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
-
-&lt;p&gt;広島土産と聞いて何を連想しますか？例の饅頭ですよね。&lt;br /&gt;
-これだというメジャーなお土産があるのは大都会民的には大変羨ましいところでもあります。&lt;/p&gt;
-
-&lt;p&gt;今年 &lt;a href=&#34;https://momiji-yamadaya.co.jp/products/list.php?category_id=10&#34;&gt;桐葉菓&lt;/a&gt; というブツを頂いたことがあり「これ正直もみなんちゃらよりおいしいな？」と思ったのでそのお気持ちを共有したいと思いこれを書き始めた次第です。&lt;br /&gt;
-以上です。特に他に言うことはないです。急にネタ振られたからなー。しょうがないなー。&lt;/p&gt;
-
-&lt;p&gt;(手元に写真残ってねえかなと思って探したがなかった。相当おいしかったんじゃないでしょうか)&lt;/p&gt;
-
-&lt;h2 id=&#34;なるほどわかった-でも広島遠いねん&#34;&gt;なるほどわかった。でも広島遠いねん&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://osh-web.github.io/&#34;&gt;オープンセミナー2018@広島&lt;/a&gt; っていうのが2018年2月24日(土)にあるらしいのでこれに行ってついでに買ってくればよいのではないでしょうか。というか行きますよね。はい参加登録しました。よろしくお願いします。&lt;/p&gt;
-
-&lt;p&gt;(connpassへのリンクを探したのだがなかった。Issueでも立てとけばええんやろか)&lt;br /&gt;
-&lt;a href=&#34;https://osh.connpass.com/event/69092/&#34;&gt;https://osh.connpass.com/event/69092/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;というか、普通にamazonでも買えるんだなあ(なお送料)&lt;br /&gt;
-&lt;iframe style=&#34;width:120px;height:240px;&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; src=&#34;//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=razon-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B00DQHQ4EK&amp;linkId=cccd7f4c3834a40c30594a45fabcff6b&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>タイトルは逆噴射聡一郎先生リスペクトです。もじゃ変です。
+このエントリは そんな広島 Advent Calendar 2017 の15日目です。
+埋めてくださいと言われたので埋めました。
+僕と広島 僕は倉敷生まれの倉敷育ちですがこの業界に入って駆け出しの頃に広島の新幹線止まる駅が辺鄙なところにあるあたりでもしもしの仕事をしていた時期があります。あの頃はあそこ全盛期だったのではないだろうか。
+その時知り合った方と今年久々に仕事をする機会があったりしてまあ最近はそんな感じです。
+あとTVチャンピオンが土曜の夕方やってたのは衝撃だったもんだ。
+本題 広島土産と聞いて何を連想しますか？例の饅頭ですよね。
+これだというメジャーなお土産があるのは大都会民的には大変羨ましいところでもあります。
+今年 桐葉菓 というブツを頂いたことがあり「これ正直もみなんちゃらよりおいしいな？」と思ったのでそのお気持ちを共有したいと思いこれを書き始めた次第です。
+以上です。特に他に言うことはないです。急にネタ振られたからなー。しょうがないなー。
+(手元に写真残ってねえかなと思って探したがなかった。相当おいしかったんじゃないでしょうか)
+なるほどわかった。でも広島遠いねん オープンセミナー2018@広島 っていうのが2018年2月24日(土)にあるらしいのでこれに行ってついでに買ってくればよいのではないでしょうか。というか行きますよね。はい参加登録しました。よろしくお願いします。
+(connpassへのリンクを探したのだがなかった。Issueでも立てとけばええんやろか)
+https://osh.connpass.com/event/69092/
+というか、普通にamazonでも買えるんだなあ(なお送料)</description>
     </item>
     
     <item>
@@ -140,28 +88,20 @@
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/12/11/0049/</guid>
-      <description>&lt;p&gt;ご安全に！もじゃ変です。&lt;br /&gt;
-このエントリは &lt;a href=&#34;https://adventar.org/calendars/2259&#34;&gt;大都会岡山 Advent Calendar 2017&lt;/a&gt; の11日目です。&lt;/p&gt;
-
-&lt;p&gt;大都会岡山のごく一部のごく一部(というか僕の身の回りの特定の界隈)で一大唐揚げブームが巻き起こっております。&lt;a href=&#34;https://fritgrilt.owst.jp/&#34;&gt;カラアゲバル　フリット！グリルと！&lt;/a&gt; というお店が発端です。&lt;/p&gt;
-
-&lt;p&gt;唐揚げのバリエーションの豊かさ、そしてお腹いっぱい肉を貪っても金額的には割と知れている感じになるというコスパの良さもオススメです。皆行って唐揚げ充しましょう。ランチやテイクアウトもやっているようですよ！&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;唐揚げをしこたま食べました &lt;a href=&#34;https://t.co/skoT60HoWo&#34;&gt;pic.twitter.com/skoT60HoWo&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/921699161191280641?ref_src=twsrc%5Etfw&#34;&gt;2017年10月21日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/okajug?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#okajug&lt;/a&gt; &lt;a href=&#34;https://t.co/qTUlnOJs1p&#34;&gt;pic.twitter.com/qTUlnOJs1p&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/931813592638267392?ref_src=twsrc%5Etfw&#34;&gt;2017年11月18日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/okajug?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#okajug&lt;/a&gt; &lt;a href=&#34;https://t.co/83Di2zIF8H&#34;&gt;pic.twitter.com/83Di2zIF8H&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/931814228310106112?ref_src=twsrc%5Etfw&#34;&gt;2017年11月18日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/okajug?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#okajug&lt;/a&gt; &lt;a href=&#34;https://t.co/4E3hPRCX5W&#34;&gt;pic.twitter.com/4E3hPRCX5W&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/931819146135748608?ref_src=twsrc%5Etfw&#34;&gt;2017年11月18日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/okajug?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#okajug&lt;/a&gt; &lt;a href=&#34;https://t.co/tNptpkWbly&#34;&gt;pic.twitter.com/tNptpkWbly&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/931822384595664896?ref_src=twsrc%5Etfw&#34;&gt;2017年11月18日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
+      <description>ご安全に！もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2017 の11日目です。
+大都会岡山のごく一部のごく一部(というか僕の身の回りの特定の界隈)で一大唐揚げブームが巻き起こっております。カラアゲバル　フリット！グリルと！ というお店が発端です。
+唐揚げのバリエーションの豊かさ、そしてお腹いっぱい肉を貪っても金額的には割と知れている感じになるというコスパの良さもオススメです。皆行って唐揚げ充しましょう。ランチやテイクアウトもやっているようですよ！
+唐揚げをしこたま食べました pic.twitter.com/skoT60HoWo
+&amp;mdash; 座コーディネーター (@razon) 2017年10月21日 
+#okajug pic.twitter.com/qTUlnOJs1p
+&amp;mdash; 座コーディネーター (@razon) 2017年11月18日 
+#okajug pic.twitter.com/83Di2zIF8H
+&amp;mdash; 座コーディネーター (@razon) 2017年11月18日 
+#okajug pic.twitter.com/4E3hPRCX5W
+&amp;mdash; 座コーディネーター (@razon) 2017年11月18日 
+#okajug pic.twitter.com/tNptpkWbly
+&amp;mdash; 座コーディネーター (@razon) 2017年11月18日</description>
     </item>
     
     <item>
@@ -170,113 +110,14 @@
       <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/12/07/0048/</guid>
-      <description>
-
-&lt;p&gt;ご安全に！もじゃ変です。&lt;br /&gt;
-このエントリは &lt;a href=&#34;https://adventar.org/calendars/2259&#34;&gt;大都会岡山 Advent Calendar 2017&lt;/a&gt; の7日目です。&lt;/p&gt;
-
-&lt;h1 id=&#34;大都会アワード-is-何&#34;&gt;大都会アワード is 何&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/oivjUDlKbdrlVODkmdr4bUfCvdOTzd-IWorIwQMqfAfEZCkI4b2vIXuubVadOfw3Lu9rFBuItLll-5-bYAzV-73aR4mFSSNRjesXbZStEkSzGV0lOqo5KXxuhBenQhhD1uWwH2cMpWZUWPB3MpaSlm9MmTpiOATQObJXhaCrtuUonus-BMDNb7FpOSb9qJmmHHPjAJz61pVibGL8BG60pCmay5rQGPhqHPh6KkB8wFAC8of_nafFmzE95d6qMBVsbodTQ9QEsrjhR5MrB3USf-lUkJIFYgMJXhErpahEiHd9SHbbZ-XSAoFxsJ5YVKnyJbBRKlkQgojGwRjTH0cpLqaboETKzN2wJ3pks4enBmRVtivXOgo6ifX3Ae8qzalyCzp_qF69tI5GgfHTnvJZ1R6ut3zY8eXExOpYejuqEqhPu9EGkOE7Nvi7yMjZZtm_eSHmz2IqEtzGazFFXgnutxVTJShVA272FOVrzsE_D9C8m7ir5Nh1Glp5gqGVyW6UURsDSh7BrZzeAwfz0MEYbLs7IEHklp_F93JxbrwbJW4BVmtVSsfDat54DTdhp4VDi2BfpUyvg6WyKuYXevAYsDtRTebGG1GpgmEjYfk9zw=w1759-h989-no&#34; alt=&#34;大都会アワード&#34; /&gt; なんかこんな賞状をもらえます&lt;/p&gt;
-
-&lt;p&gt;瀬戸内界隈のIT・技術者で活躍されている方を表彰しているものです。&lt;br /&gt;
-毎年 &lt;a href=&#34;https://bonenkaigi.connpass.com/&#34;&gt;忘年会議&lt;/a&gt; にて表彰を行っております。&lt;br /&gt;
-「大都会アワード」という名前ですが、 &lt;strong&gt;別に岡山限定ということはなく瀬戸内界隈の方をどんどんノミネートしていきたい&lt;/strong&gt; お気持ちです。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;瀬戸内界隈のIT・技術者系コミュニティで主催または主導的立場で活動された方&lt;/li&gt;
-&lt;li&gt;瀬戸内界隈のIT・技術者系コミュニティに大きく貢献された方&lt;/li&gt;
-&lt;li&gt;主にIT関連分野などで何らかの受賞や表彰を受けた方&lt;/li&gt;
-&lt;li&gt;書籍の出版など公のメディアを通して広くIT分野に貢献された方&lt;/li&gt;
-&lt;li&gt;その他「この方は是非推薦したい！！」という方&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;本エントリーは過去の受賞者を振り返りつつ、今年も是非色んな方を推薦してくれという趣旨です。よろしくお願いします。&lt;/p&gt;
-
-&lt;h1 id=&#34;2012年&#34;&gt;2012年&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/aguuu&#34;&gt;@aguuu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/deep_tkkn&#34;&gt;@deep_tkkn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/gutch_jp&#34;&gt;@gutch_jp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kama_AGE&#34;&gt;@kama_AGE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/LuckOfWise&#34;&gt;@LuckOfWise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/lopes.nb&#34;&gt;Osamu Yumimoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/patorash&#34;&gt;@patorash&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/razon&#34;&gt;@razon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ryosms&#34;&gt;@ryosms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/soudai1025&#34;&gt;@soudai1025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/tam_x&#34;&gt;@tam_x&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/yukotan&#34;&gt;@yukotan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;2013年&#34;&gt;2013年&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/aguuu&#34;&gt;@aguuu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/bleu48&#34;&gt;@bleu48&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/eielh&#34;&gt;@eielh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/gutch_jp&#34;&gt;@gutch_jp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kama_AGE&#34;&gt;@kama_AGE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kasoku_ksk&#34;&gt;@kasoku_ksk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kazuhisa1976&#34;&gt;@kazuhisa1976&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/LuckOfWise&#34;&gt;@LuckOfWise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mako_wis&#34;&gt;@mako_wis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/razon&#34;&gt;@razon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ryosms&#34;&gt;@ryosms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/soudai1025&#34;&gt;@soudai1025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/sutorada&#34;&gt;@sutorada&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/tam_x&#34;&gt;@tam_x&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/triring&#34;&gt;@triring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ttyokoyama&#34;&gt;@ttyokoyama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/yukotan&#34;&gt;@yukotan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;2014年&#34;&gt;2014年&lt;/h1&gt;
-
-&lt;p&gt;未開催だったっぽい。開催実績握ってる人はソースおくれ&lt;/p&gt;
-
-&lt;h1 id=&#34;2015年&#34;&gt;2015年&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/i705&#34;&gt;@i705&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/Mori2nd&#34;&gt;@Mori2nd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/neyano_jp&#34;&gt;@neyano_jp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/qt_luigi&#34;&gt;@qt_luigi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/razon&#34;&gt;@razon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/shinjiyamane&#34;&gt;@shinjiyamane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/soudai1025&#34;&gt;@soudai1025&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/yukotan&#34;&gt;@yukotan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;2016年&#34;&gt;2016年&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/eielh&#34;&gt;@eielh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ikkitang&#34;&gt;@ikkitang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/keiichilo&#34;&gt;@keiichilo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/maepon&#34;&gt;@maepon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mako_wis&#34;&gt;@mako_wis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/mu2in&#34;&gt;@mu2in&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/razon&#34;&gt;@razon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/ryosms&#34;&gt;@ryosms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/soudai1025&#34;&gt;@soudai1025&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;そして2017年&#34;&gt;そして2017年&lt;/h1&gt;
-
-&lt;p&gt;まだまだ募集中です。というか、ノミネート数が少なくてどうしたもんかなという感じなので、皆様ビシバシ推薦していただきたい！&lt;br /&gt;
-マジでよろしくお願いします。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/1625Y8jI5x1AUvXFjoU5pOS8nIdo-N6PHr6q9OlQVv0Q/viewform&#34;&gt;推薦フォームはこちらから。おひとり様、何人でも推薦可能です。自己推薦も可！！&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>ご安全に！もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2017 の7日目です。
+大都会アワード is 何 なんかこんな賞状をもらえます
+瀬戸内界隈のIT・技術者で活躍されている方を表彰しているものです。
+毎年 忘年会議 にて表彰を行っております。
+「大都会アワード」という名前ですが、 別に岡山限定ということはなく瀬戸内界隈の方をどんどんノミネートしていきたい お気持ちです。
+ 瀬戸内界隈のIT・技術者系コミュニティで主催または主導的立場で活動された方 瀬戸内界隈のIT・技術者系コミュニティに大きく貢献された方 主にIT関連分野などで何らかの受賞や表彰を受けた方 書籍の出版など公のメディアを通して広くIT分野に貢献された方 その他「この方は是非推薦したい！！」という方  本エントリーは過去の受賞者を振り返りつつ、今年も是非色んな方を推薦してくれという趣旨です。よろしくお願いします。
+2012年  @aguuu @deep_tkkn @gutch_jp @kama_AGE @kiyokura @LuckOfWise @mao_instantlife Osamu Yumimoto @patorash @razon @ryosms @soudai1025 @tam_x @yukotan @zephiransas  2013年  @aguuu @bleu48 @eielh @gutch_jp @kama_AGE @kasoku_ksk @kazuhisa1976 @kiyokura @LuckOfWise @mako_wis @mao_instantlife @razon @ryosms @soudai1025 @sutorada @tam_x @triring @ttyokoyama @yukotan @zephiransas  2014年 未開催だったっぽい。開催実績握ってる人はソースおくれ</description>
     </item>
     
     <item>
@@ -285,28 +126,20 @@
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/10/03/0047/</guid>
-      <description>&lt;p&gt;今年もお誕生日祝いのメッセージやら干し芋弾などを各所からいただきました。&lt;br /&gt;
-皆様ありがとうございました。&lt;/p&gt;
-
-&lt;p&gt;また一年雑に生きていきたいと思いますのでお付き合いいただければと思います。よろしくお願いします。&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ハーレムさんからキマリストルーパー、YOSHIDAさんからゼータプラスを頂きました。ありがてぇありがてぇ &lt;a href=&#34;https://t.co/mAf71fXUGu&#34;&gt;pic.twitter.com/mAf71fXUGu&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/907932841803079680?ref_src=twsrc%5Etfw&#34;&gt;2017年9月13日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;バーサル騎士が多すぎて二個口になったことをここにご報告申し上げます &lt;a href=&#34;https://twitter.com/ryosms?ref_src=twsrc%5Etfw&#34;&gt;@ryosms&lt;/a&gt; &lt;a href=&#34;https://twitter.com/mao_instantlife?ref_src=twsrc%5Etfw&#34;&gt;@mao_instantlife&lt;/a&gt; &lt;a href=&#34;https://t.co/svjAAdA0hI&#34;&gt;pic.twitter.com/svjAAdA0hI&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/908648053724155904?ref_src=twsrc%5Etfw&#34;&gt;2017年9月15日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;なんかいただいたみたいで大変ありがたい感じですよ &lt;a href=&#34;https://t.co/0sgmKL4GBx&#34;&gt;pic.twitter.com/0sgmKL4GBx&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/914108675282804736?ref_src=twsrc%5Etfw&#34;&gt;2017年9月30日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;送り先間違えてない？ &lt;a href=&#34;https://t.co/gvYVS7ZDap&#34;&gt;pic.twitter.com/gvYVS7ZDap&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/915911460030517249?ref_src=twsrc%5Etfw&#34;&gt;2017年10月5日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;頂きました。ありがたやありがたや &lt;a href=&#34;https://t.co/Rd5CxPYe3l&#34;&gt;pic.twitter.com/Rd5CxPYe3l&lt;/a&gt;&lt;/p&gt;&amp;mdash; 座コーディネーター (@razon) &lt;a href=&#34;https://twitter.com/razon/status/916267374583595008?ref_src=twsrc%5Etfw&#34;&gt;2017年10月6日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shizone.github.io/2017/09/12/0045/&#34;&gt;なお、お祝いの品はまだ受け付けて以下略&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>今年もお誕生日祝いのメッセージやら干し芋弾などを各所からいただきました。
+皆様ありがとうございました。
+また一年雑に生きていきたいと思いますのでお付き合いいただければと思います。よろしくお願いします。
+ハーレムさんからキマリストルーパー、YOSHIDAさんからゼータプラスを頂きました。ありがてぇありがてぇ pic.twitter.com/mAf71fXUGu
+&amp;mdash; 座コーディネーター (@razon) 2017年9月13日 
+バーサル騎士が多すぎて二個口になったことをここにご報告申し上げます @ryosms @mao_instantlife pic.twitter.com/svjAAdA0hI
+&amp;mdash; 座コーディネーター (@razon) 2017年9月15日 
+なんかいただいたみたいで大変ありがたい感じですよ pic.twitter.com/0sgmKL4GBx
+&amp;mdash; 座コーディネーター (@razon) 2017年9月30日 
+送り先間違えてない？ pic.twitter.com/gvYVS7ZDap
+&amp;mdash; 座コーディネーター (@razon) 2017年10月5日 
+頂きました。ありがたやありがたや pic.twitter.com/Rd5CxPYe3l
+&amp;mdash; 座コーディネーター (@razon) 2017年10月6日 
+なお、お祝いの品はまだ受け付けて以下略</description>
     </item>
     
     <item>
@@ -315,36 +148,23 @@
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/09/20/0046/</guid>
-      <description>
-
-&lt;p&gt;ご安全に！もじゃ変です。&lt;/p&gt;
-
-&lt;p&gt;先日 &lt;a href=&#34;https://bibliobattle-okayama.connpass.com/event/63566/&#34;&gt;ビブリオバトルをつまみに日本酒を消化する会&lt;/a&gt; を開催して、ついでに以前からやろうやろうと仲間内では言っていた「架空読書会」を開催しました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/shizone/2ab95795cdcc47180065cbb6cd837896&#34;&gt;※ビブリオバトル自体の結果はGistにまとめてあるのでこちらを参照のこと&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;架空読書会-is-何&#34;&gt;架空読書会 is 何&lt;/h2&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;架空読書会とは――、&lt;br&gt;1.誰かが架空の書名を言う&lt;br&gt;2.全員その本を読んできたことにする&lt;br&gt;3.内容をでっちあげ自由に語る&lt;br&gt;4.先に他の人が語った内容を否定しない（例えば「田中が死ぬ場面で泣いた」と誰かが言えば、そういう場面があった前提で他の人も続ける）&lt;br&gt;5.一冊終えたら次の人の番&lt;/p&gt;&amp;mdash; 本ある暮らしの会 (@BooK_LieF0) &lt;a href=&#34;https://twitter.com/BooK_LieF0/status/857523283855409152&#34;&gt;2017年4月27日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;詳細は &lt;a href=&#34;http://twpf.jp/dokusho_kai&#34;&gt;http://twpf.jp/dokusho_kai&lt;/a&gt; を参考のこと&lt;/p&gt;
-
-&lt;h2 id=&#34;成果物&#34;&gt;成果物&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/imaginary-reading-meeting/imaginary-reading-meeting&#34;&gt;https://github.com/imaginary-reading-meeting/imaginary-reading-meeting&lt;/a&gt; に残したのでご査収ください&lt;/p&gt;
-
-&lt;h2 id=&#34;やってみてどうでしたか&#34;&gt;やってみてどうでしたか&lt;/h2&gt;
-
-&lt;p&gt;議事録を残そうと思ってメモりながらやったのですが割と大変でした。議事録担当を作品ごとに輪番したほうがいいかも知れない。&lt;br /&gt;
-あと何回かやって場数を踏んだらもうちょっと議論が白熱して面白くなるかもなぁとも。&lt;br /&gt;
-正直どう語っていいか迷子になったので、ほどよく話を膨らませることができるようにある程度外枠(ざっくりとしたジャンルとか)が決まってたほうが良かったねえという話になりました。&lt;br /&gt;
-とはいえ「これは新海誠による映画化待ったなしだわ」みたいな名言も飛び出しチョー楽しかったですよ。&lt;/p&gt;
-
-&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;
-
-&lt;p&gt;他の人がやった内容とかも知りたいので皆やってログを残していってくれよな！&lt;/p&gt;
-</description>
+      <description>ご安全に！もじゃ変です。
+先日 ビブリオバトルをつまみに日本酒を消化する会 を開催して、ついでに以前からやろうやろうと仲間内では言っていた「架空読書会」を開催しました。
+※ビブリオバトル自体の結果はGistにまとめてあるのでこちらを参照のこと
+架空読書会 is 何 架空読書会とは――、
+1.誰かが架空の書名を言う
+2.全員その本を読んできたことにする
+3.内容をでっちあげ自由に語る
+4.先に他の人が語った内容を否定しない（例えば「田中が死ぬ場面で泣いた」と誰かが言えば、そういう場面があった前提で他の人も続ける）
+5.一冊終えたら次の人の番
+&amp;mdash; 本ある暮らしの会 (@BooK_LieF0) 2017年4月27日 
+詳細は http://twpf.jp/dokusho_kai を参考のこと
+成果物 https://github.com/imaginary-reading-meeting/imaginary-reading-meeting に残したのでご査収ください
+やってみてどうでしたか 議事録を残そうと思ってメモりながらやったのですが割と大変でした。議事録担当を作品ごとに輪番したほうがいいかも知れない。
+あと何回かやって場数を踏んだらもうちょっと議論が白熱して面白くなるかもなぁとも。
+正直どう語っていいか迷子になったので、ほどよく話を膨らませることができるようにある程度外枠(ざっくりとしたジャンルとか)が決まってたほうが良かったねえという話になりました。
+とはいえ「これは新海誠による映画化待ったなしだわ」みたいな名言も飛び出しチョー楽しかったですよ。
+まとめ 他の人がやった内容とかも知りたいので皆やってログを残していってくれよな！</description>
     </item>
     
     <item>
@@ -353,18 +173,10 @@
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2017/09/12/0045/</guid>
-      <description>&lt;p&gt;毎年恒例のアレです。各位よろしくお願いします。&lt;br /&gt;
-10月1日にもじゃ変さんは35歳の誕生日を迎えますので諸々忖度していただけると大変助かります。&lt;br /&gt;
-因みにその二週間後は真木よう子さんじゅうごさいですってよ(完全に旬を過ぎている話題)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/1345GN03KS5L1/&#34;&gt;技術書&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/2B8SWTFYD5IC/&#34;&gt;ガンプラ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/2N5QMYJIW6NKM/&#34;&gt;酒&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/LPR7MH6Y7N4/&#34;&gt;武器(物理)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.amazon.co.jp/gp/registry/wishlist/3MGAMZI4J2HMQ/&#34;&gt;その他諸々&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>毎年恒例のアレです。各位よろしくお願いします。
+10月1日にもじゃ変さんは35歳の誕生日を迎えますので諸々忖度していただけると大変助かります。
+因みにその二週間後は真木よう子さんじゅうごさいですってよ(完全に旬を過ぎている話題)
+ 技術書 ガンプラ 酒 武器(物理) その他諸々  </description>
     </item>
     
     <item>
@@ -373,118 +185,20 @@
       <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/12/19/0044/</guid>
-      <description>
-
-&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/31603682631&#34; title=&#34;DSC_6822&#34;&gt;&lt;img src=&#34;https://c8.staticflickr.com/1/393/31603682631_e1d19b47f1_c.jpg&#34; width=&#34;800&#34; height=&#34;534&#34; alt=&#34;DSC_6822&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ご安全に！組長です。&lt;/p&gt;
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://www.adventar.org/calendars/1580&#34;&gt;大都会岡山 Advent Calendar 2016&lt;/a&gt; の19日目のエントリです。&lt;br /&gt;
-前日は &lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt; さんの &lt;a href=&#34;https://zephiransas.github.io/blog/2016/12/18/gbdaitokai2016/&#34;&gt;合同勉強会2016に参加してきた&lt;/a&gt; でした。&lt;br /&gt;
-翌日は &lt;a href=&#34;https://twitter.com/ikkitang&#34;&gt;@ikkitang&lt;/a&gt; さんの &lt;a href=&#34;http://ikkitang1211.hatenablog.jp/entry/2016/12/20/020041&#34;&gt;岡山での勉強会にどっぷりつかった一年を振り返る&lt;/a&gt; です。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
-
-&lt;h3 id=&#34;合同勉強会-in-大都会岡山の前身&#34;&gt;合同勉強会 in 大都会岡山の前身&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://kiyokura.hateblo.jp/entry/20110418/p1&#34;&gt;春の合同勉強会 in 岡山&lt;/a&gt; が直接的な前身でしょうか。&lt;br /&gt;
-僕はその日は &lt;a href=&#34;https://tkscala.doorkeeper.jp/&#34;&gt;天領倉敷Scala&lt;/a&gt; を開催していて、懇親会のメンツが全然足らなかったので合同勉強会に泣きついて混ぜてもらった記憶があります。弱小はつらいですね。&lt;/p&gt;
-
-&lt;h3 id=&#34;2012年&#34;&gt;2012年&lt;/h3&gt;
-
-&lt;h4 id=&#34;2012-spring&#34;&gt;2012 Spring&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/294533&#34;&gt;http://togetter.com/li/294533&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157629923025255&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157629923025255&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;記念すべき第一回です。瀬戸内界隈のコミュニティ中心でスタート。&lt;br /&gt;
-そういえばこの回ろくろ禁止ルールとかやってましたねえ。ろくろを回すのではなく投げていたのが僕です。&lt;/p&gt;
-
-&lt;h4 id=&#34;2012-winter&#34;&gt;2012 Winter&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/422559&#34;&gt;http://togetter.com/li/422559&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157632262305137&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157632262305137&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://bonenkaigi.connpass.com&#34;&gt;忘年会議&lt;/a&gt; の前座としての地位を確立した回となります。&lt;br /&gt;
-この時から県外より毎年お越しいただいてる方が結構います。大変ありがたいですね。これからもよろしくお願いします。&lt;/p&gt;
-
-&lt;h3 id=&#34;2013年&#34;&gt;2013年&lt;/h3&gt;
-
-&lt;h4 id=&#34;2013-winter&#34;&gt;2013 Winter&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.doorkeeper.jp/events/5725&#34;&gt;https://gbdaitokai.doorkeeper.jp/events/5725&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/602756&#34;&gt;http://togetter.com/li/602756&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157638821751894&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157638821751894&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;娘が病気しちゃって欠席になった回です。&lt;br /&gt;
-「よろしく」っつって丸投げしておいたらいい感じに回してくれたようです。&lt;br /&gt;
-さすが大都会、層が厚いぜ！(ありがとうございますありがとうございます)&lt;/p&gt;
-
-&lt;h3 id=&#34;2014年&#34;&gt;2014年&lt;/h3&gt;
-
-&lt;h4 id=&#34;2014-winter&#34;&gt;2014 Winter&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.doorkeeper.jp/events/15289&#34;&gt;https://gbdaitokai.doorkeeper.jp/events/15289&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/757033&#34;&gt;http://togetter.com/li/757033&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157649808263212&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157649808263212&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;謎の武器ブームが大都会に起こっていた年で、他の場所でもよく見受けられる &lt;a href=&#34;https://www.amazon.co.jp/dp/B004VJPHCM&#34;&gt;恐怖の鉞&lt;/a&gt; の他にも &lt;a href=&#34;https://www.amazon.co.jp/dp/B002OSY4YO&#34;&gt;こん棒&lt;/a&gt; 、 &lt;a href=&#34;https://www.amazon.co.jp/dp/B004W1HNZI&#34;&gt;勇者の剣&lt;/a&gt; 、 &lt;a href=&#34;https://www.amazon.co.jp/dp/B004VJPI44&#34;&gt;ドラゴンの剣&lt;/a&gt; といった怪しい品揃えが登壇者を飛び交う会となったのがこの年。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年&#34;&gt;2015年&lt;/h3&gt;
-
-&lt;h4 id=&#34;2015-winter&#34;&gt;2015 Winter&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.doorkeeper.jp/events/31149&#34;&gt;https://gbdaitokai.doorkeeper.jp/events/31149&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/908723&#34;&gt;http://togetter.com/li/908723&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157659745544384&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157659745544384&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;例年参加人数が 忘年会議＞合同勉強会 だったんですが、この年で初めて忘年会議より多い参加者となりました。&lt;br /&gt;
-やったぜ父ちゃん！&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年&#34;&gt;2016年&lt;/h3&gt;
-
-&lt;h4 id=&#34;2016-fall&#34;&gt;2016 Fall&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.doorkeeper.jp/events/47598&#34;&gt;https://gbdaitokai.doorkeeper.jp/events/47598&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/1019776&#34;&gt;http://togetter.com/li/1019776&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2012年は2回開催したんですが、それ以降は年イチになってて「もう少し回数増やしたいなぁ」と思っていたので小規模バージョンを開催してみました。&lt;br /&gt;
-「WIPなネタでもええんやで！」というニュアンスで告知したのでノースライドホワイトボード芸みたいな尖ったネタが飛び出してきて計画通りな感じでしたね。&lt;/p&gt;
-
-&lt;h4 id=&#34;2016-winter&#34;&gt;2016 Winter&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.connpass.com/event/37730/&#34;&gt;https://gbdaitokai.connpass.com/event/37730/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://togetter.com/li/1060197&#34;&gt;http://togetter.com/li/1060197&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flickr.com/photos/zephiransas/sets/72157674062172594&#34;&gt;https://www.flickr.com/photos/zephiransas/sets/72157674062172594&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;大都会の合同勉強会と言いながら割と遠方からお越しくださる方も多くなってきたので、思い切って登壇枠に県内枠と県外枠を設けてみました。&lt;br /&gt;
-そして県外枠のほうが先に埋まるという。ありがてぇありがてぇ。&lt;/p&gt;
-
-&lt;h2 id=&#34;未来へ&#34;&gt;未来へ&lt;/h2&gt;
-
-&lt;p&gt;まとめると、&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;合同勉強会、雑な運営でもいい感じに回るのは周りの強キャラの皆様のおかげです。&lt;br&gt;ありがとうございます！ありがとうございます！&lt;br&gt;来年も皆さん頑張って僕を楽させてください！！&lt;a href=&#34;https://twitter.com/hashtag/gbdaitokai?src=hash&#34;&gt;#gbdaitokai&lt;/a&gt;&lt;/p&gt;&amp;mdash; 組長 (@razon) &lt;a href=&#34;https://twitter.com/razon/status/810130360625307648&#34;&gt;2016年12月17日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ということです。皆さんがんばってください。&lt;/p&gt;
-
-&lt;p&gt;なお、合同勉強会では僕がアレした時用に中の人を増員したいなぁとかやんわりと考えているので、ちょっかい出してみてもいいかなぁという奇特な方がいらっしゃいましたら &lt;a href=&#34;https://twitter.com/razon&#34;&gt;@razon&lt;/a&gt; までリプライを頂けると大変助かります。よろしくお願いします。&lt;/p&gt;
-</description>
+      <description>ご安全に！組長です。
+このエントリは 大都会岡山 Advent Calendar 2016 の19日目のエントリです。
+前日は @zephiransas さんの 合同勉強会2016に参加してきた でした。
+翌日は @ikkitang さんの 岡山での勉強会にどっぷりつかった一年を振り返る です。
+本題 合同勉強会 in 大都会岡山の前身 春の合同勉強会 in 岡山 が直接的な前身でしょうか。
+僕はその日は 天領倉敷Scala を開催していて、懇親会のメンツが全然足らなかったので合同勉強会に泣きついて混ぜてもらった記憶があります。弱小はつらいですね。
+2012年 2012 Spring  http://togetter.com/li/294533 https://www.flickr.com/photos/zephiransas/sets/72157629923025255  記念すべき第一回です。瀬戸内界隈のコミュニティ中心でスタート。
+そういえばこの回ろくろ禁止ルールとかやってましたねえ。ろくろを回すのではなく投げていたのが僕です。
+2012 Winter  http://togetter.com/li/422559 https://www.flickr.com/photos/zephiransas/sets/72157632262305137  忘年会議 の前座としての地位を確立した回となります。
+この時から県外より毎年お越しいただいてる方が結構います。大変ありがたいですね。これからもよろしくお願いします。
+2013年 2013 Winter  https://gbdaitokai.doorkeeper.jp/events/5725 http://togetter.com/li/602756 https://www.flickr.com/photos/zephiransas/sets/72157638821751894  娘が病気しちゃって欠席になった回です。
+「よろしく」っつって丸投げしておいたらいい感じに回してくれたようです。
+さすが大都会、層が厚いぜ！(ありがとうございますありがとうございます)
+2014年 2014 Winter  https://gbdaitokai.doorkeeper.jp/events/15289 http://togetter.com/li/757033 https://www.flickr.com/photos/zephiransas/sets/72157649808263212  謎の武器ブームが大都会に起こっていた年で、他の場所でもよく見受けられる 恐怖の鉞 の他にも こん棒 、 勇者の剣 、 ドラゴンの剣 といった怪しい品揃えが登壇者を飛び交う会となったのがこの年。</description>
     </item>
     
     <item>
@@ -493,44 +207,19 @@
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/12/03/0043/</guid>
-      <description>
-
-&lt;p&gt;ご安全に！組長です。&lt;/p&gt;
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://www.adventar.org/calendars/1580&#34;&gt;大都会岡山 Advent Calendar 2016&lt;/a&gt; の3日目のエントリです。&lt;br /&gt;
-前日は &lt;a href=&#34;https://twitter.com/mako_wis&#34;&gt;@mako_wis&lt;/a&gt; さんの &lt;a href=&#34;http://mako-wis.hatenablog.com/entry/2016/12/02/002827&#34;&gt;Okayama.rbというもくもく会&lt;/a&gt; でした。&lt;br /&gt;
-翌日は &lt;a href=&#34;https://twitter.com/eielh&#34;&gt;@eielh&lt;/a&gt; さんの &lt;a href=&#34;http://blog.eiel.info/blog/2016/12/04/2016-okayama-ac/&#34;&gt;広島から岡山への距離 - 大都会岡山 Advent Calendar 2016&lt;/a&gt; です。&lt;/p&gt;
-
-&lt;p&gt;という訳で今日は大都会が誇る激安スーパー「ラ・ムー」「ディオ」などを擁する &lt;a href=&#34;https://www.e-dkt.co.jp/&#34;&gt;大黒天物産&lt;/a&gt; のPBエナジードリンクである「ゴールデンハンマー」についてのご紹介です。&lt;/p&gt;
-
-&lt;h2 id=&#34;外観&#34;&gt;外観&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/H5GC3Xd9kVo0z253v1JKC1eM8skNsy9IV8I6IGvNX3Dl-IyAssWrubGecLIPm4pI-v_EB9RQRHXajpr6mNkr79kpB83Wr3ps39hxhC6dvYmNr5wJJhPpANk4KcE-_o1X2qmDYqTuXrYv9PZgPO-mSJa2ZODWHQirZvwClEY97cOlWIpHGD2dESXUFjSmoCAUSb8UagQlmGGqrj0m4pFdjnqXhQ6hw0O0WtdDbkkDuaEESWdjCdhr5tqei0gkH-S8y_YTRpajIgdV8A1PgiCK--V-ERKsa5PifIUQcHEwRJdrq4eJPeAVbAlf7OkQPUik9ltN2sQmpRdtc0UQr7bs42G05InkxZpgxpdtaLPr7_jRgG-qzTZ-1jb2uYmvk8dUW5RwdKooWjJ_JOiclCoR8xEmglSImh0pf0OfA4UwgHvo2azlvDyUeZzeXIGVScSOEbZChx0LPoq0iBKwbjSTDW7fZVWb3nDGOmeRqm3DvBaaPfb6m0sQ0jNqMZ1Q8amwVMTybeK72dHlTNw41piUbYRNQcY2BNiF-cA_yKixoDnp9HXBeU2RVdqyNVazhy76wGJ1UBK-9_BxHIKAK5kbpOOF7RRO5_xbUqUgfe3PaNFzswoQ=w1718-h966-no&#34; alt=&#34;ゴールデンハンマー&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;完全に赤べこを意識したパッケージ。&lt;/p&gt;
-
-&lt;h2 id=&#34;成分&#34;&gt;成分&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/PdJlvaUf3RZhLDbuw71W7xoHm38jmJLV0_U5UHqbUZXqLHp4kgBVAMt24wOEN5NvaUm5HyF1wuyd6TTR4QasisFu-9hRoIFmn-lspkXszZdEeBzzr3CUtMCA2ZS4r6nLMWfnqINlV1GTNHUYWseCc-DQlCPcvttHwx_brAW2oDddbP5gMjsx8Em-Vt0Dg-3ev2iCqfX_7HhLIvbIDTnfGGJmvZDGuBGmH0z28BXkuwbwbXDHYO-4jvFNeAPZM0sjapRECiq_gKMh912T36bm_G2NaW3hRRCK4JZ0QNHSO4IWzJadL_Y5ObxGtzIVSSh8f5EkXEW-Sg2aLOnG3ki9CSwONfvERxk6mIJSSRYidFgHZwjBqOws-7_JCRzyEtWsIk2lQjhLT7kizgM6VtiBkm3JcI-kV-J0KNjI00kjo2M75zmbXyeovetBfqMi_Q-0Csych8ADyem9qPEJ0PAdagrRG__kDZMB9PiBsMfSE4jma80XIxa3VEFc6ZCXqKoCXLj8Pud0kV06KvAruYlG06_IpZ3r89cQbzrX2oELba5TDffxSGo5o71r7241_pyl31EFBAsT5CLICuYDxSsNOmIjRYh35xBIZawf7Z6d_a_i4Ppj=w1718-h966-no&#34; alt=&#34;成分&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;アルギニンとカフェインは同量。意識してる感半端ねぇです。&lt;/p&gt;
-
-&lt;h2 id=&#34;味&#34;&gt;味&lt;/h2&gt;
-
-&lt;p&gt;なんかRedBullを薄めた味がします。とにかく薄い味わい。慣れの問題な気もする。&lt;/p&gt;
-
-&lt;h2 id=&#34;価格&#34;&gt;価格&lt;/h2&gt;
-
-&lt;p&gt;で、ここが恐ろしいところで、ゴールデンハンマーは &lt;strong&gt;49円(税別)&lt;/strong&gt; です。&lt;br /&gt;
-比較対象としてイオン倉敷で買ってきたRedBullが259円(税別)だったので何と1/5以下の値段です。&lt;br /&gt;
-流石大黒天物産です。&lt;/p&gt;
-
-&lt;p&gt;同じ値段で5倍の量が摂取できますね。やめましょう。&lt;/p&gt;
-
-&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;
-
-&lt;p&gt;エナジードリンクは命の前借りなので過剰な摂取をしないようにお願いします。&lt;/p&gt;
-</description>
+      <description>ご安全に！組長です。
+このエントリは 大都会岡山 Advent Calendar 2016 の3日目のエントリです。
+前日は @mako_wis さんの Okayama.rbというもくもく会 でした。
+翌日は @eielh さんの 広島から岡山への距離 - 大都会岡山 Advent Calendar 2016 です。
+という訳で今日は大都会が誇る激安スーパー「ラ・ムー」「ディオ」などを擁する 大黒天物産 のPBエナジードリンクである「ゴールデンハンマー」についてのご紹介です。
+外観 完全に赤べこを意識したパッケージ。
+成分 アルギニンとカフェインは同量。意識してる感半端ねぇです。
+味 なんかRedBullを薄めた味がします。とにかく薄い味わい。慣れの問題な気もする。
+価格 で、ここが恐ろしいところで、ゴールデンハンマーは 49円(税別) です。
+比較対象としてイオン倉敷で買ってきたRedBullが259円(税別)だったので何と1/5以下の値段です。
+流石大黒天物産です。
+同じ値段で5倍の量が摂取できますね。やめましょう。
+まとめ エナジードリンクは命の前借りなので過剰な摂取をしないようにお願いします。</description>
     </item>
     
     <item>
@@ -539,23 +228,11 @@
       <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/08/14/0042/</guid>
-      <description>&lt;p&gt;ご安全に！もじゃ変です。&lt;br /&gt;
-毎年10/1の誕生日向けに例年干し芋をアレしてる件です。&lt;/p&gt;
-
-&lt;p&gt;今回は1つ達成するたびに次の目標が出てくるソーシャル的なアレ風味でのご案内です。&lt;br /&gt;
-皆様のご協力をお待ちしております。&lt;/p&gt;
-
-&lt;div id=&#34;content&#34;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css&#34; integrity=&#34;sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u&#34; crossorigin=&#34;anonymous&#34;&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;http://shizone.github.io/css/0042.css&#34;&gt;&lt;/p&gt;
-
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/react/15.2.1/react-dom.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://use.fontawesome.com/7981f5cd7d.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;http://shizone.github.io/js/0042.js&#34;&gt;&lt;/script&gt;
-</description>
+      <description>ご安全に！もじゃ変です。
+毎年10/1の誕生日向けに例年干し芋をアレしてる件です。
+今回は1つ達成するたびに次の目標が出てくるソーシャル的なアレ風味でのご案内です。
+皆様のご協力をお待ちしております。
+      </description>
     </item>
     
     <item>
@@ -564,23 +241,11 @@
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/07/12/0041/</guid>
-      <description>
-
-&lt;p&gt;表題の通りです。&lt;br /&gt;
-サガ芸人のみなさまの参戦を心よりお待ちしています。&lt;/p&gt;
-
-&lt;h2 id=&#34;前回のあらすじ&#34;&gt;前回のあらすじ&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shizone.github.io/2016/07/08/0040/&#34;&gt;大都会岡山のイット系コミュニティ&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;お申し込みはこちら&#34;&gt;お申し込みはこちら&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://saga-daitokai.connpass.com/event/35779/&#34;&gt;Sa・Ga Night Daitokai 1st&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;おまけ-昼の部&#34;&gt;おまけ：昼の部&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://tkscala.doorkeeper.jp/events/49023&#34;&gt;Scala発火村 in 天領倉敷&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>表題の通りです。
+サガ芸人のみなさまの参戦を心よりお待ちしています。
+前回のあらすじ 大都会岡山のイット系コミュニティ
+お申し込みはこちら Sa・Ga Night Daitokai 1st
+おまけ：昼の部 Scala発火村 in 天領倉敷</description>
     </item>
     
     <item>
@@ -589,59 +254,15 @@
       <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/07/08/0040/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.atmarkit.co.jp/ait/articles/1607/08/news023_3.html&#34;&gt;岡山編：エンジニアの給料は、全国平均より高い？ 低い？――岡山のIT企業、給与、コミュニティー&lt;/a&gt; で、まだまだリーチ出来ていない方面が存在することがよくわかった俺たちは、取り敢えず今年(2016年)
-勉強会を開催した、これから開催する、開催するかも、くらいのアクティビティが見られる大都会のIT系コミュニティをまとめてみようと思いましたよ。&lt;/p&gt;
-
-&lt;h2 id=&#34;件の記事に載ってたやつ&#34;&gt;件の記事に載ってたやつ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.okaweb.jp/&#34;&gt;岡山Webクリエイターズ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.it-nomikai.jp/okayama&#34;&gt;岡山IT飲み会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okaruby.doorkeeper.jp/&#34;&gt;Okayama.rb(岡山Rubyコミュニティ)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jaws-ug.jp/bc/okayama/&#34;&gt;JAWS-UG 岡山支部&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;個人的に把握しているやつ&#34;&gt;個人的に把握しているやつ&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dbstudychugoku.github.io/&#34;&gt;中国地方DB勉強会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okajug.doorkeeper.jp/&#34;&gt;岡山Javaユーザ会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://okayama.open-seminar.org/&#34;&gt;オープンセミナー岡山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bonenkaigi.doorkeeper.jp/&#34;&gt;忘年会議&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbdaitokai.doorkeeper.jp/&#34;&gt;合同勉強会in大都会岡山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tkscala.doorkeeper.jp/&#34;&gt;天領倉敷Scala&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okapython.doorkeeper.jp/&#34;&gt;岡山Python勉強会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okagit.doorkeeper.jp/&#34;&gt;岡山Gitユーザ会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okayamaunity.doorkeeper.jp/&#34;&gt;岡山Unity勉強会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okayamagamecreators.doorkeeper.jp/&#34;&gt;岡山ゲーム開発勉強会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://okandroid.doorkeeper.jp/&#34;&gt;岡山Android, iOSアプリ開発もくもく会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://opencaeoka.doorkeeper.jp/&#34;&gt;オープンCAE勉強会＠岡山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kintonecafeokayama.doorkeeper.jp/&#34;&gt;kintone Cafe 岡山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://okayama-js.net/&#34;&gt;okayama-js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oitec.net/&#34;&gt;Okayama IT Engineers Community(OITEC)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/gdgchugokuofficial/&#34;&gt;GDG中国&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://estpolis.com/okayama_smartphone_user/&#34;&gt;岡山スマホユーザー会&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://augca.connpass.com/&#34;&gt;Atlassian ユーザーグループ 中国地方&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plus.google.com/communities/115366422273280046817&#34;&gt;GCPUG岡山&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/events/843372915772271/&#34;&gt;CSS Nite in OKAYAMA, Vol.6&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ほかにも何件か非公開だけど開催予定のやつもあるので公開されたら載せていきたい感じ。&lt;br /&gt;
-その他「こんなんもあるぜ」とかご存知の方がいらっしゃいましたら教えて下さいませ。&lt;/p&gt;
-
-&lt;h2 id=&#34;まとめ&#34;&gt;まとめ&lt;/h2&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ロマサガ勉強会を開催するしかない&lt;/p&gt;&amp;mdash; テクニカルリード人月 (@razon) &lt;a href=&#34;https://twitter.com/razon/status/750153753186045952&#34;&gt;2016年7月5日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ロマサガ勉強会でアンサガ枠として殴りこみかけてくれる人を募集していきたい&lt;/p&gt;&amp;mdash; テクニカルリード人月 (@razon) &lt;a href=&#34;https://twitter.com/razon/status/750548218589638656&#34;&gt;2016年7月6日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;アンサガ一応全キャラクリアしてるんすよ。(ある種一番やりこんでるサガかもしれない)&lt;/p&gt;&amp;mdash; えいる (@eielh) &lt;a href=&#34;https://twitter.com/eielh/status/750595431919411200&#34;&gt;2016年7月6日&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
+      <description>岡山編：エンジニアの給料は、全国平均より高い？ 低い？――岡山のIT企業、給与、コミュニティー で、まだまだリーチ出来ていない方面が存在することがよくわかった俺たちは、取り敢えず今年(2016年) 勉強会を開催した、これから開催する、開催するかも、くらいのアクティビティが見られる大都会のIT系コミュニティをまとめてみようと思いましたよ。
+件の記事に載ってたやつ  岡山Webクリエイターズ 岡山IT飲み会 Okayama.rb(岡山Rubyコミュニティ) JAWS-UG 岡山支部  個人的に把握しているやつ  中国地方DB勉強会 岡山Javaユーザ会 オープンセミナー岡山 忘年会議 合同勉強会in大都会岡山 天領倉敷Scala 岡山Python勉強会 岡山Gitユーザ会 岡山Unity勉強会 岡山ゲーム開発勉強会 岡山Android, iOSアプリ開発もくもく会 オープンCAE勉強会＠岡山 kintone Cafe 岡山 okayama-js Okayama IT Engineers Community(OITEC) GDG中国 岡山スマホユーザー会 Atlassian ユーザーグループ 中国地方 GCPUG岡山 CSS Nite in OKAYAMA, Vol.6  ほかにも何件か非公開だけど開催予定のやつもあるので公開されたら載せていきたい感じ。
+その他「こんなんもあるぜ」とかご存知の方がいらっしゃいましたら教えて下さいませ。
+まとめ ロマサガ勉強会を開催するしかない
+&amp;mdash; テクニカルリード人月 (@razon) 2016年7月5日 
+ロマサガ勉強会でアンサガ枠として殴りこみかけてくれる人を募集していきたい
+&amp;mdash; テクニカルリード人月 (@razon) 2016年7月6日 
+アンサガ一応全キャラクリアしてるんすよ。(ある種一番やりこんでるサガかもしれない)
+&amp;mdash; えいる (@eielh) 2016年7月6日</description>
     </item>
     
     <item>
@@ -650,62 +271,20 @@
       <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2016/01/19/0039/</guid>
-      <description>
-
-&lt;p&gt;ご安全に！人マンです。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92&#34;&gt;あべさんがRust開発環境完全マスター&lt;/a&gt;したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。&lt;/p&gt;
-
-&lt;h1 id=&#34;まずrust入れる&#34;&gt;まずRust入れる&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;公式&lt;/a&gt;で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)&lt;br /&gt;
-あと、&lt;a href=&#34;https://github.com/phildawes/racer&#34;&gt;Racer&lt;/a&gt; で使うためのRustのソースも&lt;a href=&#34;https://www.rust-lang.org/downloads.html&#34;&gt;ダウンロードページ&lt;/a&gt;から落としてきます。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;RUST_HOME/bin&lt;/em&gt; にパスを通しておきましょう。&lt;/p&gt;
-
-&lt;h1 id=&#34;cargoで色々入れる&#34;&gt;Cargoで色々入れる&lt;/h1&gt;
-
-&lt;p&gt;Rustのパッケージマネージャである&lt;a href=&#34;https://github.com/rust-lang/cargo&#34;&gt;Cargo&lt;/a&gt;でパッケージのインストールを行います。&lt;br /&gt;
-RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から &lt;em&gt;cargo install&lt;/em&gt; が使えるようになっています。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cargo install racer
-$ cargo install rustfmt
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。&lt;/p&gt;
-
-&lt;p&gt;cargo installでインストールされたパッケージは、 &lt;em&gt;$HOME/.cargo/bin&lt;/em&gt; に配置されます。&lt;/p&gt;
-
-&lt;h1 id=&#34;vs-codeにrustycodeを入れる&#34;&gt;VS CodeにRustyCodeを入れる&lt;/h1&gt;
-
-&lt;p&gt;エディタは&lt;a href=&#34;https://www.visualstudio.com/ja-jp/products/code-vs.aspx&#34;&gt;Visual Studio Code&lt;/a&gt;にします。&lt;br /&gt;
-コマンドパレットを表示(ctrl-shift-p)し、 &lt;em&gt;Install Extension&lt;/em&gt; で「RustyCode」を選択してインストールします。&lt;br /&gt;
-インストール後、VS Codeを再起動します。&lt;/p&gt;
-
-&lt;h1 id=&#34;rustycodeの設定&#34;&gt;RustyCodeの設定&lt;/h1&gt;
-
-&lt;p&gt;メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;	//-------- Rusty Code configuration --------
-
-	// Specifies path to Racer binary if it&#39;s not in PATH
-	&amp;quot;rust.racerPath&amp;quot;: &amp;quot;$HOME/.cargo/bin/racer&amp;quot;,
-
-	// Specifies path to Rustfmt binary if it&#39;s not in PATH
-	&amp;quot;rust.rustfmtPath&amp;quot;: &amp;quot;$HOME/.cargo/bin/rustfmt&amp;quot;,
-
-	// Specifies path to /src directory of local copy of Rust sources
-	&amp;quot;rust.rustLangSrcPath&amp;quot;: &amp;quot;$RUST_SRC_PATH/src&amp;quot;,
-
-	// Specifies path to Cargo binary if it&#39;s not in PATH
-	&amp;quot;rust.cargoPath&amp;quot;: &amp;quot;$RUST_HOME/bin/cargo&amp;quot;,
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;※実際にはフルパスでお願いします。&lt;/p&gt;
-
-&lt;p&gt;Racerのお陰で補完もそこそこ、Cargoもコマンドパレットから呼び出せるので割とステキな感じだと思います。&lt;br /&gt;
-みなさんも是非Rust開発環境完全マスターしてみてください。&lt;/p&gt;
-</description>
+      <description>ご安全に！人マンです。
+あべさんがRust開発環境完全マスターしたみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。
+まずRust入れる 公式で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)
+あと、Racer で使うためのRustのソースもダウンロードページから落としてきます。
+RUST_HOME/bin にパスを通しておきましょう。
+Cargoで色々入れる RustのパッケージマネージャであるCargoでパッケージのインストールを行います。
+RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から cargo install が使えるようになっています。
+$ cargo install racer $ cargo install rustfmt  CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。
+cargo installでインストールされたパッケージは、 $HOME/.cargo/bin に配置されます。
+VS CodeにRustyCodeを入れる エディタはVisual Studio Codeにします。
+コマンドパレットを表示(ctrl-shift-p)し、 Install Extension で「RustyCode」を選択してインストールします。
+インストール後、VS Codeを再起動します。
+RustyCodeの設定 メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。
+//-------- Rusty Code configuration -------- // Specifies path to Racer binary if it&#39;s not in PATH &amp;quot;rust.racerPath&amp;quot;: &amp;quot;$HOME/.cargo/bin/racer&amp;quot;, // Specifies path to Rustfmt binary if it&#39;s not in PATH &amp;quot;rust.</description>
     </item>
     
     <item>
@@ -714,40 +293,27 @@ $ cargo install rustfmt
       <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2015/12/26/0038/</guid>
-      <description>&lt;p&gt;ご安全に！人マンです。&lt;/p&gt;
+      <description>ご安全に！人マンです。
+このエントリは大都会岡山 Advent Calendar 2015の26日目(勝手にやってるだけ)です。
+前日はたがみ だいきさんのRails Girls Okayamaに参加した人が次にやったらいいことでした。
+勉強会にリアルマサカリ持ち込むの、流行った時期がありましたよね。
+大都会岡山に於いてはマサカリだけならず、様々な武器が活躍してきました。
+今日はその事例を紹介していきたいと思います。
+こん棒×2、恐怖の鉞、ドラゴンの剣
 
-&lt;p&gt;このエントリは&lt;a href=&#34;http://www.adventar.org/calendars/748&#34;&gt;大都会岡山 Advent Calendar 2015&lt;/a&gt;の26日目(勝手にやってるだけ)です。&lt;/p&gt;
+勇者の剣
 
-&lt;p&gt;前日は&lt;a href=&#34;https://www.facebook.com/daiki.tagami&#34;&gt;たがみ だいき&lt;/a&gt;さんの&lt;a href=&#34;http://tagamidaiki.com/next-railsgirls/&#34;&gt;Rails Girls Okayamaに参加した人が次にやったらいいこと&lt;/a&gt;でした。&lt;/p&gt;
+悪魔のツエ
 
-&lt;p&gt;&lt;a href=&#34;http://togetter.com/li/809066&#34;&gt;勉強会にリアルマサカリ持ち込む&lt;/a&gt;の、流行った時期がありましたよね。&lt;br /&gt;
-大都会岡山に於いてはマサカリだけならず、様々な武器が活躍してきました。&lt;br /&gt;
-今日はその事例を紹介していきたいと思います。&lt;/p&gt;
+ドラゴンナイフ
 
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B002OSY4YO/&#34;&gt;こん棒&lt;/a&gt;×2、&lt;a href=&#34;http://www.amazon.co.jp/dp/B004VJPHCM/&#34;&gt;恐怖の鉞&lt;/a&gt;、&lt;a href=&#34;http://www.amazon.co.jp/dp/B004VJPI44/&#34;&gt;ドラゴンの剣&lt;/a&gt;&lt;br /&gt;
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/15863311437/in/album-72157649808263212/&#34; title=&#34;DSC_7574.jpg&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7499/15863311437_d279636aa5_z.jpg&#34; width=&#34;428&#34; height=&#34;640&#34; alt=&#34;DSC_7574.jpg&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+ライトセーバー 大都会でライトセーバーとかそれはさすがにデマ pic.twitter.com/miBUDu6PZD
+&amp;mdash; (っ’ヮ’c) ＜ しっぽ (@ryosms) 2015, 10月 15 
+ザクマシンガン
 
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B004W1HNZI/&#34;&gt;勇者の剣&lt;/a&gt;&lt;br /&gt;
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/16023358246/in/album-72157649808263212/&#34; title=&#34;DSC_7910.jpg&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7486/16023358246_391e85c816_z.jpg&#34; width=&#34;640&#34; height=&#34;428&#34; alt=&#34;DSC_7910.jpg&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B004VJPHIQ/&#34;&gt;悪魔のツエ&lt;/a&gt;&lt;br /&gt;
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/16023374796/in/album-72157649808263212/&#34; title=&#34;DSC_7987.jpg&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7559/16023374796_d8deb42ee8_z.jpg&#34; width=&#34;640&#34; height=&#34;428&#34; alt=&#34;DSC_7987.jpg&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B004W1HO1Q/&#34;&gt;ドラゴンナイフ&lt;/a&gt;&lt;br /&gt;
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/16049180895/in/album-72157649808263212/&#34; title=&#34;DSC_8178.jpg&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7502/16049180895_093dacdfeb_z.jpg&#34; width=&#34;428&#34; height=&#34;640&#34; alt=&#34;DSC_8178.jpg&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ライトセーバー
-&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;大都会でライトセーバーとかそれはさすがにデマ &lt;a href=&#34;http://t.co/miBUDu6PZD&#34;&gt;pic.twitter.com/miBUDu6PZD&lt;/a&gt;&lt;/p&gt;&amp;mdash; (っ’ヮ’c) ＜ しっぽ (@ryosms) &lt;a href=&#34;https://twitter.com/ryosms/status/654476029520535553&#34;&gt;2015, 10月 15&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.amazon.co.jp/dp/B00I2DPVWE/&#34;&gt;ザクマシンガン&lt;/a&gt;&lt;br /&gt;
-&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/zephiransas/23561713525/in/album-72157659745544384/&#34; title=&#34;DSC_2897.jpg&#34;&gt;&lt;img src=&#34;https://farm6.staticflickr.com/5770/23561713525_15195433ab_z.jpg&#34; width=&#34;640&#34; height=&#34;428&#34; alt=&#34;DSC_2897.jpg&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;猟銃(さすがに現場には持ち込めず)&lt;br /&gt;
-&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/niVTBkCy6CakTB?startSlide=26&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/sakiemuneyasu/ss-48216393&#34; title=&#34;わたしのつくりかた&#34; target=&#34;_blank&#34;&gt;わたしのつくりかた&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/sakiemuneyasu&#34; target=&#34;_blank&#34;&gt;Sakie Muneyasu&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;現場からは以上です。&lt;/p&gt;
-</description>
+猟銃(さすがに現場には持ち込めず)
+  わたしのつくりかた  from Sakie Muneyasu 
+現場からは以上です。</description>
     </item>
     
     <item>
@@ -756,19 +322,797 @@ $ cargo install rustfmt
       <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2015/09/24/0037/</guid>
-      <description>&lt;p&gt;ご安全に！もじゃ変です。&lt;/p&gt;
+      <description>ご安全に！もじゃ変です。
+この季節恒例のアレです。誕生日乞食です。古事記にも書いてある。(書いてない)
+10月1日にもじゃ変さんは33歳の誕生日を迎えます。
+つきましては干し芋からアレやコレを投げつけてくれるともじゃ変さんは大変喜びますのでみなさんよろしくお願いします。
+ 技術書 ガンプラ 酒 武器(物理)  </description>
+    </item>
+    
+    <item>
+      <title>Kritaを試してみている</title>
+      <link>http://shizone.github.io/2015/08/27/0036/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2015/08/27/0036/</guid>
+      <description>ご安全に！もじゃ変です。
+家では割と長いことLinuxを使っているのですが、個人的にずっとGimpが肌に合わなくてもんにょりしていました。
+で、 Krita がなんかよさげだったので試してみました。
+ScalaMatsuri法被ドヤリングScalaちゃん by shizone on pixiv
 
-&lt;p&gt;この季節恒例のアレです。誕生日乞食です。古事記にも書いてある。(書いてない)&lt;br /&gt;
-10月1日にもじゃ変さんは33歳の誕生日を迎えます。&lt;br /&gt;
-つきましては干し芋からアレやコレを投げつけてくれるともじゃ変さんは大変喜びますのでみなさんよろしくお願いします。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/1345GN03KS5L1/&#34;&gt;技術書&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/2B8SWTFYD5IC/&#34;&gt;ガンプラ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/2N5QMYJIW6NKM/&#34;&gt;酒&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.amazon.co.jp/registry/wishlist/LPR7MH6Y7N4/&#34;&gt;武器(物理)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+リハビリがてらサクッと軽めに。
+Scalaちゃんってドヤ顔似合うよね。</description>
+    </item>
+    
+    <item>
+      <title>オープンセミナー2015@岡山に参加して</title>
+      <link>http://shizone.github.io/2015/05/19/0035/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2015/05/19/0035/</guid>
+      <description> ご安全に！もじゃ変です。
+5/16に開催された オープンセミナー2015@岡山 に参加してきました。
+今回もトゥギャりました
+で、参加してどうだったのよ 今回のテーマは「IT業界におけるセルフブランディング」でした。 講師の皆様がたそれぞれに、どんな人生を歩んできたかみたいなバックボーンが多種多様で、興味深く聞くことができました。
+実は個人的にはセルフブランディングにはぶっちゃけそんなに興味がないんですが、自分の中にある「やっていきたいこと」に改めて気づかせてくれたのは地元枠のおふたり。
+ ひむひむ    猟銃女子    わたしのつくりかた  from Sakie Muneyasu 
+大都会で活躍しているいろんな人々を、もっと周囲にアピールしていきたいとか、そんなことを日頃思ってたんだなぁと。 ブランディングとしては、「大都会岡山のITコミュニティのブランディング」ということかも知れない。
+僕は大都会のITコミュニティに触れて、色々得るものがあったり、楽しいことがあったり、大変お世話になったので、自分自身もそこに対して恩返ししていきたいなぁという思いが常々あって。 この人すごい人だなぁとか、これから活躍していくんだろうなぁとか、そういう人たちを発射台からひたすら打ち上げる人間になりたいなぁと。なんかそんな感じです。
+そんな訳で、これから推してるひとたちのRTとかふぁぼとかそういうのが増えていくと思いますが、そういう思いをもってやってると解釈してやってつかーさい。
+おまけ 懇親会LTのスライド
+  </description>
+    </item>
+    
+    <item>
+      <title>合同勉強会 in 大都会岡山 -2014 Winter-を開催しました</title>
+      <link>http://shizone.github.io/2014/12/20/0034/</link>
+      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/12/20/0034/</guid>
+      <description>ヘル・オー！もじゃ変です。
+2015-12-13に 合同勉強会 in 大都会岡山 -2014 Winter- を開催しました。
+ Togetter Flickr (Thx!! &amp;gt; 根本さん)  発表死霊  関数がどーたこーたらとか普段からちょいちょい口走ってるのですが、今回は「割とよくあるオブジェクト指向っぽい言語畑の経験者の語彙で関数プログラミングについて説明してみる」というのをテーマにしてみました。 なんか全然時間が足りなかったので後半の方は端折ってしまった…。 そんなに小難しいテクニックについては一切触れてないんですが、何となく伝わったのかなぁ。どうなのかなぁ。という感じです。 ポカーン枠ですねそうですね、毎度毎度すいません…。
+合同勉強会について 去年は娘が入院してしまったので急遽他の方々に運営をお願いした(その節は大変おせわになりました)のですが、今年は何とか参加出来ました。 参加者もそこそこ入って一安心。
+あと今回、タイムキーパー業は比較的キッチリやったのですが、そもそも発表者の皆様方が殆ど時間ジャストで終わらせる神っぷりを見せてくれたので、非常にラクでした。 時間の調整が難しいLTも滞りなく進んで、有り難い限りでした。
+発表の内容についても今回は特にLT参加者の皆様方のクオリティが素晴らしく、楽しいLTタイムとなりました。 毎度忘年会議の夜LTが本番みたいな風潮があるせいか、昼側が人数的に手薄になってしまう感じだったのですが、全枠近く埋まったのでよかったです。来年もよろしくお願いします。
+個人的な感想 今回のベストスピーカーは個人的には あべさん です。 合同勉強会の準備会の時も「あー俺ポカーン枠だわー」みないな感じだったのに蓋開けてみたらバッチリじゃないですかやだー。 アレですよ、マラソン大会で「一緒にゴールしようね」っつってぶっちぎるアレ。
+あと、いしざきさんの話は、最近もやもやと自分の中で考えていたことにドンピシャでハマった感じでした。 ベタベタでこっ恥ずかしいコトバだけど、そうだよな、「愛」なんだよなーと。
+隣人を愛するって大事だなぁと最近しみじみ思うよ #gbdaitokai
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 12月 13 
+あとひむひむの終わる終わる詐欺はさすが #ひむひむマジひむひむ といった感じ。 割と最近は飛び道具っぽい発表方法はやってないんですが、なんか特殊なやつ考えてみようかなーとか思いました。
+さいごに 前のエントリ でも告知しましたが次は 座駆動LT大会20150228 となります。 ご都合よろしければこちらも是非ご参加ください。</description>
+    </item>
+    
+    <item>
+      <title>Effective 座・スタジアム</title>
+      <link>http://shizone.github.io/2014/12/17/0033/</link>
+      <pubDate>Wed, 17 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/12/17/0033/</guid>
+      <description>シュウキョウテキなインシデント&amp;#10;#忘年会議 pic.twitter.com/ktpWNGGRKK
+&amp;mdash; 殺意駆動開発 (@toru_inoue) 2014, 12月 13 
+ご安全に！もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2014 の17日目のエントリです。
+前日は @maepon さんの岡山WEBクリエイターズ「年末スペシャル2014」 でした。
+翌日は 工事のおじ…じゃなかった、 猟銃女子 の 津山っていいところなのよ。 です。
+本題 座・スタジアムをより楽しむためのアレコレをつらつらと描いていきたいと思います。
+座ってなにゃねん 大都会岡山が誇る懇親会に特化したハコです。
+詳しくは 前に書いたアサルトマーケティングエントリ 嫁。
+1.参加者編 座席の傾向と対策 Ryouteiの建物は元映画館で、その関係で座・スタジアムは独特のレイアウトをしています。
+席の種類もいくつかあり、それぞれ特徴があるのでそれを見て行きたいと思います。
+次回参加するときの席取りの参考にしていただければ。
+A.ひな壇 一番多い席です。特に何も考えなければここに座ることになるでしょう。
+ メリット  司会側との距離感が一番近く、懇親会自体のコンテンツを楽しむには最適。 隣席との交流もしやすい。  デメリット  段差になっており、通り道になっている関係で食べ物・飲み物を倒されるリスクがダントツに高い。  食膳が軽く、酒の席であることがリスクをさらに高める。  荷物が多いと邪魔になるかも。  司会席の裏にある程度は荷物スペースがあるのでそちらの利用もご検討ください。    B.正面最上段の席 個人的にはここがオススメ。食べ物・飲み物を倒されるリスクもなく司会席との距離感もそこそこです。
+ メリット  ひな壇より机が広い。足元に荷物を置くこともできる。 PC広げて飛び入りのLT死霊を作るのにも向いています。  デメリット  食べ物が近いため、皆最初に列を並べるときに狭い。 席少なめ。早めに確保しておきたい。   C.</description>
+    </item>
+    
+    <item>
+      <title>改めて岡山県のご紹介</title>
+      <link>http://shizone.github.io/2014/12/10/0032/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/12/10/0032/</guid>
+      <description>キョートの西、岡山県の麓で、今これをタイポしています。岡山県はよい天気です。 pic.twitter.com/rb8MYWH1b6
+&amp;mdash; njslyr_ukiyoe (@njslyr_ukiyoe) 2014, 6月 10 
+ドーモ、もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2014 の10日目のエントリです。
+前日は @maepon さんの ももたんと私 でした。
+翌日はまたもや 工事のおじさん の 大都会岡山を楽しむための用語集2014＿追加.xls です。
+今回は、某アカウントのつぶやきを引用しつつ改めて岡山県の紹介をしていきたいと思います。
+岡山県ってどんなところ 岡山県。カッパドキアめいた禁断の高地。ここは有史以前から、数多くの政治犯や宗教的異端者の避難所となってきた。その洞窟都市に最初に住み着いたのは誰だったのか……記録は一切残されていない。一説には、ブディズム伝来によって迫害されることになった土着ドルイド教徒であるとも囁かれる。　13
+&amp;mdash; Ninja Slayer (@NJSLYR) 2013, 3月 16 
+そう、彼らが目指すのは、岡山県。ユカノの言葉に嘘はない。動物は、いくらでもいる。……モタロ伝説、ミヤモト・マサシ伝説、様々な神話伝承が息づく地である。そして彼らの目的地は、オンセンとヤマブシで知られる岡山の町の更に奥、険しい山間の道を進んだその先の場所であった。19
+&amp;mdash; Ninja Slayer (@NJSLYR) 2014, 6月 6 
+岡山県のオンセン それから数日後、カッパドキアめいた険しさを湛える、神秘的な岡山県の山間……。　1
+&amp;mdash; Ninja Slayer (@NJSLYR) 2013, 2月 24 
+平安時代の哲学剣士ミヤモトマサシは、かつてこの地に庵を築いてザゼンしたという。その空は厳粛で陰鬱だ。キョートリパブリックから流れてくる汚染大気が墨絵のように重く垂れ込めている。だがネオサイタマに比べれば遥かに空気は澄み渡り、セイシンテキなアトモスフィアに溢れているといえよう。　2
+&amp;mdash; Ninja Slayer (@NJSLYR) 2013, 2月 24 
+切り立った岩肌。まばらに立つバイオ紅葉の中に、「ン」「ド」「ラ」と書かれた錆だらけの大型カンバンが立ち、谷底から登る白煙によって幽玄さという名のレイヤを重ねられている。俗世間の喧噪とIRCから隔絶された神秘的な世界……ここにはセイシンテキを求める隠遁者たちが集うのだ。　3</description>
+    </item>
+    
+    <item>
+      <title>ニュービーのための合同勉強会 in 大都会岡山ガイド</title>
+      <link>http://shizone.github.io/2014/12/03/0031/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/12/03/0031/</guid>
+      <description>ご安全に！もじゃ変です。
+このエントリは 大都会岡山 Advent Calendar 2014 の3日目のエントリです。
+前日は @maepon さんの大都会岡山のはずれにぽつんとある『四万十ラーメン』 でした。
+翌日は 工事のおじさん の 大都会岡山を楽しむための用語集2014 です。
+本題 12&amp;frasl;13(土)に、 合同勉強会 in 大都会岡山 -2014 Winter- が開催されますが、はじめての参加者向けにガイド的ななんかを書こうかなぁと。
+合同勉強会 in 大都会岡山 とは？ 岡山に存在するIT勉強会コミュニティが皆で集まって、色々な発表をする勉強会です。
+と、言いながら何だかんだで毎回県外枠とかもあったりする感じだったり。
+幅広いテーマの話が聞けると思うので、「何か普段やってることと違うことを始めてみようかなぁ」とかお考えの方には、新たなネタ探しのヒントになったりするのではないかと。
+過去の開催実績とか  2012 Spring 2012 Winter 2013 Winter  勉強会参加の注意事項とか 会場について 岡山県立大学の学部共通棟(北)の2Fにある8202講義室となります。
+具体的な建物の位置については キャンパスマップ を参考にしてみてください。
+会場へのアクセスについて  電車でのアクセス  最寄り駅はJR吉備線の「服部駅」になります。 西側(福山・倉敷方面)からのアクセスは、総社駅からの伯備線・吉備線の連結がかなり微妙な感じなのでご注意ください。 正直クルマでのアクセスのほうが無難な気がしています。 僕は ハーレムさん をアシにする気マンマンですよ。   昼食について 売店が空いてるかも知れませんが、割と品揃えが微妙な可能性もあります。
+徒歩で行ける範囲にお店は全然ない感じなので、あらかじめ調達して会場入りするのもアリかも知れません。
+クルマ組にお昼ついていくというテも。
+おやつについて 割と毎回、皆でおやつを持ち込んでシェアして食べながら話を聞いたりします。
+自分で消化できる範囲で、 おやつをお持ちください。 万一余っても分配できるよう、個包装のものが望ましいです。
+フィギュアについて 毎度毎度、受付席にフィギュアとかガンプラとかを展示する謎の習慣があったりするので、何かイチオシのブツがあれば是非お持ちください。</description>
+    </item>
+    
+    <item>
+      <title>[読了]Cooking for Geeks</title>
+      <link>http://shizone.github.io/2014/11/17/0030/</link>
+      <pubDate>Mon, 17 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/11/17/0030/</guid>
+      <description> ティッシュを買いそびれたこたにんからティッシュが飛んできた pic.twitter.com/3rOLfHsUGu
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 10月 9 
+誕生日に こたにん に貰った Cooking for Geeksを読み終わったので読書感想文でも書こうかと。
+どんな本なのん 天下のオライリー発の料理本ということで、料理本なんだけど雰囲気は技術書という、独特の本です。
+文体はユーモアに溢れていて楽しく読み進めることができました。
+熱を加えることにより食材にどんな変化が起こるのかや、味や香りの組み合わせ、食中毒、食品添加物についてなど、ギークが喜びそうな薀蓄が満載でまさに「技術書」といった内容。
+モダンな調理法や謎ハードでの調理法も色々と載っており、そういうのが好きな人にも楽しめるのではないかと。
+ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = &amp;ldquo;//connect.facebook.net/ja_KS/all.js#xfbml=1&amp;rdquo;; fjs.parentNode.insertBefore(js, fjs); }(document, &amp;lsquo;script&amp;rsquo;, &amp;lsquo;facebook-jssdk&amp;rsquo;)); 投稿 by もじゃ 変. Cooking for Geeksはしか
+マニアックな内容ばかりかというとそういう訳でもなく、道具の基本的な使い方(アメリカの、だけど)もあって初心者でも大丈夫だと思います。
+邦訳にあたって日本と事情が違うところに関してはしっかりと訳注が入っており、ごあんしんです。
+レシピ的なものも随所に散りばめられており、一応レシピ本としても使うことはできます。
+(ティム・オライリーのレシピなんかもある！)
+元が洋書なだけあって、アメリカナイズされたレシピが日本人から見ると新鮮で、外国に全然行かない引き籠もりのジャップは「アメリカの食文化ってこんな感じなのかー」と新鮮な気持ちで見ることができました。
+さいごに 普段から料理を楽しんでいる人にも、料理してみたいんだけど尻込みしている人にもオススメできる本なので、興味があったらチェックしてみてくださいね。
+(非エンジニアは首を傾げそうだけど)
+ </description>
+    </item>
+    
+    <item>
+      <title>ClojureとSinatraっぽいほうのSparkで遊んでみた</title>
+      <link>http://shizone.github.io/2014/10/17/0029/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/10/17/0029/</guid>
+      <description>なんとなく思うところがあって、Clojureと SinatraっぽいほうのSpark (紛らわしいんよな…)でHello Worldしてみました。
+  Java8で書くのと比べて色々とクドい感じだけど、まぁこの辺はマクロでよしなにせぇっつう感じなんですかねぇ。</description>
+    </item>
+    
+    <item>
+      <title>某社Nightというイベントのやんわりとした構想を垂れ流す</title>
+      <link>http://shizone.github.io/2014/10/07/0028/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/10/07/0028/</guid>
+      <description>毎回違う会社の会議室を貸して貰って開催する勉強会とか面白いかなぁと思った
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 10月 1 
+ってなことを最近もやもやと思っていて、どんなもんかここで垂れ流そうと思います。
+面白そうだーとか一緒にやってみたいなーとかいう方がいらっしゃったらここのDISQUSとか、もしくはTwitterとかFBあたりから連絡くれると嬉しいんですよ僕は。
+概要  毎回違う会社の会議室を借りて平日の晩に勉強会やる(1周したらループ) ニッチなネタというよりは皆の役に立つようなネタを中心に据えたい アンカンファレンスっぽい感じもいいかなーとか  あくまでもその会社の主催の人がコンテンツについての決定権もってる感じで  #I社Night とか #R社Night とか #C社Night とかそういうタイトルにしたい  なんでこんなこと考えたの  外の勉強会に行くのは抵抗があるけど社内でやるなら出てもいいかくらいの人と交流してみたい あと色んな会社に遊びに行く口実がほしい(ここ大事) コミュニティで会社同士の交流も深まるといいなーとか ぶっちゃけ名前ありき  こんなんで新規層の開拓は難しいんじゃないのかい コミュニティにJoinしてくれる人材を新たに発掘する、みたいなのはあんまり考えてなくて、「自社開催回くらいなら参加してもいいか」みたいな人がいないかと思いまして。
+いないかなぁ。どうだろうかなぁ。
+と、ここまで書きながら すげー頓挫しそうなイベントだなと思ってしまった。
+反響があれば割と頑張ってみようと思うのでご意見ご感想をお聞かせください。</description>
+    </item>
+    
+    <item>
+      <title>もじゃへんさんじゅうにさいになりました</title>
+      <link>http://shizone.github.io/2014/10/01/0027/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/10/01/0027/</guid>
+      <description>お陰様で無事さんじゅうにさいになりました。
+TwitterやFBでお祝いのメッセージをぶん投げて下さった皆様方、ありがとうございました。
+本題 前のエントリ を見て干し芋からあるものないものを贈って頂いたのでご報告とお礼をしようかと。
+しばせんせからペヤングとデスソースが飛んできた。あざーす！！ pic.twitter.com/J2COo0YbQ3
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 9月 24  thx! &amp;gt; @bleu48
+嫁氏「これ持ってるやつじゃん」 pic.twitter.com/ykN7Qpn7EL
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 9月 26  thx! &amp;gt; @ryosms
+どうしろと pic.twitter.com/FA66UwgX5n
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 10月 1  thx! &amp;gt; @tamacjp
+さすが軍団長！俺の一番欲しいものを把握していらっしゃる！ #グラキラのほうです pic.twitter.com/DVKhJ0bYpA
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 10月 3  thx! &amp;gt; @i705
+#ãã¹ããæ±ãã¦ pic.twitter.com/7mBllhmWq5
+&amp;mdash; ã´ããã­ã¼ãã»ãã¤ãã§ã³ (@razon) 2014, 10æ 3  thx! &amp;gt; @mao_instantlife
+ティッシュを買いそびれたこたにんからティッシュが飛んできた pic.twitter.com/3rOLfHsUGu
+&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 10月 9  thx!</description>
+    </item>
+    
+    <item>
+      <title>もじゃへんさんじゅうにさいのおいわいをおまちしております</title>
+      <link>http://shizone.github.io/2014/09/21/0026/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/09/21/0026/</guid>
+      <description>いや、 前のエントリ 書いたのはついでなんスよ。
+本当に書きたかったのはこっちで。(僕は正直者なのです)
+10月1日にもじゃ変さんは32歳の誕生日を迎えます。
+つきましては例の如く干し芋から何かしらのブツが飛んでくるのを期待しているのです。
+一昨年、去年と干し芋がボロボロ飛んできて嫁氏に怒られたので、今年もそうなると嬉しいなぁと思っとります。
+皆様の生暖かい支援をお待ちしております！
+技術書
+ガンプラ
+ベルギービール
+武器(物理)</description>
+    </item>
+    
+    <item>
+      <title>座駆動LT大会を開催しました</title>
+      <link>http://shizone.github.io/2014/09/21/0025/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/09/21/0025/</guid>
+      <description>はじまった！ #zadrvnlt pic.twitter.com/CbzJPLa1k2
+&amp;mdash; mako@Jave (@mako_wis) 2014, 9月 13 
+前のエントリ で告知したとおり、9/13に Ryoutei 座・スタジアム にて 座駆動LT大会 を開催しました。
+Togetter
+死霊(公開できるやつ)  イベントの開催まで 現在の現場の都合で告知が難しかったのですが(お察しください)、それに見かねた色んな方々が代わりに広報活動を頑張ってくれました。
+ありがとうございました。
+弊社代表から社員に赤紙を飛ばしたお陰で何とか座の最少人数20人を超えて、県外からお越しの方に僅かな額ですがキャッシュバックすることもできました。
+LT大会について 今回は比較的人数が少なく、全体的に和気あいあいとした雰囲気で進んでよかったなーと思います。
+発表内容についても初回だし割とユルめで技術的な話に拘らないほうがいいと思っていたので告知ページに軽くその旨を記載していおいたのですが、 お陰様で非常に幅広い内容となり、結構盛り上がってよかったです。
+また、観覧枠よりLT登壇枠のほうが多かったのは予想外でしたが、LT大会は登壇してナンボでもあると思うので良かったです。
+今回は観覧枠だった方も次回は発表してくれると嬉しいなあ。
+時間についてですが「人数少ないからタイムキーパー業はザルでいいかなー」と思ってましたが、割と皆ガッツリ話してくれたので時間がギリギリになってしまいました。
+やっぱり次回からはちゃんと見たほうがいいなーと。
+飛び込み枠も多めに取っておきたいですね。
+自分の発表内容について 1本目は完全に趣味に走ってニンジャスレイヤーネタ。
+ちょっと方向性がニッチすぎて微妙な反響だった気がする。
+2本目(アカンやつ)は割と鉄板な感じの闇ネタで行きました。
+こちらは最後の発表(時間ギリギリでぶっ込んだ…)だったのですが、いい感じにオチたのではないかと。
+次回について 次の座駆動LT大会は2月くらいかなぁと思っております。
+今回参加できなかった方、是非ご検討いただければ。
+また、次に座・スタジアムで開催されるイベントとして 忘年会議 がありますので、 こちらにも参加ください。
+まだ募集は開始されていませんが、12/13(土)の予定となっております。
+募集開始は10月末〜11月上旬あたりらしいのですが、事前に上記のDoorkeeperコミュニティに参加しておけば公開時にメールが飛ぶと思います。
+ガラガラの座LT大会とは違い忘年会議は早々に埋まってしまう人気イベントなので、ご注意を！
+では、また座・スタジアムでお会いしましょう。
+やっぱり座スタジアムは最高だぜ！
+&amp;mdash; えいる@9月20日 OSC広島とか (@eielh) 2014, 9月 13</description>
+    </item>
+    
+    <item>
+      <title>えるしってるか 大都会岡山には 最強の懇親会向け会場がある</title>
+      <link>http://shizone.github.io/2014/09/03/0024/</link>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/09/03/0024/</guid>
+      <description>ご安全に！もじゃ変です。
+Ryoutei というお店の「座・スタジアム」という部屋が懇親会向きのハコとして素晴らしすぎると大都会岡山民の中で大評判なので、アサルトマーケティングエントリを書きました。
+写真は 根本さん と とろくん のFlickrからお借りしております。毎度毎度ありがとうございます。
+#座・スタジアムってどんなところ？
+ 正面にスクリーンがあり発表し放題です。音声出力も使えます。
+ 観覧席はこんな感じでひな壇になっています。
+ ビュッフェスタイルで食べ飲み放題
+で、気になる料金は1人3,500円+消費税(増税前は税込みだった)です。実際安い。
+こんな感じで利用されています  恒例のLT大会
+ファミベーでやった結果 #oso2013 pic.twitter.com/CNMuhbpZPX
+&amp;mdash; (っ’ヮ’c) ＜ すんす (@ryosms) 2013, 5月 11 
+ファミベーでライブコーディング
+ 司会陣もマサカリとこん棒で迎撃
+ 時にはマサカリが刺さる
+ 大都会の一部の界隈では懇親会LTで笑いを取ることを要求されます
+ みんなで記念撮影
+県外からお越しの方にも好評です 懇親会会場のスゲーー！！！ #oso2012 http://t.co/6L3dGPII
+&amp;mdash; だいくしー@9/6Scala祭りLT (@daiksy) 2012, 5月 12 
+岡山のLT面白すぎるw #tddbc #せやな #あべさん抱いて
+&amp;mdash; なかやん＠重機もみあげ (@pocketberserker) 2012, 8月 25 
+何だこの懇親会会場！？ #tddbc
+&amp;mdash; Takeshi Kamada (@take4_k) 2012, 8月 25</description>
+    </item>
+    
+    <item>
+      <title>オープンセミナー2014@岡山に参加してきました</title>
+      <link>http://shizone.github.io/2014/05/23/0023/</link>
+      <pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2014/05/23/0023/</guid>
+      <description>5/17に開催された オープンセミナー2014@岡山 に参加してきました。
+参加してみて 今回は「フロントエンドとサーバーサイド」というテーマだったこともあって、デザイナーっぽい方面の人もそこそこ参加してました。
+皆、普段良く聞くテーマの話とあまり聞かないテーマの話、バランス良く聞けてよかったのではないかと思います。
+個人的には最近はインフラ方面のノウハウを蓄積していきたいと思っているので、大場さんの話が聞けてよかったです。
+毎年の実行委員長が抱いている想いというか、拘りみたいなものが垣間見えて、色々と興味深い。
+来年の実行委員長である 軍団長 がどのようなセミナーをつくり上げるか、今から楽しみでもあります。
+実行委員長の ハーレムさん 、 本当にお疲れ様でした。
+スタッフとして なんだかんだでオープンセミナーは半年仕事だから結構色々とリソース持ってかれる感あったなぁ。&amp;#10;来年はハーレムさんも軍団長も無理しない程度に頑張ってくだせぇ。&amp;#10;お手伝いできるところはしますので。
+&amp;mdash; いいえ、私は遠慮しておきます (@razon) 2013, 5月 13 
+とかいっちょ前のことを言ってたんですが、如何せん仕事で多摩送りにされていた所為で全然手伝いができませんでした。
+ハーレムさん 、 軍団長 、マジすまんかった。
+という訳でやった仕事といえば当日の懇親会の司会くらい。
+何となく マサカリ と こん棒 を持っていったのですがそこそこ活躍しました。
+今回は実行委員長を労おうと、サプライズでプレゼント(寄せ書きとAmazonのWish Listからポチった)を用意しました。
+オープンセミナーに限らず、勉強会の運営で頑張る人たちへ、プラスになるような仕組みを色々と作っていければと思います。
+大都会の懇親会といえば大きくネタ方面に振れたLTがウリですが、今回初めて座・スタジアムにお越し頂いた方々、お楽しみいただけたでしょうか。
+これから他のイベントにもいろいろ参加してくれると嬉しいなぁ、とか。
+特に このへん とか このへん にメンバー登録しておくと、色々とステキな感じになるのでは。
+さいごに オープンセミナーの実行委員会は、来年のセミナーを運営してくれる新メンバーを大募集しているような気がします。
+いや誰にも聞いてないんですけど。
+軍団長 とかに「俺が来年の岡山を盛り上げるぜ！」みたいな感じでコンタクトを取るとステキだなぁ、とか思ったりします。
+俺が。
+皆様の参加を心よりお待ちしています。</description>
+    </item>
+    
+    <item>
+      <title>今年の振り返りを俺のTogetterでアレするアレ</title>
+      <link>http://shizone.github.io/2013/12/27/0022/</link>
+      <pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/12/27/0022/</guid>
+      <description>去年の軍団長のアレ が俺無双だったので、今年の大都会界隈もTogetterで振り返ろうとかいうアレですよアレ。
+完全に身内ネタなのでごめんねごめんね。
+1月 パトさん がにゃんにゃん言ってた tgtr.ListWidget({id:&#39;436304&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;438027&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 案の定マッハで廃れましたね。
+岡山Python勉強会が始まった tgtr.ListWidget({id:&#39;443609&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 公式ハッシュタグは #okaPython なのだが、実質 #おっpy になってしまった感ある
+座席表で悪ノリ tgtr.ListWidget({id:&#39;445602&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;445695&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;445621&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); ごめんなさい。
+根本さんがパンツをアレしてソレしてた tgtr.ListWidget({id:&#39;447952&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); これはひどい。
+ハーレムさん 関連 tgtr.ListWidget({id:&#39;447973&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;451832&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;501009&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); いじられキャラとしてすっかり定着。
+3月 すごいH本読書会 tgtr.ListWidget({id:&#39;468829&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 結局第2回が開催されてないんですけど！！
+4月 ハンバーグの会 発足 tgtr.ListWidget({id:&#39;483004&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 最近ハンバーグ食べてない
+5月 オープンセミナー2013@岡山 開催 tgtr.ListWidget({id:&#39;500976&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 色々と至らぬ委員長業でしたが、お力添え頂きました皆様ありがとうございました。
+来年のハーレム委員長にも期待ですね！
+Agile Japan 2013 岡山サテライト &amp;amp; okayama-js tgtr.ListWidget({id:&#39;508322&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;508329&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 息子の運動会で行けず。無念。
+#た がいつもの要領で弄られるアレ tgtr.ListWidget({id:&#39;510435&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 福山に転職してから出番が少なくなった感ある。
+6月 #ひむひむマジひむひむ tgtr.ListWidget({id:&#39;512845&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); このあたりで大都会界隈でも ひむひむ がキャズム超えた感ある。
+#みずきさんかわいい tgtr.ListWidget({id:&#39;517500&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 裏で はやさかさん がiOS7の人柱やって遊んでたので勉強会後に皆色めき立ってた記憶がある。</description>
+    </item>
+    
+    <item>
+      <title>JavaFX 8 on Scala</title>
+      <link>http://shizone.github.io/2013/12/21/0021/</link>
+      <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/12/21/0021/</guid>
+      <description>これは JavaFX Advent Calendar 2013 の21日目のエントリです。
+前日は @MulticolorWorld さんの JavaFXアプリケーション製作中に作ったライブラリの話(未完成) でした。
+本題 タイトルの通り、ScalaでJavaFX8を使う話です。
+JJUG CCC 2013 Fall で発表するため資料作りしてる最中に
+@skrb 8に変えてみたら、Scalaのビルドツールがクラッシュしちゃいました…。&amp;#10;取り敢えずは7でガマンですかねぇ…。
+&amp;mdash; マイクチェックの時間だ！コラァ！！ (@razon) 2013, 11月 3 
+ってことがあったので、ちゃんと動かすために調べてみました。
+Scalaのバージョン指定 Scalaは2.10.2以降のバージョンを指定する必要があります。
+sbtのバージョン指定 sbtは、0.12系だと動作しないので0.13系を指定します。
+jfxrt.jarの配備位置の変更対応 sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。
+当方ではJAVA_HOMEからの相対パスで指定する方式( 参考 )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。
+両方に対応するように修正してみました。
+ 拙作のGiter8テンプレート で対応しているので、参考にして頂ければ。
+余談 自前のJavaFXアプリ で動作確認してみたのですが、WebViewはだいぶ良くなってますね。
+露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。
+![Tengu on JavaFX8](https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot; グリグリ動きますね
+最後に 翌日は @kikutaro_ さんの JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx です。</description>
+    </item>
+    
+    <item>
+      <title>合同勉強会で「JJUG CCCで登壇してきたよ」という話をしたかった</title>
+      <link>http://shizone.github.io/2013/12/15/0020/</link>
+      <pubDate>Sun, 15 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/12/15/0020/</guid>
+      <description>これは 大都会岡山 Advent Calendar 2013 の15日目のエントリです。
+前日は @sinmetal の転職してました でした。
+本題 本来であれば 合同勉強会 in 大都会岡山 -2013 Winter- を開催してきた的な話をするつもりだったのですが、娘が入院してしまったため、そこで発表しようとしていた話にしたいと思います。
+ あ、娘は割と大丈夫です。点滴も取れて元気なもんですね。  例によってトゥギャり 合同勉強会って なにゃねん 大都会岡山の勉強会コミュニティがよってたかってアレしてコレする勉強会です。
+多分源流は このへん
+合同勉強会と言っておきながら僕が県外の人を誘致してる結果JVM系の人が妙に多い気がしますが気にしてはいけません。
+「JJUG CCCで登壇してきたよ」という話をしたかった JJUG CCCとは 日本Javaユーザーグループ 主催のクロスコミュニティカンファレンスです。
+春と秋、年2回開催されています。
+今回の告知ページ
+セッションを公募(Call for Papers)しており、挑戦してみたらうっかり通ったので、行ってきました。
+ネタが通ったのは他の人と方向性が被らなかったからみたいです。
+あべさん とネタが微妙に被って、殴り合いの結果俺がセッション、あべさんがBoFとなったとかなんとか。
+聞きに行ったセッション  基調講演-1  資料 この基調講演の資料を作るドキュメンタリー的なLTが懇親会であったのですが、それがすげー面白かった。 最初の頃はだいぶ前から着手してマジメに作ってたのに最近は直前になって資料作り始めてうんたらかんたらみたいな。 わかる。  基調講演-2 2013 エンタープライズ Java 最前線  直前に アレ なことがあったので、どことなく(というかごく一部が)不穏な感じでしたね。 マサカリの切り返し方は、さすがJavaエバンジェリストでした。 #てらだよしおがんばった  H-1 ジェネリクスの基礎とクラス設計への応用  資料 ジェネリクスといえばなぎせさん 簡単な話からどんどん雲行きが怪しい方向に進み始める構成が秀逸だった。 懇親会LTの Semicolonless Java8 も面白かった。  R1-2 JavaFX 8に関する7つのこと  資料 今回のセッションでJavaFXについて調べてたら「それ8からだから」的な事案に結構ぶつかってて、早いとこ8に移行したいなーとおもっていた自分にはうってつけのセッションだった まだまだバギーな部分もあり、その辺も辛口にぶった切るさくらばさんらしいセッションでしたね。 Nashornの具体的なベンチマーク結果が見れたのも良かった。  H-3 ユニットテスト改善ガイド  資料 Javaのテストといえば渡辺さん 実際にユニットテストを導入するにあたって躓きやすいポイントがわかりやすく解説されていました。 思わず「うんうん」と唸ってしまう内容。 「無理に導入すると不幸になるよ」という話と、その辺の判断基準が具体的に示されているので、是非目を通して頂きたい。  H-4 リーンスタートアップ x Java  資料 イケメン がサムライズムの業務をJavaでどのように効率化していっているか的な話。 Yayoi4Jわろす 自身の業務をプログラミングでどのように効率化していくか？という観点、大事ですよね。  R2-5 ScalaでJavaFXのWebViewを愛でる試み(てか自分が話した)  こっち見れ  R2-6 [BOF] JVM言語パネルディスカッション  あべさんがやらかしてくれました。 「Kotlinアイドルってなんですか？」 って質問するサクラの役を忘れていました。 たろーさん ごめんなさい。   発表のネタに使ったアプリ https://github.</description>
+    </item>
+    
+    <item>
+      <title>JJUC CCC 2013 FallでScalaとJavaFXの話をしてきた</title>
+      <link>http://shizone.github.io/2013/11/10/0019/</link>
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/11/10/0019/</guid>
+      <description>JJUG CCC 2013 Fall のCall for Paperがうっかり通っちゃったので、Scala+JavaFXのネタで登壇してきました。
+死霊はこちら
+死霊のソース
+話したネタについて tengu という、 picture show のGUIフロントエンドをJavaFXで作った話をしました。
+反響 正直、かなりスベった感があります。
+テーマ自体に興味がある人がそもそも少なかったというか。
+(Scalaだけやってる、JavaFXだけやってるみたいな人は多かった)
+寺田さんにもなんか慰められてしまう始末で、次回何とかリベンジしていきたいですね。
+(まあ別に凹んだとかそういうのは一切ないんですけど)
+その他 tenguでは、picture showをそのままラップする以外に、プレゼンのカンペというかメモというか、そういうのを裏で表示する機能を追加してあります。
+そのへん イケメン に見せたら、
+「あーそういうのついてないプレゼンツール結構あるよねー。こういうのナシで発表できる人、どうなってるんだろうねー」みたいな話になりました。
+そういう人はすげー練習してるんでしょうね。今回ちゃんとした場だし事前にしっかり練習したいと思ってたんですが、アプリの実装自体に手間取ったのもあるし仕事がセクシーすぎたので、結局ぶっつけになってしまいました。
+進捗ダメでした。
+あ、あと、JJUG CCC自体のレポは別エントリで上げたいと思います。</description>
+    </item>
+    
+    <item>
+      <title>もじゃへんさんじゅういっさいのおいわいをおまちしております</title>
+      <link>http://shizone.github.io/2013/09/23/0018/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/09/23/0018/</guid>
+      <description>10月1日にもじゃ変さんは31歳の誕生日を迎えます。
+つきましては、優しい皆様方からのプレゼントを頂きたく候。
+変なものの干し芋テロも心からお待ちしております。
+いつ何時誰からの挑戦も受けます。
+Kampa!  amazonの干し芋リスト 技術書
+ベルギービール
+ガンプラ
+以上、よろしくお願いします。</description>
+    </item>
+    
+    <item>
+      <title>TDD Boot Camp岡山2.0が開催されました</title>
+      <link>http://shizone.github.io/2013/09/22/0017/</link>
+      <pubDate>Sun, 22 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/09/22/0017/</guid>
+      <description>去年の TDDBC大都会1.0 に続き、TDDBC岡山2.0が開催されたのでスタッフとして参加してきました。
+開催の模様 Togetter http://togetter.com/li/556695
+Photo(Thx! &amp;gt; @zephiransas) http://www.flickr.com/photos/zephiransas/sets/72157635436498440/
+Movie(Thx! &amp;gt; @kiyokura) 基調講演  ペアプロデモ  スタッフとして参加してみて 去年に引き続きTAとしての参加でしたが、 TDD Boot Camp Tokyo 2013-07 に参加者として初参加した時の経験が色々とTA業に活きた気がします。
+反面、ペアプロデモについては課題を多く残す形となってしまいました。環境周りでペア双方が慣れておいたほうがよかったですね。Mac難しい。
+次回について 次回は1.0、2.0のスタイルで開催することはないかなーと思います。規模を縮小するか、既存参加者向けの発展的なイベントの開催となるようです。
+さいごに 1.0に続き、実行委員長のあべさん( @mao_instantlife )、本当にお疲れ様でした。
+今回もあまりイベントの設営でお手伝いできなかった感がありますが（東京への単身赴任が重なった所為ですが）、無事開催できてよかったと思います。
+どうでもいいけど、この写真のドヤ感が酷い</description>
+    </item>
+    
+    <item>
+      <title>JJUG ナイト・セミナーでLTしてきた</title>
+      <link>http://shizone.github.io/2013/08/21/0016/</link>
+      <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/08/21/0016/</guid>
+      <description>JJUG ナイト・セミナー 「ビール片手にLT&amp;amp;納涼会」  に参加してLTしてきました。
+死霊(LTで使ったやつからちょっと弄ってます)  だけじゃわからないと思うので動画  参加してみて 大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。
+次はマジメな奴に挑戦してみたいですね。
+はっ、JJUG CCC か…！</description>
+    </item>
+    
+    <item>
+      <title>今後の勉強会参加/開催予定</title>
+      <link>http://shizone.github.io/2013/08/02/0015/</link>
+      <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/08/02/0015/</guid>
+      <description>最近参加した勉強会をまとめたので、次は今後の参加/開催予定のものとか。
+2013/08/03 第一回　中国地方DB勉強会 http://local.aguuu.com/events/20621
+まあ、明日なんだけど。
+#た と「DBの勉強会とかないしやりたいよねー」と話してて開催することにしました。
+主催者（#た）が欠席だし司会の俺が当日岡山移動だったりでえらいバタバタしてますが、まー何とかなると思います。
+遠方からの講師を呼べるのは、JPUG絡みイベントの強みですなー。
+2013/08/19 JJUGナイトセミナー 8月LT大会 http://atnd.org/event/E0018054
+勤務地の関係で遅刻必至ですが、JJUGのLT大会に参加することにしました。
+折角関東で仕事してる訳だし。
+ネタは今のところ技術的なやつというよりは完全に飛び道具で行こうと思っています。
+大都会の悪ノリで乗り込んで玉砕することが想定されますので生暖かい目で見守ってください。
+2013/8/31 TDD Boot Camp 岡山 2.0 http://tddbc.doorkeeper.jp/events/4941
+前エントリでもちょろっと触れましたが、昨年ご好評いただいたTDDBC大都会を今年も開催します。
+昨年はTAとしてあまりうまく立ち回れなかったのが心残りでしたが、今年は事前に素振りもしましたし、その辺はリベンジしたいですね。
+たぶんペアプロデモは俺と あべさん でScala（！）でやると思います。
+まあ、周りの人がついていける範疇の書き方で。
+2013/09/14 岡山Git勉強会 201309 http://local.aguuu.com/events/19879
+みんな大好きパソコン交流会というか、寧ろビアガーデン駆動なのがポイントです。
+GitHubのハンズオンやるらしいので、興味があるけどまだあまり触れてない方とか、是非ご参加いただければ。
+2013/09/16 JavaEE7 ハンズオン http://local.aguuu.com/events/21329
+まさかの大都会でのJavaEE7ハンズオンです。
+すげー興味はあるんですが、（2日前がパソコン交流会なので）参加は厳しそうな気がするなぁと思っています。
+（家庭内の調整とかまぁ色々ありますしねぇ）
+2013&amp;frasl;10 天領倉敷Scala あと日付はまだ確定してないんですが、大都会の弱小コミュニティこと 天領倉敷Scala をそろそろ再動させたいと思います。
+オープンセミナー岡山の実行委員長業とか関東での仕事とかが絡んでて全然開催できてなかったので何とか10月中には。
+ただ、今年はこれで打ち止めになりそうな感じですねー。年2回開催。かなり少なくなっちゃったな…。
+2013/12/14 合同勉強会in大都会岡山 2013 まだ告知サイトはオープンしてないのですが（来月頭を予定）、今年も大都会の合同勉強会を開催します。
+もちろん懇親会は毎年恒例の忘年会議です。
+今年は短めのセッションとかLTとかで構成したいなー、とやんわりと考えてますが実際には変わるかも知れません。
+なんか話したいなーって方は今からネタを考えておいて頂ければ！！
+まとめ 気になるイベントはありましたか？是非是非、色々と参加してみてくださいね。</description>
+    </item>
+    
+    <item>
+      <title>最近行ってきた勉強会のまとめ</title>
+      <link>http://shizone.github.io/2013/08/01/0014/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/08/01/0014/</guid>
+      <description>長らく放置プレイをキメていたので、ここいらで最近行ってきた勉強会とかをまとめたいと思います。
+2013/05/11 オープンセミナー2013@岡山 毎年恒例の オープンセミナー岡山 です。
+今回は実行委員長として開催してきました。
+今年のテーマは「若くして活躍されている技術者」ということで、10代〜30歳までで講師をチョイスしてみました。
+また、技術者以外の視点でのお話を聞きたいなーと思ったので、経営者の方を2名お呼びしました。
+同日に他地方でデカいイベントが何件かあったのと、講師の知名度的には例年と比べるとややマイナーな布陣になったので参加者的には落ち込んだ感がありましたが、アンケートを見る限りは反響はこちらの意図した通りのリアクションが返ってきたのでその辺りはよかったかなーと思います。
+来年の実行委委員長は、 ハーレムさんです。楽しみですね。
+2013/05/14 Java Day Tokyo 2013 前のエントリでも書いてるのですが、会社に交通費を出してもらって Java Day Tokyo 2013 に参加してきました。
+正直個人的には「おおっこれは！」と思うようなサプライズはあまりなかったのですが、久々に他地方の方と悪ノリしたりして色々楽しめました。
+自社からあと2名連れてきたのですが、色々と感じるものもあったみたいで、連れてきた甲斐があったかなーと思います。
+2013/06/15 Java Day Tokyo 2013報告会@岡山 で、Java Day Tokyo 2013の報告会を地元で開催してきました。
+個人的に一番印象に残った『E-2「Java IDE の最新トレンド」』を元に、3つのIDEについて紹介しました。
+現実問題大都会みたいな田舎では尚のことEcliなんとかが圧倒的なシェアを誇っているので、それ以外のものも是非触ってみて欲しいと思いネタをチョイスしてみました。
+報告会の翌日から仕事で関東に移動だったので、色々とバタバタしてしまいましたね。
+2013/06/22 JPUG 2013 夏セミナー #た がJPUGの総会に参加するからお前も参加しろと煽られたので参加してきました。
+が、実際のとこはろくに話も聞かずに次に登壇予定だった岡山Ruby会議02(後述)の死霊作ったり、そのための技術検証とかしてました。
+隣の人には
+隣りに座ってる人のポスグレへの興味の無さが酷い。
+&amp;mdash; ( ˘⊖˘) ｡o (@megascus) June 22, 2013 
+とか言われる始末。
+まあ、隣の人もなんかJavaのコードとか書いてましたけどね。
+2013/07/06 岡山Ruby会議02 大都会では2回目となるRegional Ruby KaigiにLT登壇してきました。
+内容としては、 lambda_driver.gem の紹介をしてきました。
+5分で関数型プログラミングの考え方みたいなのを伝えるのは難しいだろうなと思ったので、思いっきり投げっぱなす感じで発表してきました。
+その辺の話がわかる人には「flipの話とかいきなりしても何が嬉しいかわかんねえだろ！」と突っ込まれました。そうですね。僕もそう思います。</description>
+    </item>
+    
+    <item>
+      <title>ゆとりさんに逢いにいってきました</title>
+      <link>http://shizone.github.io/2013/05/14/0013/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2013/05/14/0013/</guid>
+      <description>このエントリは ゆとり Advent Calendar の14日目です。
+前日は @eiryu さんの 「ぼくと、ゆとり。」 #yutori_history #ゆとベントカレンダー #ユトーリー でした。
+なんか疑問に思われているようなので回答しておくと、現在の名前は [これ](http://dic.pixiv.net/a/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3(%E8%81%96%E9%97%98%E5%A3%AB%E6%98%9F%E7%9F%A2%CE%A9) から取ってます。中二病を拗らせていて好感が持てる二つ名ですよね。
+そろそろ飽きてきたので新しいのに変えたいなぁ。
+そういや昨日ゆとりさんの改名大喜利が盛り上がってたけど結局決まってない系ですね？
+というか全体的に「ゆとり」から脱却できてなかった感がですね。
+本題 今このブログは東京行きの新幹線の中で書いています。
+何故東京に行くのかと言うと、転職して更なる高みに昇ろうとするゆとりさんにお祝いの一言を申し上げたいからです。
+嘘です。
+Java Day Tokyo 2013 に参加するためです。
+まあ、ゆとりさんに(ついでに)逢えるのでいいんじゃないっすかねー(鼻ホジ)
+という訳で 転職祝いを贈ろうと思いまして。
+大都会で様々なゲストに押し付け贈ったり、 こんなもの 作ったりする程度には じゅれみっくす 推しの僕としてはこれ以外思いつかなかったので(そういや去年のTDDBC大都会でゆとりさんもじゅれみっくす買う買わないみたいな話になってたような？)、最新作の柿カレーを贈ります。
+じゅれみっくす(柿カレー)をゲットしてご満悦のゆとりさん(近影) 送信者 ゆとりアドベントカレンダー 柿カレーの食レポエントリが期待されることですね？
+最後に 実は自分でじゅれみっくすを食べたことはありません。
+次は、 @hotchemi さんです。</description>
+    </item>
+    
+    <item>
+      <title>ウェルカム・トゥ・オクトプレス</title>
+      <link>http://shizone.github.io/2012/12/15/0012/</link>
+      <pubDate>Sat, 15 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/12/15/0012/</guid>
+      <description>このエントリは 大都会岡山 Advent Calendar 2012 の15日目です。
+前日は @maepon さんの 岡山（地方）でサテライト勉強会を開催することについて でした。
+本題 このエントリは、 合同勉強会in大都会岡山 -2012 Winter- より、ライブ更新しています。 当ブログ構築に利用している Octooress の紹介セッションです。
+スライドはこちら  「これからブログを始めてみようかな」とか「どこか別のところに移転したいなぁ」とかお考えの方は、 この機会にOctopressを使ってみてはどうでしょうか？
+この辺とか参考にすると捗るかも GithubとOctopressでモダンな技術系ブログを作ってみる
+Octopress + Github Pages + Dropbox でブログを構築
+Octopressのデザインテーマを変更する
+最後に 明日は @skrb さんです。 えっ、さくらばさん？マジで！？</description>
+    </item>
+    
+    <item>
+      <title>我々はいろふだ</title>
+      <link>http://shizone.github.io/2012/12/09/0011/</link>
+      <pubDate>Sun, 09 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/12/09/0011/</guid>
+      <description>このエントリは いろふ Advent Calendar の9日目です。
+前日は @kazuhito_m  さんの いろふさんなら横でビルドしてるけど でした。
+本題 世間ではいろふさんはインスタンスが増えるとかどうとか俄に囁かれていますね。しかし私は思うのです。 いろふ Advent Calendarに参加している我々ももしかしていろふのインスタンスではないのか…と。
+そんな訳でこんなグリモンをゴリッと書いてみました。
+ 適用結果 &amp;lt;img src=&amp;ldquo;https://lh3.googleusercontent.com/-ao6zjZfoLVw/UMScFldIX2I/AAAAAAAAARU/bcGGToWF8kw/s800/Screenshot_from_&amp;quot;2012-12-09&amp;quot;
+うん。これが正しい。
+諸注意 いろふ Advent Calendar参加者の皆様はコレを導入してしまうと誰が誰だかわかんなくなって記事書くのが全く以て捗らなくなるので注意してください。 導入してｷﾀｺﾚと思いつつもこれ書く時に頭を抱えて泣く泣く切った先駆者からの忠告です。
+最後に 明日は @kimukou_26 さんです。</description>
+    </item>
+    
+    <item>
+      <title>AdventCalendarのPost数から変態ランキングを作る</title>
+      <link>http://shizone.github.io/2012/12/07/0010/</link>
+      <pubDate>Fri, 07 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/12/07/0010/</guid>
+      <description>このエントリは HENTAI Advent Calendar 2012 - 変態アドベントカレンダー - の7日目です。
+前日は @ponkore さんの Clojure から POI ってみる でした。
+本題 さて、この変態アドベントカレンダー、 変態アドベントカレンダー 2011 、 変態アドベントカレンダー in Summer に引き続き3回目になります。 前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)
+で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。 つまり変態オブ変態です。
+手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。
+集計方法 2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。 幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。
+2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。
+コード  実行結果 (もじゃ変,7)
+(backpaper0,6)
+(KASUYA, Daisuke,5)
+(Kuchitama,5)
+(dproject21,4)
+(s_kozake,4)
+(issps2009,3)
+(真っ赤なレモン,3)
+(soudai1025,3)
+(susumuishigami,2)
+(winplus,2)
+(dekokun,2)
+(megascus,2)
+(toshi__ya,2)
+(hakurai,2)
+(tanago238,2)
+(bufferings,2)
+(daiksy,1)
+(N.Murakami,1)
+(KTZ ,1)
+(posaunehm,1)
+(zephiransas,1)
+(jyukutyo,1)
+(はがねのつるぎ,1)
+(tango238,1)
+(nyaarto,1)
+(sudai1025,1)
+(kuchitama,1)
+(miya2000,1)
+(satohjohn,1)</description>
+    </item>
+    
+    <item>
+      <title>TDDBC岡山1.0が開催されました</title>
+      <link>http://shizone.github.io/2012/08/26/0009/</link>
+      <pubDate>Sun, 26 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/08/26/0009/</guid>
+      <description>2012/08/25(Sat)に、 TDDBC 岡山1.0が開催されました。
+スタッフとして懇親会場確保したり、お弁当の注文とかしたり、受付したり、お金の計算したり、ちょびっとだけTAしたりしてました。
+開催までの道のり オープンセミナー2011@岡山 であべさん( @mao_instantlife )が開催宣言したのがTDDBC大都会の始まりです。その時にあべさんに「開催したいから協力してよー」的なことを言われて二つ返事でOK出してたような気がします。 そこからちょいちょい大都会の技術コミュニティ関係の人らに赤紙飛ばしてTAスタッフが集まってきた感じですね。
+最初の足掛かりとして、 OITEC で TDD Boot Camp in Tokyo サテライト開催としてUstを流しました。
+次に、第21回オープンラボ岡山 で、@kkd さんを岡山にお招きしてTDDについての発表を行なっていただきました。
+そしてスタッフ向けとして、弊社オフィスを使ってTDDBC岡山0.5をひっそりと開催しました。 TA向け教育としてTDDBC札幌のお題を皆で解きました。 多分1.0でScala希望で来る人いないからJavaでやったほうがいいよねーとか言いながら、環境構築するのが面倒くさくなって結局Scalaでやっちゃった記憶があります。 あべさんもScalaでやってましたっけね？
+TDDBCとか直接は関係ないのですが、オープンセミナー2012@岡山 で@t_wada さんをお招きしてお話していただきました。講演中に「あべさんがTDDBCを開催するので」と退路を断っていたのが印象的でしたね。
+そんなこんなで、何とかTDDBC岡山開催に漕ぎつけました。
+TDDBC岡山当日について 最初に受付を行なってお金を計算してお昼の買い出しに行って…と雑務中心にてんやわんやでした。 有料のイベントは大変でしたね。何とかお金についてはキッチリ計算が合ったので一安心でした。
+TA要員としては正直戦力になれなかったなぁという感じです。 次開催するときに是非リベンジしていきたいですね。
+懇親会ではいつもの大都会節全開で実にカオスな進行になってよかったと思います。 初めて岡山にお越しいただいた方々にも楽しんでいただけたようでなによりです。
+岡山の LT 大会は本当に楽しいwwww #せやな
+&amp;mdash; Takuto Wadaさん (@t_wada) 
+岡山のLT面白すぎるw #tddbc #せやな #あべさん抱いて
+&amp;mdash; なかやん・ゆーき・オンラインさん (@pocketberserker) 
+ryouteiの座・スタジアムは大都会のIT勉強会クラスタ最大の武器ですね。
+当日の状況については例のごとくトゥギャってます。 会場の熱気を少しでも感じていただければ。
+TDDBC大都会岡山1.0 まとめ #tddbc
+さいごに TDDBC岡山の開催にあたっては、主催のあべさんの多大なる尽力に依るところが非常に大きかったと思います。本当にお疲れ様でした。 また、県外からお越しいただいた皆様、初めての開催で未熟な岡山スタッフを暖かくサポートしていただき非常に助かりました。ありがとうございます。 参加者の皆様、TDDBC岡山をお楽しみいただけましたでしょうか？少しでも今後の糧になったら幸いです。
+次回もよろしくね！</description>
+    </item>
+    
+    <item>
+      <title>Javaの痛IDE用画像が欲しい(2)</title>
+      <link>http://shizone.github.io/2012/08/10/0008/</link>
+      <pubDate>Fri, 10 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/08/10/0008/</guid>
+      <description>このエントリは 変態アドベントカレンダー in Summer の何日目かはもうよくわかりません。
+前回は @dproject21 さんの 「iStockPhoto乞食」という変態プレゼンターな生き方 でした。
+一周前の Javaの痛IDE用画像が欲しい(1) の完結編になります。
+今回の成果物 送信者 変態アドベントカレンダー SexyEditorへの適応例
+&amp;lt;img src=&amp;ldquo;https://lh4.googleusercontent.com/-6MbmDd1ffFg/UCUbwYY5ItI/AAAAAAAAAQ0/wXNpKApEj-U/s640/Screenshot_from_&amp;quot;2012-08-10&amp;quot;
+これで #okajug で痛IDEを披露して周囲をドン引きさせることができますね。
+最後に 変態アドベントカレンダーも残すところあと2日となりましたが、大トリは誰になるのでしょうか？
+期待して待ちたいと思います。</description>
+    </item>
+    
+    <item>
+      <title>第3回 岡山Javaユーザ会 勉強会で発表してきた</title>
+      <link>http://shizone.github.io/2012/08/01/0007/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/08/01/0007/</guid>
+      <description>第3回 岡山Javaユーザ会 勉強会 で発表してきました。
+死霊
+発表について 前回の天領倉敷Scala でおさらいした話をベースに 微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。 天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。
+でも結構ガッツリやんないと伝わらないんだよなぁ。この辺のバランス取りは毎回難しいですね。
+金魚本忘れて悔しい思いをしたお話 折角寺田さんが岡山に来たのに、金魚本持ってくるの忘れちゃったんですよね。 んでサプライズで金魚本プレゼントがあったもんだから貰った人たちはサインして貰っててぐぬぬってました。
+スタッフの立場を忘れてガチで勝ちに行く根本さん大人気ない！
+次寺田さんが岡山に来た時は絶対に忘れないようにしないとですね。</description>
+    </item>
+    
+    <item>
+      <title>LinuxでJavaFX Scene Builderを動かし隊</title>
+      <link>http://shizone.github.io/2012/07/31/0006/</link>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/07/31/0006/</guid>
+      <description>今回のお題 JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。 Linux版の2.xもだいぶ遅れて出ましたし。
+んで先日の 第３回 岡山Javaユーザ会 勉強会 でも @a_know さんのJavaFXのセッション聞いてて、 JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。
+が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、
+JavaFX Scene BuilderってWineで動くかなぁ
+&amp;mdash; ヴィムさん (@razon) 
+@razon JavaFXで書かれてるんじゃなかったっけ？
+&amp;mdash; 48さん (@bleu48) 
+@bleu48 インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。
+&amp;mdash; ヴィムさん (@razon) 
+@bleu48 @razon JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。
+&amp;mdash; Yuichi Sakurabaさん (@skrb) 
+@skrb @bleu48 なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。
+&amp;mdash; ヴィムさん (@razon) 
+@razon @bleu48 ぜひやってみて、うまくいったら教えてください！！
+&amp;mdash; Yuichi Sakurabaさん (@skrb) 
+@skrb @bleu48 そうですねー。ちょっと、チャレンジしてみます！
+&amp;mdash; ヴィムさん (@razon) 
+てな訳で、試してみました。
+手順 手順自体はすっげー単純で、
+ Wine入れる(ふつーにapt-getとかで入れておっけーです) Windows版のJDK7+JavaFX2.xをWineで突っ込む Windows版のJavaFX Scene BuilderをWineで突っ込む  という、手順を書く必要があるのかっていうくらいそのまま行けました。 特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。</description>
+    </item>
+    
+    <item>
+      <title>Javaの痛IDE用画像が欲しい(1)</title>
+      <link>http://shizone.github.io/2012/07/30/0005/</link>
+      <pubDate>Mon, 30 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/07/30/0005/</guid>
+      <description>このエントリは 変態アドベントカレンダー in Summer の15日目です。 寝るまでが今日です。
+前日は @backpaper0 さんの 例外投げ祭り でした。
+前置き 今回のネタは、「HENTAI」路線で行こうかなーと。
+IntelliJ IDEAには、 Sexy Editor という痛IDEを作るためのPluginが存在します。 で、このPlugin、拡張子ごとに別の画像が設定できたりとかそんな感じで素敵なんですが、 今んとこScala用としてScalaちゃんの画像を用意していますがJava用の画像がないなーと前々から思っていました。
+実は 岡山Javaユーザ会 には岡山Java子ちゃんというマスコットキャラがいて、 （参考画像： このへん とか このへん ） この子を痛IDE用素材として使いたいなーと思ったので自作することに。 今回は第1回目として取り敢えず軽く書いて、単色を置いて見ました。
+今回の成果物 送信者 変態アドベントカレンダー で、おまけでDuke準拠？のカラーとかも。
+送信者 変態アドベントカレンダー 試しにSexy Editorに設定してみたりとか
+&amp;lt;img src=&amp;ldquo;https://lh3.googleusercontent.com/-QMICsJDaBSE/UBa3fdaD91I/AAAAAAAAAQY/IfeD7bX8Ws8/s640/Screenshot_from_&amp;quot;2012-07-31&amp;quot;
+どうせアドベントカレンダーはもう一周するので、完成は次回という事で。
+最後に 明日は根本さんこと @zephiransas さんです。</description>
+    </item>
+    
+    <item>
+      <title>物好きな変態どもをTwitterのListに晒しあげる</title>
+      <link>http://shizone.github.io/2012/07/18/0004/</link>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/07/18/0004/</guid>
+      <description>このエントリは 変態アドベントカレンダー in Summer の4日目です。
+前日は @backpaper0 さんの システムイグジらない でした。
+今日のお題 こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。 んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。
+技術的な解説 Scala + xsbtscript で書きました。
+xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。
+本当はTwitter4Jではなく あべさんのTwitter4S を使うつもりだったんですが、 githubのソースを直に取ってくるにはBuildの拡張が必要っぽい ので断念しました。
+コード  ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。
+仕上がったものはこちら @razon/変態アドベントカレンダー in summer
+最後に 明日は根本さんこと @zephiransas さんです。</description>
+    </item>
+    
+    <item>
+      <title>天領倉敷Scala第9回勉強会を開催したよ</title>
+      <link>http://shizone.github.io/2012/07/13/0003/</link>
+      <pubDate>Fri, 13 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/07/13/0003/</guid>
+      <description>開催してだいぶ経っちゃいましたが、 [天領倉敷Scala第9回勉強会](http://partake.in/events/ee2da&amp;quot;551-9567-4643&amp;quot; 間に合同勉強会で発表したのを抜きにすると、実に5ヶ月ぶりくらいの開催です。 超久々。
+死霊 久しぶりなのでScalaのおさらい
+懇親会について 常に懇親会の開催危機に瀕している天領倉敷Scalaですが、今回は何故か10/11人という謎の確変が発生しました。 当日ビアガーデンに行く予定だったんですが見事に雨天となってしまい、懇親会難民になってしまうハプニングもありましたが、何とか開催できました。 何か、Scalaの話は殆どしなくてGitとガンプラの話ばっかだったなぁ。
+次回勉強会 10&amp;frasl;06(Sat)にやりますよ。是非来てくださいね。
+[天領倉敷Scala第10回勉強会](http://partake.in/events/ee2da&amp;quot;551-9567-4643&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>オープンセミナー2012＠岡山を開催してきたよ</title>
+      <link>http://shizone.github.io/2012/05/16/0002/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/05/16/0002/</guid>
+      <description> という訳で、 オープンセミナー2012＠岡山 に今年はスタッフとして参加しました。 実行副委員長という事で、何といきなりの司会です。上級職スタートです。ナトーラさんもびっくりです。
+ Togetter flickr(thx!!&amp;gt; @zephiransas )  初めてのスタッフ参加 今年で5周年となるオープンセミナー＠岡山ですが、私が初参加したのは、2010年のことでした。
+去年の 忘年会議で実行委員長の @kiyokura さんから「実行副委員長やらない？」と赤紙が飛んできて、二つ返事でOKを出しました。
+随分とザルな司会をしてしまいましたが、実行委員長を始め様々な方の支援もあり、何とか役目を終えることが出来ました。 （色々とフォローしていただいて本当にありがとうございました＞きよくらさん）
+私の仕事はともかく、スタッフの皆様方の素晴らしい手腕により素晴らしいセミナーになったと思います。本当に今年はアツかった！
+貴重な体験ができ、スタッフとして参加してよかったと思います。講師の皆様、参加者の皆様、スタッフの皆様、ありがとうございました。
+来年のこと 来年は私が実行委員長となります。既に懇親会で、何人かに「スタッフやりますよー」とお声掛けいただきました。有難いことです。 今年以上に熱く盛り上がるセミナーにしていければと思うので、是非次回もご参加いただければと思います。
+あと、来年こそ絶対にきよくらさんを胴上げします。そのために今年の懇親会で胴上げされることに甘んじたのです。絶対に逃しません。
+さいごに 来年の話をすると鬼が笑うと言いますが、辛うじて今年となる年末の予定がもう立ち上がってしまったので告知です。 大都会こわいですね。
+ 合同勉強会in大都会岡山 -2012 Winter- 忘年会議2012  どちらも12/15（土）のイベントとなります。 何故か東京とか大阪のあたりの刺客が大量に攻めてくるみたいなので、是非是非ご参加ください！
+来年もよろしくね！ </description>
+    </item>
+    
+    <item>
+      <title>Octopressに引越しした</title>
+      <link>http://shizone.github.io/2012/03/16/0001/</link>
+      <pubDate>Fri, 16 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://shizone.github.io/2012/03/16/0001/</guid>
+      <description>なんかはてながアレでアレな感じになっていたので、ちょっと話題になっていたOctopress + github pagesに移行してみました。
+元々「Scalaのシンタックスハイライト効くじゃんすげーじゃん」ではてなダイアリー始めたんですけど、最近はGist使ってるしあんま意味ねーなーとかも思い始めていたので。</description>
     </item>
     
   </channel>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Tddbc Tdd 勉強会 on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+    <description>Recent content in Tddbc Tdd 勉強会 on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/tddbc-tdd-%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>TDD Boot Camp岡山2.0が開催されました</title>
@@ -15,47 +18,15 @@
       <pubDate>Sun, 22 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2013/09/22/0017/</guid>
-      <description>
-
-&lt;p&gt;去年の &lt;a href=&#34;http://shizone.github.io/blog/2012/08/26/tddbcgang-shan-gakai-cui-saremasita/&#34;&gt;TDDBC大都会1.0&lt;/a&gt; に続き、TDDBC岡山2.0が開催されたのでスタッフとして参加してきました。&lt;/p&gt;
-
-&lt;h1 id=&#34;開催の模様&#34;&gt;開催の模様&lt;/h1&gt;
-
-&lt;h2 id=&#34;togetter&#34;&gt;Togetter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://togetter.com/li/556695&#34;&gt;http://togetter.com/li/556695&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;photo-thx-zephiransas-https-twitter-com-zephiransas&#34;&gt;Photo(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt;)&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/zephiransas/sets/72157635436498440/&#34;&gt;http://www.flickr.com/photos/zephiransas/sets/72157635436498440/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;movie-thx-kiyokura-https-twitter-com-kiyokura&#34;&gt;Movie(Thx! &amp;gt; &lt;a href=&#34;https://twitter.com/kiyokura&#34;&gt;@kiyokura&lt;/a&gt;)&lt;/h2&gt;
-
-&lt;h3 id=&#34;基調講演&#34;&gt;基調講演&lt;/h3&gt;
-
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lLdA4cO_mag&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h3 id=&#34;ペアプロデモ&#34;&gt;ペアプロデモ&lt;/h3&gt;
-
-&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lkmDNORcRPU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&#34;スタッフとして参加してみて&#34;&gt;スタッフとして参加してみて&lt;/h1&gt;
-
-&lt;p&gt;去年に引き続きTAとしての参加でしたが、 &lt;a href=&#34;http://tddbc.doorkeeper.jp/events/4663&#34;&gt;TDD Boot Camp Tokyo 2013-07&lt;/a&gt; に参加者として初参加した時の経験が色々とTA業に活きた気がします。&lt;br /&gt;
-反面、ペアプロデモについては課題を多く残す形となってしまいました。環境周りでペア双方が慣れておいたほうがよかったですね。Mac難しい。&lt;/p&gt;
-
-&lt;h1 id=&#34;次回について&#34;&gt;次回について&lt;/h1&gt;
-
-&lt;p&gt;次回は1.0、2.0のスタイルで開催することはないかなーと思います。規模を縮小するか、既存参加者向けの発展的なイベントの開催となるようです。&lt;/p&gt;
-
-&lt;h1 id=&#34;さいごに&#34;&gt;さいごに&lt;/h1&gt;
-
-&lt;p&gt;1.0に続き、実行委員長のあべさん( &lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt; )、本当にお疲れ様でした。&lt;br /&gt;
-今回もあまりイベントの設営でお手伝いできなかった感がありますが（東京への単身赴任が重なった所為ですが）、無事開催できてよかったと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://farm8.staticflickr.com/7448/9701412230_1c15c193cf_c.jpg&#34;/&gt;
-どうでもいいけど、この写真のドヤ感が酷い&lt;/p&gt;
-</description>
+      <description>去年の TDDBC大都会1.0 に続き、TDDBC岡山2.0が開催されたのでスタッフとして参加してきました。
+開催の模様 Togetter http://togetter.com/li/556695
+Photo(Thx! &amp;gt; @zephiransas) http://www.flickr.com/photos/zephiransas/sets/72157635436498440/
+Movie(Thx! &amp;gt; @kiyokura) 基調講演  ペアプロデモ  スタッフとして参加してみて 去年に引き続きTAとしての参加でしたが、 TDD Boot Camp Tokyo 2013-07 に参加者として初参加した時の経験が色々とTA業に活きた気がします。
+反面、ペアプロデモについては課題を多く残す形となってしまいました。環境周りでペア双方が慣れておいたほうがよかったですね。Mac難しい。
+次回について 次回は1.0、2.0のスタイルで開催することはないかなーと思います。規模を縮小するか、既存参加者向けの発展的なイベントの開催となるようです。
+さいごに 1.0に続き、実行委員長のあべさん( @mao_instantlife )、本当にお疲れ様でした。
+今回もあまりイベントの設営でお手伝いできなかった感がありますが（東京への単身赴任が重なった所為ですが）、無事開催できてよかったと思います。
+どうでもいいけど、この写真のドヤ感が酷い</description>
     </item>
     
     <item>
@@ -64,64 +35,26 @@
       <pubDate>Sun, 26 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/08/26/0009/</guid>
-      <description>
-
-&lt;p&gt;2012/08/25(Sat)に、 &lt;a href=&#34;http://devtesting.jp/tddbc/&#34;&gt;TDDBC&lt;/a&gt; 岡山1.0が開催されました。&lt;/p&gt;
-
-&lt;p&gt;スタッフとして懇親会場確保したり、お弁当の注文とかしたり、受付したり、お金の計算したり、ちょびっとだけTAしたりしてました。&lt;/p&gt;
-
-&lt;h1 id=&#34;開催までの道のり&#34;&gt;開催までの道のり&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://openseminar.okaya.ma/2011/&#34;&gt;オープンセミナー2011@岡山&lt;/a&gt; であべさん( &lt;a href=&#34;https://twitter.com/mao_instantlife&#34;&gt;@mao_instantlife&lt;/a&gt; )が開催宣言したのがTDDBC大都会の始まりです。その時にあべさんに「開催したいから協力してよー」的なことを言われて二つ返事でOK出してたような気がします。
-そこからちょいちょい大都会の技術コミュニティ関係の人らに赤紙飛ばしてTAスタッフが集まってきた感じですね。&lt;/p&gt;
-
-&lt;p&gt;最初の足掛かりとして、 &lt;a href=&#34;http://oitec.vbstation.net/&#34;&gt;OITEC&lt;/a&gt; で &lt;a href=&#34;http://atnd.org/events/16311&#34;&gt;TDD Boot Camp in Tokyo&lt;/a&gt; サテライト開催としてUstを流しました。&lt;/p&gt;
-
-&lt;p&gt;次に、&lt;a href=&#34;http://openlab.okaya.ma/wiki.cgi?page=%CA%D9%B6%AF%B2%F1%2F%C2%E8021%B2%F3&#34;&gt;第21回オープンラボ岡山&lt;/a&gt; で、&lt;a href=&#34;https://twitter.com/kkd&#34;&gt;@kkd&lt;/a&gt; さんを岡山にお招きしてTDDについての発表を行なっていただきました。&lt;/p&gt;
-
-&lt;p&gt;そしてスタッフ向けとして、弊社オフィスを使ってTDDBC岡山0.5をひっそりと開催しました。
-TA向け教育としてTDDBC札幌のお題を皆で解きました。
-多分1.0でScala希望で来る人いないからJavaでやったほうがいいよねーとか言いながら、環境構築するのが面倒くさくなって結局Scalaでやっちゃった記憶があります。
-あべさんもScalaでやってましたっけね？&lt;/p&gt;
-
-&lt;p&gt;TDDBCとか直接は関係ないのですが、&lt;a href=&#34;http://openseminar.okaya.ma/2012/&#34;&gt;オープンセミナー2012@岡山&lt;/a&gt; で&lt;a href=&#34;https://twitter.com/t_wada&#34;&gt;@t_wada&lt;/a&gt; さんをお招きしてお話していただきました。講演中に「あべさんがTDDBCを開催するので」と退路を断っていたのが印象的でしたね。&lt;/p&gt;
-
-&lt;p&gt;そんなこんなで、何とかTDDBC岡山開催に漕ぎつけました。&lt;/p&gt;
-
-&lt;h1 id=&#34;tddbc岡山当日について&#34;&gt;TDDBC岡山当日について&lt;/h1&gt;
-
-&lt;p&gt;最初に受付を行なってお金を計算してお昼の買い出しに行って…と雑務中心にてんやわんやでした。
-有料のイベントは大変でしたね。何とかお金についてはキッチリ計算が合ったので一安心でした。&lt;/p&gt;
-
-&lt;p&gt;TA要員としては正直戦力になれなかったなぁという感じです。
-次開催するときに是非リベンジしていきたいですね。&lt;/p&gt;
-
-&lt;p&gt;懇親会ではいつもの大都会節全開で実にカオスな進行になってよかったと思います。
-初めて岡山にお越しいただいた方々にも楽しんでいただけたようでなによりです。&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;岡山の LT 大会は本当に楽しいwwww &lt;a href=&#34;https://twitter.com/search/?q=%23せやな&#34;&gt;&lt;s&gt;#&lt;/s&gt;&lt;b&gt;せやな&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&amp;mdash; Takuto Wadaさん (@t_wada) &lt;a href=&#34;https://twitter.com/t_wada/status/239331860835094528&#34; data-datetime=&#34;&#34;2012-08-25&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;岡山のLT面白すぎるw &lt;a href=&#34;https://twitter.com/search/?q=%23tddbc&#34;&gt;&lt;s&gt;#&lt;/s&gt;&lt;b&gt;tddbc&lt;/b&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search/?q=%23せやな&#34;&gt;&lt;s&gt;#&lt;/s&gt;&lt;b&gt;せやな&lt;/b&gt;&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search/?q=%23あべさん抱いて&#34;&gt;&lt;s&gt;#&lt;/s&gt;&lt;b&gt;あべさん抱いて&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;&amp;mdash; なかやん・ゆーき・オンラインさん (@pocketberserker) &lt;a href=&#34;https://twitter.com/pocketberserker/status/239332289845280768&#34; data-datetime=&#34;&#34;2012-08-25&#34;
-&lt;script src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ryouteiの座・スタジアムは大都会のIT勉強会クラスタ最大の武器ですね。&lt;/p&gt;
-
-&lt;p&gt;当日の状況については例のごとくトゥギャってます。
-会場の熱気を少しでも感じていただければ。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://togetter.com/li/360619&#34;&gt;TDDBC大都会岡山1.0 まとめ #tddbc&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;さいごに&#34;&gt;さいごに&lt;/h1&gt;
-
-&lt;p&gt;TDDBC岡山の開催にあたっては、主催のあべさんの多大なる尽力に依るところが非常に大きかったと思います。本当にお疲れ様でした。
-また、県外からお越しいただいた皆様、初めての開催で未熟な岡山スタッフを暖かくサポートしていただき非常に助かりました。ありがとうございます。
-参加者の皆様、TDDBC岡山をお楽しみいただけましたでしょうか？少しでも今後の糧になったら幸いです。&lt;/p&gt;
-
-&lt;p&gt;次回もよろしくね！&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://twitpic.com/ank8mo&#34; title=&#34;そして間違いなく今日一番のショット。みんなの笑顔が輝いてるぜ！ ... on Twitpic&#34;&gt;&lt;img src=&#34;http://twitpic.com/show/thumb/ank8mo.jpg&#34; width=&#34;150&#34; height=&#34;150&#34; alt=&#34;そして間違いなく今日一番のショット。みんなの笑顔が輝いてるぜ！ ... on Twitpic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>2012/08/25(Sat)に、 TDDBC 岡山1.0が開催されました。
+スタッフとして懇親会場確保したり、お弁当の注文とかしたり、受付したり、お金の計算したり、ちょびっとだけTAしたりしてました。
+開催までの道のり オープンセミナー2011@岡山 であべさん( @mao_instantlife )が開催宣言したのがTDDBC大都会の始まりです。その時にあべさんに「開催したいから協力してよー」的なことを言われて二つ返事でOK出してたような気がします。 そこからちょいちょい大都会の技術コミュニティ関係の人らに赤紙飛ばしてTAスタッフが集まってきた感じですね。
+最初の足掛かりとして、 OITEC で TDD Boot Camp in Tokyo サテライト開催としてUstを流しました。
+次に、第21回オープンラボ岡山 で、@kkd さんを岡山にお招きしてTDDについての発表を行なっていただきました。
+そしてスタッフ向けとして、弊社オフィスを使ってTDDBC岡山0.5をひっそりと開催しました。 TA向け教育としてTDDBC札幌のお題を皆で解きました。 多分1.0でScala希望で来る人いないからJavaでやったほうがいいよねーとか言いながら、環境構築するのが面倒くさくなって結局Scalaでやっちゃった記憶があります。 あべさんもScalaでやってましたっけね？
+TDDBCとか直接は関係ないのですが、オープンセミナー2012@岡山 で@t_wada さんをお招きしてお話していただきました。講演中に「あべさんがTDDBCを開催するので」と退路を断っていたのが印象的でしたね。
+そんなこんなで、何とかTDDBC岡山開催に漕ぎつけました。
+TDDBC岡山当日について 最初に受付を行なってお金を計算してお昼の買い出しに行って…と雑務中心にてんやわんやでした。 有料のイベントは大変でしたね。何とかお金についてはキッチリ計算が合ったので一安心でした。
+TA要員としては正直戦力になれなかったなぁという感じです。 次開催するときに是非リベンジしていきたいですね。
+懇親会ではいつもの大都会節全開で実にカオスな進行になってよかったと思います。 初めて岡山にお越しいただいた方々にも楽しんでいただけたようでなによりです。
+岡山の LT 大会は本当に楽しいwwww #せやな
+&amp;mdash; Takuto Wadaさん (@t_wada) 
+岡山のLT面白すぎるw #tddbc #せやな #あべさん抱いて
+&amp;mdash; なかやん・ゆーき・オンラインさん (@pocketberserker) 
+ryouteiの座・スタジアムは大都会のIT勉強会クラスタ最大の武器ですね。
+当日の状況については例のごとくトゥギャってます。 会場の熱気を少しでも感じていただければ。
+TDDBC大都会岡山1.0 まとめ #tddbc
+さいごに TDDBC岡山の開催にあたっては、主催のあべさんの多大なる尽力に依るところが非常に大きかったと思います。本当にお疲れ様でした。 また、県外からお越しいただいた皆様、初めての開催で未熟な岡山スタッフを暖かくサポートしていただき非常に助かりました。ありがとうございます。 参加者の皆様、TDDBC岡山をお楽しみいただけましたでしょうか？少しでも今後の糧になったら幸いです。
+次回もよろしくね！</description>
     </item>
     
   </channel>

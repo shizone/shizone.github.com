@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/jjug-scala-javafx/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>Jjug Scala Javafx on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/jjug-scala-javafx/</link>
+    <description>Recent content in Jjug Scala Javafx on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/jjug-scala-javafx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/jjug-scala-javafx/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>JJUC CCC 2013 FallでScalaとJavaFXの話をしてきた</title>
@@ -15,38 +18,21 @@
       <pubDate>Sun, 10 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2013/11/10/0019/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.java-users.jp/?page_id=695&#34;&gt;JJUG CCC 2013 Fall&lt;/a&gt; のCall for Paperがうっかり通っちゃったので、Scala+JavaFXのネタで登壇してきました。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://shizone.github.io/slides/jjugccc_2013fall/&#34;&gt;死霊はこちら&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/shizone/jjugccc2013fall&#34;&gt;死霊のソース&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;話したネタについて&#34;&gt;話したネタについて&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/shizone/tengu&#34;&gt;tengu&lt;/a&gt; という、 &lt;a href=&#34;https://github.com/softprops/picture-show&#34;&gt;picture show&lt;/a&gt; のGUIフロントエンドをJavaFXで作った話をしました。&lt;/p&gt;
-
-&lt;h1 id=&#34;反響&#34;&gt;反響&lt;/h1&gt;
-
-&lt;p&gt;正直、かなりスベった感があります。&lt;br /&gt;
-テーマ自体に興味がある人がそもそも少なかったというか。&lt;br /&gt;
-(Scalaだけやってる、JavaFXだけやってるみたいな人は多かった)&lt;/p&gt;
-
-&lt;p&gt;寺田さんにもなんか慰められてしまう始末で、次回何とかリベンジしていきたいですね。&lt;br /&gt;
-(まあ別に凹んだとかそういうのは一切ないんですけど)&lt;/p&gt;
-
-&lt;h1 id=&#34;その他&#34;&gt;その他&lt;/h1&gt;
-
-&lt;p&gt;tenguでは、picture showをそのままラップする以外に、プレゼンのカンペというかメモというか、そういうのを裏で表示する機能を追加してあります。&lt;br /&gt;
-そのへん &lt;a href=&#34;https://twitter.com/yusuke&#34;&gt;イケメン&lt;/a&gt; に見せたら、&lt;br /&gt;
-「あーそういうのついてないプレゼンツール結構あるよねー。こういうのナシで発表できる人、どうなってるんだろうねー」みたいな話になりました。&lt;br /&gt;
-そういう人はすげー練習してるんでしょうね。今回ちゃんとした場だし事前にしっかり練習したいと思ってたんですが、アプリの実装自体に手間取ったのもあるし仕事がセクシーすぎたので、結局ぶっつけになってしまいました。&lt;/p&gt;
-
-&lt;p&gt;進捗ダメでした。&lt;/p&gt;
-
-&lt;p&gt;あ、あと、JJUG CCC自体のレポは別エントリで上げたいと思います。&lt;/p&gt;
-</description>
+      <description>JJUG CCC 2013 Fall のCall for Paperがうっかり通っちゃったので、Scala+JavaFXのネタで登壇してきました。
+死霊はこちら
+死霊のソース
+話したネタについて tengu という、 picture show のGUIフロントエンドをJavaFXで作った話をしました。
+反響 正直、かなりスベった感があります。
+テーマ自体に興味がある人がそもそも少なかったというか。
+(Scalaだけやってる、JavaFXだけやってるみたいな人は多かった)
+寺田さんにもなんか慰められてしまう始末で、次回何とかリベンジしていきたいですね。
+(まあ別に凹んだとかそういうのは一切ないんですけど)
+その他 tenguでは、picture showをそのままラップする以外に、プレゼンのカンペというかメモというか、そういうのを裏で表示する機能を追加してあります。
+そのへん イケメン に見せたら、
+「あーそういうのついてないプレゼンツール結構あるよねー。こういうのナシで発表できる人、どうなってるんだろうねー」みたいな話になりました。
+そういう人はすげー練習してるんでしょうね。今回ちゃんとした場だし事前にしっかり練習したいと思ってたんですが、アプリの実装自体に手間取ったのもあるし仕事がセクシーすぎたので、結局ぶっつけになってしまいました。
+進捗ダメでした。
+あ、あと、JJUG CCC自体のレポは別エントリで上げたいと思います。</description>
     </item>
     
   </channel>

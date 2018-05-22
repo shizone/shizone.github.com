@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/index.xml</link>
-    <description>Recent content on SHI-Zone</description>
+    <title>変態 Twitter Scala Atnd on SHI-Zone</title>
+    <link>http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/</link>
+    <description>Recent content in 変態 Twitter Scala Atnd on SHI-Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>razon All rights reserved.</copyright>
-    <atom:link href="http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>AdventCalendarのPost数から変態ランキングを作る</title>
@@ -15,124 +18,43 @@
       <pubDate>Fri, 07 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/12/07/0010/</guid>
-      <description>
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://atnd.org/events/33835&#34;&gt;HENTAI Advent Calendar 2012 - 変態アドベントカレンダー -&lt;/a&gt; の7日目です。&lt;/p&gt;
-
-&lt;p&gt;前日は &lt;a href=&#34;http://twitter.com/ponkore&#34;&gt;@ponkore&lt;/a&gt; さんの &lt;a href=&#34;https://gist.github.com/4216377&#34;&gt;Clojure から POI ってみる&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;本題&#34;&gt;本題&lt;/h2&gt;
-
-&lt;p&gt;さて、この変態アドベントカレンダー、 &lt;a href=&#34;http://atnd.org/events/22020&#34;&gt;変態アドベントカレンダー 2011&lt;/a&gt; 、 &lt;a href=&#34;http://atnd.org/events/29918&#34;&gt;変態アドベントカレンダー in Summer&lt;/a&gt; に引き続き3回目になります。
-前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)&lt;/p&gt;
-
-&lt;p&gt;で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。
-つまり変態オブ変態です。&lt;/p&gt;
-
-&lt;p&gt;手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。&lt;/p&gt;
-
-&lt;h2 id=&#34;集計方法&#34;&gt;集計方法&lt;/h2&gt;
-
-&lt;p&gt;2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。
-幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。&lt;/p&gt;
-
-&lt;p&gt;2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。&lt;/p&gt;
-
-&lt;h2 id=&#34;コード&#34;&gt;コード&lt;/h2&gt;
-
-&lt;script src=&#34;https://gist.github.com/4225814.js?file=HentaiRank.scala&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;実行結果&#34;&gt;実行結果&lt;/h2&gt;
-
-&lt;p&gt;(もじゃ変,7)&lt;/p&gt;
-
-&lt;p&gt;(backpaper0,6)&lt;/p&gt;
-
-&lt;p&gt;(KASUYA, Daisuke,5)&lt;/p&gt;
-
-&lt;p&gt;(Kuchitama,5)&lt;/p&gt;
-
-&lt;p&gt;(dproject21,4)&lt;/p&gt;
-
-&lt;p&gt;(s_kozake,4)&lt;/p&gt;
-
-&lt;p&gt;(issps2009,3)&lt;/p&gt;
-
-&lt;p&gt;(真っ赤なレモン,3)&lt;/p&gt;
-
-&lt;p&gt;(soudai1025,3)&lt;/p&gt;
-
-&lt;p&gt;(susumuishigami,2)&lt;/p&gt;
-
-&lt;p&gt;(winplus,2)&lt;/p&gt;
-
-&lt;p&gt;(dekokun,2)&lt;/p&gt;
-
-&lt;p&gt;(megascus,2)&lt;/p&gt;
-
-&lt;p&gt;(toshi__ya,2)&lt;/p&gt;
-
-&lt;p&gt;(hakurai,2)&lt;/p&gt;
-
-&lt;p&gt;(tanago238,2)&lt;/p&gt;
-
-&lt;p&gt;(bufferings,2)&lt;/p&gt;
-
-&lt;p&gt;(daiksy,1)&lt;/p&gt;
-
-&lt;p&gt;(N.Murakami,1)&lt;/p&gt;
-
-&lt;p&gt;(KTZ ,1)&lt;/p&gt;
-
-&lt;p&gt;(posaunehm,1)&lt;/p&gt;
-
-&lt;p&gt;(zephiransas,1)&lt;/p&gt;
-
-&lt;p&gt;(jyukutyo,1)&lt;/p&gt;
-
-&lt;p&gt;(はがねのつるぎ,1)&lt;/p&gt;
-
-&lt;p&gt;(tango238,1)&lt;/p&gt;
-
-&lt;p&gt;(nyaarto,1)&lt;/p&gt;
-
-&lt;p&gt;(sudai1025,1)&lt;/p&gt;
-
-&lt;p&gt;(kuchitama,1)&lt;/p&gt;
-
-&lt;p&gt;(miya2000,1)&lt;/p&gt;
-
-&lt;p&gt;(satohjohn,1)&lt;/p&gt;
-
-&lt;p&gt;(?,1)&lt;/p&gt;
-
-&lt;p&gt;(mike_neck,1)&lt;/p&gt;
-
-&lt;p&gt;(組　長,1)&lt;/p&gt;
-
-&lt;p&gt;(s_taichan,1)&lt;/p&gt;
-
-&lt;p&gt;(ponkore,1)&lt;/p&gt;
-
-&lt;p&gt;(zerosum_,1)&lt;/p&gt;
-
-&lt;p&gt;(ryosms,1)&lt;/p&gt;
-
-&lt;p&gt;(kshoji,1)&lt;/p&gt;
-
-&lt;p&gt;(dpoject21,1)&lt;/p&gt;
-
-&lt;p&gt;(inaton,1)&lt;/p&gt;
-
-&lt;h1 id=&#34;俺だった&#34;&gt;俺だった。&lt;/h1&gt;
-
-&lt;p&gt;あ、因みに2012冬のdescriptionがATNDのユーザ名と違うためにバラけてる部分もありますね。
-まあその辺はあんま気にしないでください。&lt;/p&gt;
-
-&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
-
-&lt;p&gt;明日は &lt;a href=&#34;https://twitter.com/tan_go238&#34;&gt;たんご&lt;/a&gt; さんです。&lt;/p&gt;
-</description>
+      <description>このエントリは HENTAI Advent Calendar 2012 - 変態アドベントカレンダー - の7日目です。
+前日は @ponkore さんの Clojure から POI ってみる でした。
+本題 さて、この変態アドベントカレンダー、 変態アドベントカレンダー 2011 、 変態アドベントカレンダー in Summer に引き続き3回目になります。 前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)
+で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。 つまり変態オブ変態です。
+手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。
+集計方法 2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。 幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。
+2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。
+コード  実行結果 (もじゃ変,7)
+(backpaper0,6)
+(KASUYA, Daisuke,5)
+(Kuchitama,5)
+(dproject21,4)
+(s_kozake,4)
+(issps2009,3)
+(真っ赤なレモン,3)
+(soudai1025,3)
+(susumuishigami,2)
+(winplus,2)
+(dekokun,2)
+(megascus,2)
+(toshi__ya,2)
+(hakurai,2)
+(tanago238,2)
+(bufferings,2)
+(daiksy,1)
+(N.Murakami,1)
+(KTZ ,1)
+(posaunehm,1)
+(zephiransas,1)
+(jyukutyo,1)
+(はがねのつるぎ,1)
+(tango238,1)
+(nyaarto,1)
+(sudai1025,1)
+(kuchitama,1)
+(miya2000,1)
+(satohjohn,1)</description>
     </item>
     
     <item>
@@ -141,39 +63,15 @@
       <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>http://shizone.github.io/2012/07/18/0004/</guid>
-      <description>
-
-&lt;p&gt;このエントリは &lt;a href=&#34;http://atnd.org/events/29918&#34;&gt;変態アドベントカレンダー in Summer&lt;/a&gt; の4日目です。&lt;/p&gt;
-
-&lt;p&gt;前日は &lt;a href=&#34;http://twitter.com/backpaper0&#34;&gt;@backpaper0&lt;/a&gt; さんの &lt;a href=&#34;http://d.hatena.ne.jp/backpaper0/20120717/1342528086&#34;&gt;システムイグジらない&lt;/a&gt; でした。&lt;/p&gt;
-
-&lt;h2 id=&#34;今日のお題&#34;&gt;今日のお題&lt;/h2&gt;
-
-&lt;p&gt;こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。
-んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。&lt;/p&gt;
-
-&lt;h2 id=&#34;技術的な解説&#34;&gt;技術的な解説&lt;/h2&gt;
-
-&lt;p&gt;Scala + &lt;a href=&#34;https://github.com/paulp/xsbtscript&#34;&gt;xsbtscript&lt;/a&gt; で書きました。&lt;/p&gt;
-
-&lt;p&gt;xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。&lt;/p&gt;
-
-&lt;p&gt;本当はTwitter4Jではなく &lt;a href=&#34;https://github.com/Shinsuke-Abe/twitter4s&#34;&gt;あべさんのTwitter4S&lt;/a&gt; を使うつもりだったんですが、 &lt;a href=&#34;http://d.hatena.ne.jp/Yoshiori/20120324/1332618170&#34;&gt;githubのソースを直に取ってくるにはBuildの拡張が必要っぽい&lt;/a&gt; ので断念しました。&lt;/p&gt;
-
-&lt;h2 id=&#34;コード&#34;&gt;コード&lt;/h2&gt;
-
-&lt;script src=&#34;https://gist.github.com/3129700.js?file=hentai.scala&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。&lt;/p&gt;
-
-&lt;h2 id=&#34;仕上がったものはこちら&#34;&gt;仕上がったものはこちら&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/#!/razon/%E5%A4%89%E6%85%8B%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-in-summer&#34;&gt;@razon/変態アドベントカレンダー in summer&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;最後に&#34;&gt;最後に&lt;/h2&gt;
-
-&lt;p&gt;明日は根本さんこと &lt;a href=&#34;http://twitter.com/zephiransas&#34;&gt;@zephiransas&lt;/a&gt; さんです。&lt;/p&gt;
-</description>
+      <description>このエントリは 変態アドベントカレンダー in Summer の4日目です。
+前日は @backpaper0 さんの システムイグジらない でした。
+今日のお題 こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。 んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。
+技術的な解説 Scala + xsbtscript で書きました。
+xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。
+本当はTwitter4Jではなく あべさんのTwitter4S を使うつもりだったんですが、 githubのソースを直に取ってくるにはBuildの拡張が必要っぽい ので断念しました。
+コード  ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。
+仕上がったものはこちら @razon/変態アドベントカレンダー in summer
+最後に 明日は根本さんこと @zephiransas さんです。</description>
     </item>
     
   </channel>
