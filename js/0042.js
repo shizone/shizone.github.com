@@ -8,7 +8,7 @@
       return;
     }
     if (index === 0 || 100 <= component.state.items[index - 1].data.percentage) {
-      var url = 'http://kampa.me/t/' + ids[index] + '.json';
+      var url = 'https://kampa.me/t/' + ids[index] + '.json';
       $.ajax({
         url: url,
         dataType: 'jsonp',
