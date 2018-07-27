@@ -1,0 +1,15 @@
+.list-inline > li {
+  vertical-align: top;
+}
+
+.percentage {
+  width: 89%;
+}
+
+.pic {
+  width: 48px;
+}
+
+.progress {
+  margin-bottom: 0px;
+}
