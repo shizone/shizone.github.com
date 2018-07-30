@@ -1,6 +1,6 @@
 'use strict';
 (function() {
-  var ids = ['jga','jgb','jge','jgd','jgc'];
+  var ids = ['pak','pal','pam','pan','pao'];
 
   function loadKampa(index, component) {
     if (ids.length <= index) {
