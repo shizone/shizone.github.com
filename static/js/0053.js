@@ -1,7 +1,7 @@
 'use strict';
 
 (function () {
-  var ids = ['jga', 'jgb', 'jge', 'jgd', 'jgc'];
+  var ids = ['pak','pal','pam','pan','pao'];
   var state = {
     items: ids.map(function (id) {
       return { id: id, data: {} };
