@@ -7,7 +7,9 @@
     })
   };
   var fetchOptions = {
-    timeout: 10000
+    timeout: 10000,
+    jsonpCallback: 'callback',
+    jsonpCallbackFunction: 'callback'
   };
 
   var actions = {
