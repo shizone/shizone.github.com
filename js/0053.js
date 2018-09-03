@@ -7,6 +7,11 @@
       return { id: id, data: {} };
     })
   };
+  var fetchOptions = {
+    timeout: 10000,
+    jsonpCallback: 'callback',
+    jsonpCallbackFunction: 'callback'
+  };
 
   var actions = {
     loadKampa: function (index) {
@@ -16,7 +21,7 @@
         }
         if (index === 0 || 100 <= state.items[index - 1].data.percentage) {
           var url = 'https://kampa.me/t/' + ids[index] + '.json';
-          var data = fetchJsonp(url).then(function (response) {
+          var data = fetchJsonp(url, fetchOptions).then(function (response) {
             return response.json();
           }).then(function (data) {
             actions.applyItems({ index: index, data: data });
@@ -37,7 +42,6 @@
   };
 
   var KampaItem = function ({ kampaId, secret, data }) {
-    console.log(data);
     return !secret ? hyperapp.h(
       'a',
       { href: data.kmp_page },
