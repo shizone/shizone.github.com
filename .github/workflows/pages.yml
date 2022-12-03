@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - hugo
+  workflow_dispatch:
 
 jobs:
   deploy:
