@@ -1,17 +1,18 @@
 baseurl = "http://shizone.github.io"
 languageCode = "ja"
 title = "SHI-Zone"
-author = "Yuuki 'Razon' Sumida"
-copyright = "razon All rights reserved."
 googleanalytics = "UA-19371775-4"
-theme = "hugo-zen"
+theme = "mini"
+
+[social]
+  github = "https://github.com/shizone/"
+  twitter = "https://twitter.com/razon"
+  facebook = "https://www.facebook.com/shiz0ne"
 
 [params]
-  logo      = "/images/logo.png"
-  twitter   = "https://twitter.com/razon"
-  facebook  = "https://www.facebook.com/shiz0ne"
-  github    = "https://github.com/shizone/"
-  email     = "shizonera@gmail.com"
+  enableGoogleAnalytics = true
+  author = "Yuuki 'Razon' Sumida"
+  copyright = "razon All rights reserved."
 
 [permalinks]
     post = "/:year/:month/:day/:filename/"
