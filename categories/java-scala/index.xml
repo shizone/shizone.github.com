@@ -1,31 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Java Scala on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/java-scala/</link>
-    <description>Recent content in Java Scala on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/java-scala/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>第3回 岡山Javaユーザ会 勉強会で発表してきた</title>
-      <link>http://shizone.github.io/2012/08/01/0007/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2012/08/01/0007/</guid>
-      <description>第3回 岡山Javaユーザ会 勉強会 で発表してきました。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java Scala on SHI-Zone</title><link>http://shizone.github.io/categories/java-scala/</link><description>Recent content in Java Scala on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/java-scala/index.xml" rel="self" type="application/rss+xml"/><item><title>第3回 岡山Javaユーザ会 勉強会で発表してきた</title><link>http://shizone.github.io/2012/08/01/0007/</link><pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2012/08/01/0007/</guid><description>第3回 岡山Javaユーザ会 勉強会 で発表してきました。
 死霊
-発表について 前回の天領倉敷Scala でおさらいした話をベースに 微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。 天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。
+発表について 🔗前回の天領倉敷Scala でおさらいした話をベースに 微調整したバージョンで発表しましたが、割と話聞いてる人はポカーンとしちゃった感がありますね。 天領倉敷Scalaで話をした時は、参加してる人が割と事前知識ある人たちが集まってて、「おさらいするのにちょうどよかった」的感想だったのでちょっと難易度設定を誤った感が。
 でも結構ガッツリやんないと伝わらないんだよなぁ。この辺のバランス取りは毎回難しいですね。
-金魚本忘れて悔しい思いをしたお話 折角寺田さんが岡山に来たのに、金魚本持ってくるの忘れちゃったんですよね。 んでサプライズで金魚本プレゼントがあったもんだから貰った人たちはサインして貰っててぐぬぬってました。
+金魚本忘れて悔しい思いをしたお話 🔗折角寺田さんが岡山に来たのに、金魚本持ってくるの忘れちゃったんですよね。 んでサプライズで金魚本プレゼントがあったもんだから貰った人たちはサインして貰っててぐぬぬってました。
 スタッフの立場を忘れてガチで勝ちに行く根本さん大人気ない！
-次寺田さんが岡山に来た時は絶対に忘れないようにしないとですね。</description>
-    </item>
-    
-  </channel>
-</rss>
+次寺田さんが岡山に来た時は絶対に忘れないようにしないとですね。</description></item></channel></rss>

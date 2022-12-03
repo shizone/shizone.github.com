@@ -1,36 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>勉強会 岡山 大都会 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%B2%A1%E5%B1%B1-%E5%A4%A7%E9%83%BD%E4%BC%9A/</link>
-    <description>Recent content in 勉強会 岡山 大都会 on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sat, 20 Dec 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%B2%A1%E5%B1%B1-%E5%A4%A7%E9%83%BD%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>合同勉強会 in 大都会岡山 -2014 Winter-を開催しました</title>
-      <link>http://shizone.github.io/2014/12/20/0034/</link>
-      <pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2014/12/20/0034/</guid>
-      <description>ヘル・オー！もじゃ変です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>勉強会 岡山 大都会 on SHI-Zone</title><link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%B2%A1%E5%B1%B1-%E5%A4%A7%E9%83%BD%E4%BC%9A/</link><description>Recent content in 勉強会 岡山 大都会 on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 20 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%B2%A1%E5%B1%B1-%E5%A4%A7%E9%83%BD%E4%BC%9A/index.xml" rel="self" type="application/rss+xml"/><item><title>合同勉強会 in 大都会岡山 -2014 Winter-を開催しました</title><link>http://shizone.github.io/2014/12/20/0034/</link><pubDate>Sat, 20 Dec 2014 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2014/12/20/0034/</guid><description>ヘル・オー！もじゃ変です。
 2015-12-13に 合同勉強会 in 大都会岡山 -2014 Winter- を開催しました。
- Togetter Flickr (Thx!! &amp;gt; 根本さん)  発表死霊  関数がどーたこーたらとか普段からちょいちょい口走ってるのですが、今回は「割とよくあるオブジェクト指向っぽい言語畑の経験者の語彙で関数プログラミングについて説明してみる」というのをテーマにしてみました。 なんか全然時間が足りなかったので後半の方は端折ってしまった…。 そんなに小難しいテクニックについては一切触れてないんですが、何となく伝わったのかなぁ。どうなのかなぁ。という感じです。 ポカーン枠ですねそうですね、毎度毎度すいません…。
-合同勉強会について 去年は娘が入院してしまったので急遽他の方々に運営をお願いした(その節は大変おせわになりました)のですが、今年は何とか参加出来ました。 参加者もそこそこ入って一安心。
+Togetter Flickr (Thx!! &amp;gt; 根本さん) 発表死霊 🔗 関数がどーたこーたらとか普段からちょいちょい口走ってるのですが、今回は「割とよくあるオブジェクト指向っぽい言語畑の経験者の語彙で関数プログラミングについて説明してみる」というのをテーマにしてみました。 なんか全然時間が足りなかったので後半の方は端折ってしまった…。 そんなに小難しいテクニックについては一切触れてないんですが、何となく伝わったのかなぁ。どうなのかなぁ。という感じです。 ポカーン枠ですねそうですね、毎度毎度すいません…。
+合同勉強会について 🔗去年は娘が入院してしまったので急遽他の方々に運営をお願いした(その節は大変おせわになりました)のですが、今年は何とか参加出来ました。 参加者もそこそこ入って一安心。
 あと今回、タイムキーパー業は比較的キッチリやったのですが、そもそも発表者の皆様方が殆ど時間ジャストで終わらせる神っぷりを見せてくれたので、非常にラクでした。 時間の調整が難しいLTも滞りなく進んで、有り難い限りでした。
 発表の内容についても今回は特にLT参加者の皆様方のクオリティが素晴らしく、楽しいLTタイムとなりました。 毎度忘年会議の夜LTが本番みたいな風潮があるせいか、昼側が人数的に手薄になってしまう感じだったのですが、全枠近く埋まったのでよかったです。来年もよろしくお願いします。
-個人的な感想 今回のベストスピーカーは個人的には あべさん です。 合同勉強会の準備会の時も「あー俺ポカーン枠だわー」みないな感じだったのに蓋開けてみたらバッチリじゃないですかやだー。 アレですよ、マラソン大会で「一緒にゴールしようね」っつってぶっちぎるアレ。
+個人的な感想 🔗今回のベストスピーカーは個人的には あべさん です。 合同勉強会の準備会の時も「あー俺ポカーン枠だわー」みないな感じだったのに蓋開けてみたらバッチリじゃないですかやだー。 アレですよ、マラソン大会で「一緒にゴールしようね」っつってぶっちぎるアレ。
 あと、いしざきさんの話は、最近もやもやと自分の中で考えていたことにドンピシャでハマった感じでした。 ベタベタでこっ恥ずかしいコトバだけど、そうだよな、「愛」なんだよなーと。
-隣人を愛するって大事だなぁと最近しみじみ思うよ #gbdaitokai
-&amp;mdash; ゴッドローブ・マイツェン (@razon) 2014, 12月 13 
 あとひむひむの終わる終わる詐欺はさすが #ひむひむマジひむひむ といった感じ。 割と最近は飛び道具っぽい発表方法はやってないんですが、なんか特殊なやつ考えてみようかなーとか思いました。
-さいごに 前のエントリ でも告知しましたが次は 座駆動LT大会20150228 となります。 ご都合よろしければこちらも是非ご参加ください。</description>
-    </item>
-    
-  </channel>
-</rss>
+さいごに 🔗前のエントリ でも告知しましたが次は 座駆動LT大会20150228 となります。 ご都合よろしければこちらも是非ご参加ください。</description></item></channel></rss>

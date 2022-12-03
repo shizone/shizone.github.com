@@ -1,31 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>変態 Twitter Scala Atnd on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/</link>
-    <description>Recent content in 変態 Twitter Scala Atnd on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Dec 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>AdventCalendarのPost数から変態ランキングを作る</title>
-      <link>http://shizone.github.io/2012/12/07/0010/</link>
-      <pubDate>Fri, 07 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2012/12/07/0010/</guid>
-      <description>このエントリは HENTAI Advent Calendar 2012 - 変態アドベントカレンダー - の7日目です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>変態 Twitter Scala ATND on SHI-Zone</title><link>http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/</link><description>Recent content in 変態 Twitter Scala ATND on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 07 Dec 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/%E5%A4%89%E6%85%8B-twitter-scala-atnd/index.xml" rel="self" type="application/rss+xml"/><item><title>AdventCalendarのPost数から変態ランキングを作る</title><link>http://shizone.github.io/2012/12/07/0010/</link><pubDate>Fri, 07 Dec 2012 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2012/12/07/0010/</guid><description>このエントリは HENTAI Advent Calendar 2012 - 変態アドベントカレンダー - の7日目です。
 前日は @ponkore さんの Clojure から POI ってみる でした。
-本題 さて、この変態アドベントカレンダー、 変態アドベントカレンダー 2011 、 変態アドベントカレンダー in Summer に引き続き3回目になります。 前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)
+本題 🔗さて、この変態アドベントカレンダー、 変態アドベントカレンダー 2011 、 変態アドベントカレンダー in Summer に引き続き3回目になります。 前2回に関しては枠が埋まらなかったので、参加者が2周3周して賑やかしてました。(それでも埋まらなかったですが)
 で、気になるのは「誰が一番変態アドベントカレンダーに記事を一番多くPostしているのか」ということです。 つまり変態オブ変態です。
 手動で集計したほうが早い気はするんですが、折角なのでスクリプトを書いてみました。
-集計方法 2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。 幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。
+集計方法 🔗2011、2012夏に関しては、コメントから投稿者を引っ張り出してやればよさげです。 幸いコメントがRSSで取得できるため、ここから投稿者を抽出します。
 2012冬に関してはdescriptionに書いてあるテーブルから担当者を引っ張り出すことにします。
-コード  実行結果 (もじゃ変,7)
+コード 🔗 実行結果 🔗(もじゃ変,7)
 (backpaper0,6)
 (KASUYA, Daisuke,5)
 (Kuchitama,5)
@@ -54,25 +34,13 @@
 (sudai1025,1)
 (kuchitama,1)
 (miya2000,1)
-(satohjohn,1)</description>
-    </item>
-    
-    <item>
-      <title>物好きな変態どもをTwitterのListに晒しあげる</title>
-      <link>http://shizone.github.io/2012/07/18/0004/</link>
-      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2012/07/18/0004/</guid>
-      <description>このエントリは 変態アドベントカレンダー in Summer の4日目です。
+(satohjohn,1)
+(?,1)</description></item><item><title>物好きな変態どもをTwitterのListに晒しあげる</title><link>http://shizone.github.io/2012/07/18/0004/</link><pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2012/07/18/0004/</guid><description>このエントリは 変態アドベントカレンダー in Summer の4日目です。
 前日は @backpaper0 さんの システムイグジらない でした。
-今日のお題 こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。 んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。
-技術的な解説 Scala + xsbtscript で書きました。
+今日のお題 🔗こんなアレなイベントに参加する方々はさぞかしアレな感じの人たちなんだろうと思うので、何かしらの形で晒しあげないとなぁと思いました。 んで、TwitterのListに隔離してみようと思ったんですが、せっかくのなのでスクリプトを書いてみました。
+技術的な解説 🔗Scala + xsbtscript で書きました。
 xsbtscriptは初めて使ったんですが、sbtのプロジェクト作らなくても依存するライブラリを自動で取ってきてくれるのはすげー便利ですね。
 本当はTwitter4Jではなく あべさんのTwitter4S を使うつもりだったんですが、 githubのソースを直に取ってくるにはBuildの拡張が必要っぽい ので断念しました。
-コード  ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。
-仕上がったものはこちら @razon/変態アドベントカレンダー in summer
-最後に 明日は根本さんこと @zephiransas さんです。</description>
-    </item>
-    
-  </channel>
-</rss>
+コード 🔗 ConsumerKeyとかAccessTokenの辺は自分で使う場合は適当に仕込んでください。
+仕上がったものはこちら 🔗@razon/変態アドベントカレンダー in summer
+最後に 🔗明日は根本さんこと @zephiransas さんです。</description></item></channel></rss>

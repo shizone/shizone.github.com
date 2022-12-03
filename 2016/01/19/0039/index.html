@@ -1,145 +1,36 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="utf-8">
-<meta name="generator" content="Hugo 0.40.3" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="//fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
-<link rel="stylesheet" href="/css/normalize.css">
-<link rel="stylesheet" href="/css/skeleton.css">
-<link rel="stylesheet" href="/css/custom.css">
-<link rel="alternate" href="/index.xml" type="application/rss+xml" title="SHI-Zone">
-<title>僕もRustの開発環境を作ってみました(VS Code編) - SHI-Zone</title>
-</head>
-<body>
-
-<div class="container">
-
-	<header role="banner">
-		<div class="header-logo">
-			<a href="/"><img src="/images/logo.png" width="60" height="60" alt="SHI-Zone"></a>
-		</div>
-		
-	</header>
-
-
-	<main role="main">
-		<article itemscope itemtype="http://schema.org/BlogPosting">
-			<h1 class="entry-title" itemprop="headline">僕もRustの開発環境を作ってみました(VS Code編)</h1>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="2016-01-19">January 19, 2016</time></span>
-			<section itemprop="entry-text">
-				
-
-<p>ご安全に！人マンです。</p>
-
-<p><a href="http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92">あべさんがRust開発環境完全マスター</a>したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。</p>
-
-<h1 id="まずrust入れる">まずRust入れる</h1>
-
-<p><a href="https://www.rust-lang.org/">公式</a>で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)<br />
-あと、<a href="https://github.com/phildawes/racer">Racer</a> で使うためのRustのソースも<a href="https://www.rust-lang.org/downloads.html">ダウンロードページ</a>から落としてきます。</p>
-
-<p><em>RUST_HOME/bin</em> にパスを通しておきましょう。</p>
-
-<h1 id="cargoで色々入れる">Cargoで色々入れる</h1>
-
-<p>Rustのパッケージマネージャである<a href="https://github.com/rust-lang/cargo">Cargo</a>でパッケージのインストールを行います。<br />
-RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から <em>cargo install</em> が使えるようになっています。</p>
-
-<pre><code>$ cargo install racer
+<!doctype html><html lang=ja><head><title>僕もRustの開発環境を作ってみました(VS Code編) | SHI-Zone</title><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge,chrome=1"><meta name=viewport content="width=device-width,minimum-scale=1"><meta name=description content="ご安全に！人マンです。
+あべさんがRust開発環境完全マスターしたみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。
+まずRust入れる 🔗公式で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)
+あと、Racer で使うためのRustのソースもダウンロードページから落としてきます。
+RUST_HOME/bin にパスを通しておきましょう。
+Cargoで色々入れる 🔗RustのパッケージマネージャであるCargoでパッケージのインストールを行います。
+RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から cargo install が使えるようになっています。
+$ cargo install racer $ cargo install rustfmt CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。
+cargo installでインストールされたパッケージは、 $HOME/.cargo/bin に配置されます。
+VS CodeにRustyCodeを入れる 🔗エディタはVisual Studio Codeにします。
+コマンドパレットを表示(ctrl-shift-p)し、 Install Extension で「RustyCode」を選択してインストールします。
+インストール後、VS Codeを再起動します。
+RustyCodeの設定 🔗メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。
+//-------- Rusty Code configuration -------- // Specifies path to Racer binary if it's not in PATH &#34;rust.racerPath&#34;: &#34;$HOME/.cargo/bin/racer&#34;, // Specifies path to Rustfmt binary if it's not in PATH &#34;rust."><meta name=generator content="Hugo 0.107.0"><meta name=ROBOTS content="NOINDEX, NOFOLLOW"><link rel=stylesheet href=/css/style.css><link rel="shortcut icon" href=/images/favicon.ico type=image/x-icon><script type=application/javascript>var doNotTrack=!1;doNotTrack||(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-19371775-4","auto"),ga("send","pageview"))</script><script async src=https://www.google-analytics.com/analytics.js></script></head><body><nav class=navigation><a href=/><span class=arrow>←</span>Home</a>
+<a href=/posts>Archive</a>
+<a href=/tags>Tags</a>
+<a href=/about>About</a></nav><main class=main><section id=single><h1 class=title>僕もRustの開発環境を作ってみました(VS Code編)</h1><div class=tip><time datetime="2016-01-19 00:00:00 +0000 UTC">Jan 19, 2016</time>
+<span class=split>·</span>
+<span>106 words</span>
+<span class=split>·</span>
+<span>1 minute read</span></div><div class=content><p>ご安全に！人マンです。</p><p><a href=http://mao-instantlife.hatenablog.com/entry/2016/01/19/Rust%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E3%82%8B%28%E3%81%9D%E3%81%AE%EF%BC%91%EF%BC%9AIntelliJ%E3%81%AE%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%92 target=_blank rel=noopener>あべさんがRust開発環境完全マスター</a>したみたいなので、現在の人マンさんの環境も晒してみようかと思いました。多様性重点。</p><h1 id=まずrust入れる>まずRust入れる <a href=#%e3%81%be%e3%81%9arust%e5%85%a5%e3%82%8c%e3%82%8b class=anchor>🔗</a></h1><p><a href=https://www.rust-lang.org/ target=_blank rel=noopener>公式</a>で最新のStableなバイナリを落としてインストールします。(2016-1-19時点では1.5.0)<br>あと、<a href=https://github.com/phildawes/racer target=_blank rel=noopener>Racer</a> で使うためのRustのソースも<a href=https://www.rust-lang.org/downloads.html target=_blank rel=noopener>ダウンロードページ</a>から落としてきます。</p><p><em>RUST_HOME/bin</em> にパスを通しておきましょう。</p><h1 id=cargoで色々入れる>Cargoで色々入れる <a href=#cargo%e3%81%a7%e8%89%b2%e3%80%85%e5%85%a5%e3%82%8c%e3%82%8b class=anchor>🔗</a></h1><p>Rustのパッケージマネージャである<a href=https://github.com/rust-lang/cargo target=_blank rel=noopener>Cargo</a>でパッケージのインストールを行います。<br>RustにはCargoがバンドルされていますが、Rust1.5.0に同梱されているCargo0.6.0から <em>cargo install</em> が使えるようになっています。</p><pre tabindex=0><code>$ cargo install racer
 $ cargo install rustfmt
-</code></pre>
-
-<p>CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。</p>
-
-<p>cargo installでインストールされたパッケージは、 <em>$HOME/.cargo/bin</em> に配置されます。</p>
-
-<h1 id="vs-codeにrustycodeを入れる">VS CodeにRustyCodeを入れる</h1>
-
-<p>エディタは<a href="https://www.visualstudio.com/ja-jp/products/code-vs.aspx">Visual Studio Code</a>にします。<br />
-コマンドパレットを表示(ctrl-shift-p)し、 <em>Install Extension</em> で「RustyCode」を選択してインストールします。<br />
-インストール後、VS Codeを再起動します。</p>
-
-<h1 id="rustycodeの設定">RustyCodeの設定</h1>
-
-<p>メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。</p>
-
-<pre><code class="language-json">	//-------- Rusty Code configuration --------
-
-	// Specifies path to Racer binary if it's not in PATH
-	&quot;rust.racerPath&quot;: &quot;$HOME/.cargo/bin/racer&quot;,
-
-	// Specifies path to Rustfmt binary if it's not in PATH
-	&quot;rust.rustfmtPath&quot;: &quot;$HOME/.cargo/bin/rustfmt&quot;,
-
-	// Specifies path to /src directory of local copy of Rust sources
-	&quot;rust.rustLangSrcPath&quot;: &quot;$RUST_SRC_PATH/src&quot;,
-
-	// Specifies path to Cargo binary if it's not in PATH
-	&quot;rust.cargoPath&quot;: &quot;$RUST_HOME/bin/cargo&quot;,
-</code></pre>
-
-<p>※実際にはフルパスでお願いします。</p>
-
-<p>Racerのお陰で補完もそこそこ、Cargoもコマンドパレットから呼び出せるので割とステキな感じだと思います。<br />
-みなさんも是非Rust開発環境完全マスターしてみてください。</p>
-
-			</section>
-			<ul class="snsb">
-				<li><a class="twitter-share-button" href="https://twitter.com/share" data-via="razon" data-dnt="true" data-count="vertical">Tweet</a></li>
-				<li><div class="fb-like" data-href="http://shizone.github.io/2016/01/19/0039/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></li>
-				<li><a href="http://b.hatena.ne.jp/entry/http://shizone.github.io/2016/01/19/0039/" class="hatena-bookmark-button" data-hatena-bookmark-title="僕もRustの開発環境を作ってみました(VS Code編)" data-hatena-bookmark-layout="vertical-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a></li>
-				<li><div class="g-plus" data-action="share" data-annotation="vertical-bubble" data-href="http://shizone.github.io/2016/01/19/0039/"></div></li>
-			</ul>
-		</article>
-	</main>
-
-
-	<footer role="contentinfo">
-		<div class="hr"></div>
-		<div class="footer-link">
-			<a href="mailto:shizonera@gmail.com" target="_blank">Email</a>
-			<a href="https://twitter.com/razon" target="_blank">Twitter</a>
-			<a href="https://www.facebook.com/shiz0ne" target="_blank">Facebook</a>
-			<a href="https://github.com/shizone/" target="_blank">GitHub</a>
-			
-		</div>
-		<div class="copyright">Copyright &copy; razon All rights reserved.</div>
-	</footer>
-
-</div>
-
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-19371775-4', 'auto');
-	ga('send', 'pageview');
-</script>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-
-</body>
-</html>
-
-
-<script>
-window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
-</script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script src="https://apis.google.com/js/platform.js" async defer>
-  {lang: "ja";}
-</script>
-<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async">
-  {lang: "ja";}
-</script>
+</code></pre><p>CPUが暫く荒ぶると思いますが生暖かい目で見守りましょう。</p><p>cargo installでインストールされたパッケージは、 <em>$HOME/.cargo/bin</em> に配置されます。</p><h1 id=vs-codeにrustycodeを入れる>VS CodeにRustyCodeを入れる <a href=#vs-code%e3%81%abrustycode%e3%82%92%e5%85%a5%e3%82%8c%e3%82%8b class=anchor>🔗</a></h1><p>エディタは<a href=https://www.visualstudio.com/ja-jp/products/code-vs.aspx target=_blank rel=noopener>Visual Studio Code</a>にします。<br>コマンドパレットを表示(ctrl-shift-p)し、 <em>Install Extension</em> で「RustyCode」を選択してインストールします。<br>インストール後、VS Codeを再起動します。</p><h1 id=rustycodeの設定>RustyCodeの設定 <a href=#rustycode%e3%81%ae%e8%a8%ad%e5%ae%9a class=anchor>🔗</a></h1><p>メニューのFile - Preference - User Settingsで設定ファイルを開き、Rustの設定を追記します。</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-json data-lang=json><span style=display:flex><span>	<span style=color:#75715e>//-------- Rusty Code configuration --------
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>
+</span></span><span style=display:flex><span>	<span style=color:#75715e>// Specifies path to Racer binary if it&#39;s not in PATH
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#e6db74>&#34;rust.racerPath&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;$HOME/.cargo/bin/racer&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>	<span style=color:#75715e>// Specifies path to Rustfmt binary if it&#39;s not in PATH
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#e6db74>&#34;rust.rustfmtPath&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;$HOME/.cargo/bin/rustfmt&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>	<span style=color:#75715e>// Specifies path to /src directory of local copy of Rust sources
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#e6db74>&#34;rust.rustLangSrcPath&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;$RUST_SRC_PATH/src&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>	<span style=color:#75715e>// Specifies path to Cargo binary if it&#39;s not in PATH
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#e6db74>&#34;rust.cargoPath&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;$RUST_HOME/bin/cargo&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span></code></pre></div><p>※実際にはフルパスでお願いします。</p><p>Racerのお陰で補完もそこそこ、Cargoもコマンドパレットから呼び出せるので割とステキな感じだと思います。<br>みなさんも是非Rust開発環境完全マスターしてみてください。</p></div></section></main><footer id=footer><div id=social><a class=symbol href=https://www.facebook.com/shiz0ne rel=me target=_blank><svg fill="#bbb" width="28" height="28" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Facebook</title><desc>Created with Sketch.</desc><defs/><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Social-Icons---Rounded-Black" transform="translate(-152.000000, -43.000000)"><g id="Facebook" transform="translate(152.000000, 43.000000)"><rect id="Rounded" fill="#bbb" x="0" y="0" width="72" height="72" rx="8"/><path d="M60.4641463 13.4173171v9.3104878L54.9382927 22.7421951c-4.3314634.0-5.1660976 2.0578049-5.1660976 5.0653659v6.6626829H60.09L58.7517073 44.8887805H49.7721951V72H39.0097317V44.8887805H30V34.4702439h9.0097317V26.7858537C39.0097317 17.8639024 44.4478049 13 52.42 13c3.8004634.0 7.08.287804899999999 8.0441463.4173171z" fill="#fff"/></g></g></g></svg></a><a class=symbol href=https://github.com/shizone/ rel=me target=_blank><svg fill="#bbb" width="28" height="28" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Github</title><desc>Created with Sketch.</desc><defs/><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="Social-Icons---Rounded-Black" transform="translate(-264.000000, -939.000000)"><g id="Github" transform="translate(264.000000, 939.000000)"><path d="M8 72H64c4.418278.0 8-3.581722 8-8V8c0-4.418278-3.581722-8-8-8H8c-4.418278 811624501e-24-8 3.581722-8 8V64c541083001e-24 4.418278 3.581722 8 8 8z" id="Rounded" fill="#bbb"/><path d="M35.9985 13C22.746 13 12 23.7870921 12 37.096644c0 10.6440272 6.876 19.6751861 16.4145 22.8617681C29.6145 60.1797862 30.0525 59.4358488 30.0525 58.7973276 30.0525 58.2250681 30.0315 56.7100863 30.0195 54.6996482c-6.6765 1.4562499-8.085-3.2302544-8.085-3.2302544-1.0905-2.7829884-2.664-3.5239139-2.664-3.5239139C17.091 46.4500754 19.4355 46.4801943 19.4355 46.4801943c2.4075.1701719 3.675 2.4833051 3.675 2.4833051 2.142 3.6820383 5.6175 2.6188404 6.9855 2.0014024C30.3135 49.4077535 30.9345 48.3460615 31.62 47.7436831 26.2905 47.1352808 20.688 45.0691228 20.688 35.8361671c0-2.6308879.9345-4.781379 2.4705-6.4665327C22.911 28.7597262 22.0875 26.3110578 23.3925 22.9934585c0 0 2.016-.6475568 6.6 2.4697516C31.908 24.9285993 33.96 24.6620468 36.0015 24.6515052 38.04 24.6620468 40.0935 24.9285993 42.0105 25.4632101c4.581-3.1173084 6.5925-2.4697516 6.5925-2.4697516C49.9125 26.3110578 49.089 28.7597262 48.8415 29.3696344 50.3805 31.0547881 51.309 33.2052792 51.309 35.8361671c0 9.2555448-5.6115 11.29309-10.9575 11.8894446.860999999999997.7439374 1.629 2.2137408 1.629 4.4621184C41.9805 55.4089489 41.9505 58.0067059 41.9505 58.7973276 41.9505 59.4418726 42.3825 60.1918338 43.6005 59.9554002 53.13 56.7627944 60 47.7376593 60 37.096644 60 23.7870921 49.254 13 35.9985 13" fill="#fff"/></g></g></g></svg></a><a class=symbol href=https://twitter.com/razon rel=me target=_blank><svg fill="#bbb" width="28" height="28" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438.536" height="438.536" viewBox="0 0 438.536 438.536" style="enable-background:new 0 0 438.536 438.536"><g><path d="M414.41 24.123C398.333 8.042 378.963.0 356.315.0H82.228C59.58.0 40.21 8.042 24.126 24.123 8.045 40.207.003 59.576.003 82.225v274.084c0 22.647 8.042 42.018 24.123 58.102 16.084 16.084 35.454 24.126 58.102 24.126h274.084c22.648.0 42.018-8.042 58.095-24.126 16.084-16.084 24.126-35.454 24.126-58.102V82.225C438.532 59.576 430.49 40.204 414.41 24.123zM335.471 168.735c.191 1.713.288 4.278.288 7.71.0 15.989-2.334 32.025-6.995 48.104-4.661 16.087-11.8 31.504-21.416 46.254-9.606 14.749-21.074 27.791-34.396 39.115-13.325 11.32-29.311 20.365-47.968 27.117-18.648 6.762-38.637 10.143-59.953 10.143-33.116.0-63.76-8.952-91.931-26.836 4.568.568 9.329.855 14.275.855 27.6.0 52.439-8.565 74.519-25.7-12.941-.185-24.506-4.179-34.688-11.991-10.185-7.803-17.273-17.699-21.271-29.691 4.947.76 8.658 1.137 11.132 1.137 4.187.0 9.042-.76 14.56-2.279-13.894-2.669-25.598-9.562-35.115-20.697-9.519-11.136-14.277-23.84-14.277-38.114v-.571c10.085 4.755 19.602 7.229 28.549 7.422-17.321-11.613-25.981-28.265-25.981-49.963.0-10.66 2.758-20.747 8.278-30.264 15.035 18.464 33.311 33.213 54.816 44.252 21.507 11.038 44.54 17.227 69.092 18.558-.95-3.616-1.427-8.186-1.427-13.704.0-16.562 5.853-30.692 17.56-42.399 11.703-11.706 25.837-17.561 42.394-17.561 17.515.0 32.079 6.283 43.688 18.846 13.134-2.474 25.892-7.33 38.26-14.56-4.757 14.652-13.613 25.788-26.55 33.402 12.368-1.716 23.88-4.95 34.537-9.708C357.458 149.793 347.462 160.166 335.471 168.735z"/></g></svg></a></div><div class=copyright>razon All rights reserved.</div><div class=powerby>Powered by <a href=http://www.gohugo.io/>Hugo</a> Theme By <a href=https://github.com/nodejh/hugo-theme-mini>nodejh</a></div></footer></body></html>

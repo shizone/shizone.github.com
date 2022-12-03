@@ -1,39 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Togetter on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/togetter/</link>
-    <description>Recent content in Togetter on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/togetter/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>今年の振り返りを俺のTogetterでアレするアレ</title>
-      <link>http://shizone.github.io/2013/12/27/0022/</link>
-      <pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2013/12/27/0022/</guid>
-      <description>去年の軍団長のアレ が俺無双だったので、今年の大都会界隈もTogetterで振り返ろうとかいうアレですよアレ。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Togetter on SHI-Zone</title><link>http://shizone.github.io/categories/togetter/</link><description>Recent content in Togetter on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 27 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/togetter/index.xml" rel="self" type="application/rss+xml"/><item><title>今年の振り返りを俺のTogetterでアレするアレ</title><link>http://shizone.github.io/2013/12/27/0022/</link><pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2013/12/27/0022/</guid><description>去年の軍団長のアレ が俺無双だったので、今年の大都会界隈もTogetterで振り返ろうとかいうアレですよアレ。
 完全に身内ネタなのでごめんねごめんね。
-1月 パトさん がにゃんにゃん言ってた tgtr.ListWidget({id:&#39;436304&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;438027&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 案の定マッハで廃れましたね。
-岡山Python勉強会が始まった tgtr.ListWidget({id:&#39;443609&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 公式ハッシュタグは #okaPython なのだが、実質 #おっpy になってしまった感ある
-座席表で悪ノリ tgtr.ListWidget({id:&#39;445602&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;445695&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;445621&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); ごめんなさい。
-根本さんがパンツをアレしてソレしてた tgtr.ListWidget({id:&#39;447952&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); これはひどい。
-ハーレムさん 関連 tgtr.ListWidget({id:&#39;447973&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;451832&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;501009&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); いじられキャラとしてすっかり定着。
-3月 すごいH本読書会 tgtr.ListWidget({id:&#39;468829&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 結局第2回が開催されてないんですけど！！
-4月 ハンバーグの会 発足 tgtr.ListWidget({id:&#39;483004&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 最近ハンバーグ食べてない
-5月 オープンセミナー2013@岡山 開催 tgtr.ListWidget({id:&#39;500976&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 色々と至らぬ委員長業でしたが、お力添え頂きました皆様ありがとうございました。
+1月 🔗パトさん がにゃんにゃん言ってた 🔗 案の定マッハで廃れましたね。
+岡山Python勉強会が始まった 🔗 公式ハッシュタグは #okaPython なのだが、実質 #おっpy になってしまった感ある
+座席表で悪ノリ 🔗 ごめんなさい。
+根本さんがパンツをアレしてソレしてた 🔗 これはひどい。
+ハーレムさん 関連 🔗 いじられキャラとしてすっかり定着。
+3月 🔗すごいH本読書会 🔗 結局第2回が開催されてないんですけど！！
+4月 🔗ハンバーグの会 発足 🔗 最近ハンバーグ食べてない
+5月 🔗オープンセミナー2013@岡山 開催 🔗 色々と至らぬ委員長業でしたが、お力添え頂きました皆様ありがとうございました。
 来年のハーレム委員長にも期待ですね！
-Agile Japan 2013 岡山サテライト &amp;amp; okayama-js tgtr.ListWidget({id:&#39;508322&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); tgtr.ListWidget({id:&#39;508329&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 息子の運動会で行けず。無念。
-#た がいつもの要領で弄られるアレ tgtr.ListWidget({id:&#39;510435&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 福山に転職してから出番が少なくなった感ある。
-6月 #ひむひむマジひむひむ tgtr.ListWidget({id:&#39;512845&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); このあたりで大都会界隈でも ひむひむ がキャズム超えた感ある。
-#みずきさんかわいい tgtr.ListWidget({id:&#39;517500&#39;,url:&#39;http://togetter.com/&#39;,width:&#39;640px&#39;,height:&#39;240px&#39;}); 裏で はやさかさん がiOS7の人柱やって遊んでたので勉強会後に皆色めき立ってた記憶がある。</description>
-    </item>
-    
-  </channel>
-</rss>
+Agile Japan 2013 岡山サテライト &amp;amp; okayama-js 🔗 息子の運動会で行けず。無念。
+#た がいつもの要領で弄られるアレ 🔗 福山に転職してから出番が少なくなった感ある。
+6月 🔗#ひむひむマジひむひむ 🔗 このあたりで大都会界隈でも ひむひむ がキャズム超えた感ある。
+#みずきさんかわいい 🔗 裏で はやさかさん がiOS7の人柱やって遊んでたので勉強会後に皆色めき立ってた記憶がある。
+Java Day Tokyo 2013報告会 🔗 翌日俺が多摩にドナドナされていきました。
+7月 🔗倉敷と岡山の給食環境の違い(たぶん) 🔗 先のJUnit実践入門読書会あたりで 根本さん におじいちゃんキャラを設定したのだがこのへんになるとすっかり定着した感ある。</description></item></channel></rss>

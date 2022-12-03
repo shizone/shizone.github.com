@@ -1,44 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Javafx Linux Wine on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/javafx-linux-wine/</link>
-    <description>Recent content in Javafx Linux Wine on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/javafx-linux-wine/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>LinuxでJavaFX Scene Builderを動かし隊</title>
-      <link>http://shizone.github.io/2012/07/31/0006/</link>
-      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2012/07/31/0006/</guid>
-      <description>今回のお題 JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。 Linux版の2.xもだいぶ遅れて出ましたし。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaFX Linux Wine on SHI-Zone</title><link>http://shizone.github.io/categories/javafx-linux-wine/</link><description>Recent content in JavaFX Linux Wine on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/javafx-linux-wine/index.xml" rel="self" type="application/rss+xml"/><item><title>LinuxでJavaFX Scene Builderを動かし隊</title><link>http://shizone.github.io/2012/07/31/0006/</link><pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2012/07/31/0006/</guid><description>今回のお題 🔗JavaFX周りって、Linuxの置いてけぼり感が割と悔しいわけですよ。 Linux版の2.xもだいぶ遅れて出ましたし。
 んで先日の 第３回 岡山Javaユーザ会 勉強会 でも @a_know さんのJavaFXのセッション聞いてて、 JavaFX Scene Builder使ってるじゃないの悔しいﾋﾞｸﾝﾋﾞｸﾝってなったりしてました。
 が、もしかしなくてもWine経由でWindows版の奴が入るんじゃね？と思いまして、
-JavaFX Scene BuilderってWineで動くかなぁ
-&amp;mdash; ヴィムさん (@razon) 
-@razon JavaFXで書かれてるんじゃなかったっけ？
-&amp;mdash; 48さん (@bleu48) 
-@bleu48 インストーラ形式で配布されてるんですよねー。入れた後ごにょれば何とかなるという淡い期待をですね。
-&amp;mdash; ヴィムさん (@razon) 
-@bleu48 @razon JavaFXで書かれてますよ。ただ、ネイティブライブラリもいろいろ使っているようなので、Linuxで動かないのだと思います。
-&amp;mdash; Yuichi Sakurabaさん (@skrb) 
-@skrb @bleu48 なるほど。ネイティブ周りがWineで何とかならないかなぁと淡い期待を抱いています。
-&amp;mdash; ヴィムさん (@razon) 
-@razon @bleu48 ぜひやってみて、うまくいったら教えてください！！
-&amp;mdash; Yuichi Sakurabaさん (@skrb) 
-@skrb @bleu48 そうですねー。ちょっと、チャレンジしてみます！
-&amp;mdash; ヴィムさん (@razon) 
 てな訳で、試してみました。
-手順 手順自体はすっげー単純で、
- Wine入れる(ふつーにapt-getとかで入れておっけーです) Windows版のJDK7+JavaFX2.xをWineで突っ込む Windows版のJavaFX Scene BuilderをWineで突っ込む  という、手順を書く必要があるのかっていうくらいそのまま行けました。 特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。</description>
-    </item>
-    
-  </channel>
-</rss>
+手順 🔗手順自体はすっげー単純で、
+Wine入れる(ふつーにapt-getとかで入れておっけーです) Windows版のJDK7+JavaFX2.xをWineで突っ込む Windows版のJavaFX Scene BuilderをWineで突っ込む という、手順を書く必要があるのかっていうくらいそのまま行けました。 特に何か設定をいじる必要もなく、あっさりと入る＆動くで拍子抜けしちゃうぐらい。
+Windows版のJDKを入れないといけないのが何だか敗北感満載ですが、何とか動いたのでよしとします。 これでScene Builder動かしてるの見てぐぬぬってなることもなくなりましたね。めでたしめでたし。</description></item></channel></rss>

@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Krita Scalaちゃん on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/krita-scala%E3%81%A1%E3%82%83%E3%82%93/</link>
-    <description>Recent content in Krita Scalaちゃん on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/krita-scala%E3%81%A1%E3%82%83%E3%82%93/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Kritaを試してみている</title>
-      <link>http://shizone.github.io/2015/08/27/0036/</link>
-      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2015/08/27/0036/</guid>
-      <description>ご安全に！もじゃ変です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Krita Scalaちゃん on SHI-Zone</title><link>http://shizone.github.io/categories/krita-scala%E3%81%A1%E3%82%83%E3%82%93/</link><description>Recent content in Krita Scalaちゃん on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/krita-scala%E3%81%A1%E3%82%83%E3%82%93/index.xml" rel="self" type="application/rss+xml"/><item><title>Kritaを試してみている</title><link>http://shizone.github.io/2015/08/27/0036/</link><pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2015/08/27/0036/</guid><description>ご安全に！もじゃ変です。
 家では割と長いことLinuxを使っているのですが、個人的にずっとGimpが肌に合わなくてもんにょりしていました。
 で、 Krita がなんかよさげだったので試してみました。
-ScalaMatsuri法被ドヤリングScalaちゃん by shizone on pixiv
-
 リハビリがてらサクッと軽めに。
-Scalaちゃんってドヤ顔似合うよね。</description>
-    </item>
-    
-  </channel>
-</rss>
+Scalaちゃんってドヤ顔似合うよね。</description></item></channel></rss>

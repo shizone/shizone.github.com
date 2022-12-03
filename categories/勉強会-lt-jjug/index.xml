@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>勉強会 Lt Jjug on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/</link>
-    <description>Recent content in 勉強会 Lt Jjug on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Aug 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>JJUG ナイト・セミナーでLTしてきた</title>
-      <link>http://shizone.github.io/2013/08/21/0016/</link>
-      <pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2013/08/21/0016/</guid>
-      <description>JJUG ナイト・セミナー 「ビール片手にLT&amp;amp;納涼会」  に参加してLTしてきました。
-死霊(LTで使ったやつからちょっと弄ってます)  だけじゃわからないと思うので動画  参加してみて 大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>勉強会 LT JJUG on SHI-Zone</title><link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/</link><description>Recent content in 勉強会 LT JJUG on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 21 Aug 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-lt-jjug/index.xml" rel="self" type="application/rss+xml"/><item><title>JJUG ナイト・セミナーでLTしてきた</title><link>http://shizone.github.io/2013/08/21/0016/</link><pubDate>Wed, 21 Aug 2013 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2013/08/21/0016/</guid><description>JJUG ナイト・セミナー 「ビール片手にLT&amp;amp;納涼会」 に参加してLTしてきました。
+死霊(LTで使ったやつからちょっと弄ってます) 🔗 だけじゃわからないと思うので動画 🔗 参加してみて 🔗大都会の懇親会LTノリ(悪ノリとも言う)の完全にネタ方面に突っ切ったやつだったのでダダ滑ったらどうしようかと思ってたのですが、それなりにいい感じのリアクションが返ってきてよかったです。
 次はマジメな奴に挑戦してみたいですね。
-はっ、JJUG CCC か…！</description>
-    </item>
-    
-  </channel>
-</rss>
+はっ、JJUG CCC か…！</description></item></channel></rss>

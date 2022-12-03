@@ -1,40 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>勉強会 大都会 岡山 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%A4%A7%E9%83%BD%E4%BC%9A-%E5%B2%A1%E5%B1%B1/</link>
-    <description>Recent content in 勉強会 大都会 岡山 on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Dec 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%A4%A7%E9%83%BD%E4%BC%9A-%E5%B2%A1%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>ニュービーのための合同勉強会 in 大都会岡山ガイド</title>
-      <link>http://shizone.github.io/2014/12/03/0031/</link>
-      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2014/12/03/0031/</guid>
-      <description>ご安全に！もじゃ変です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>勉強会 大都会 岡山 on SHI-Zone</title><link>http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%A4%A7%E9%83%BD%E4%BC%9A-%E5%B2%A1%E5%B1%B1/</link><description>Recent content in 勉強会 大都会 岡山 on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Wed, 03 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A-%E5%A4%A7%E9%83%BD%E4%BC%9A-%E5%B2%A1%E5%B1%B1/index.xml" rel="self" type="application/rss+xml"/><item><title>ニュービーのための合同勉強会 in 大都会岡山ガイド</title><link>http://shizone.github.io/2014/12/03/0031/</link><pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2014/12/03/0031/</guid><description>ご安全に！もじゃ変です。
 このエントリは 大都会岡山 Advent Calendar 2014 の3日目のエントリです。
 前日は @maepon さんの大都会岡山のはずれにぽつんとある『四万十ラーメン』 でした。
 翌日は 工事のおじさん の 大都会岡山を楽しむための用語集2014 です。
-本題 12&amp;frasl;13(土)に、 合同勉強会 in 大都会岡山 -2014 Winter- が開催されますが、はじめての参加者向けにガイド的ななんかを書こうかなぁと。
-合同勉強会 in 大都会岡山 とは？ 岡山に存在するIT勉強会コミュニティが皆で集まって、色々な発表をする勉強会です。
+本題 🔗12/13(土)に、 合同勉強会 in 大都会岡山 -2014 Winter- が開催されますが、はじめての参加者向けにガイド的ななんかを書こうかなぁと。
+合同勉強会 in 大都会岡山 とは？ 🔗岡山に存在するIT勉強会コミュニティが皆で集まって、色々な発表をする勉強会です。
 と、言いながら何だかんだで毎回県外枠とかもあったりする感じだったり。
 幅広いテーマの話が聞けると思うので、「何か普段やってることと違うことを始めてみようかなぁ」とかお考えの方には、新たなネタ探しのヒントになったりするのではないかと。
-過去の開催実績とか  2012 Spring 2012 Winter 2013 Winter  勉強会参加の注意事項とか 会場について 岡山県立大学の学部共通棟(北)の2Fにある8202講義室となります。
+過去の開催実績とか 🔗 2012 Spring 2012 Winter 2013 Winter 勉強会参加の注意事項とか 🔗会場について 🔗岡山県立大学の学部共通棟(北)の2Fにある8202講義室となります。
 具体的な建物の位置については キャンパスマップ を参考にしてみてください。
-会場へのアクセスについて  電車でのアクセス  最寄り駅はJR吉備線の「服部駅」になります。 西側(福山・倉敷方面)からのアクセスは、総社駅からの伯備線・吉備線の連結がかなり微妙な感じなのでご注意ください。 正直クルマでのアクセスのほうが無難な気がしています。 僕は ハーレムさん をアシにする気マンマンですよ。   昼食について 売店が空いてるかも知れませんが、割と品揃えが微妙な可能性もあります。
+会場へのアクセスについて 🔗 電車でのアクセス 最寄り駅はJR吉備線の「服部駅」になります。 西側(福山・倉敷方面)からのアクセスは、総社駅からの伯備線・吉備線の連結がかなり微妙な感じなのでご注意ください。 正直クルマでのアクセスのほうが無難な気がしています。 僕は ハーレムさん をアシにする気マンマンですよ。 昼食について 🔗売店が空いてるかも知れませんが、割と品揃えが微妙な可能性もあります。
 徒歩で行ける範囲にお店は全然ない感じなので、あらかじめ調達して会場入りするのもアリかも知れません。
 クルマ組にお昼ついていくというテも。
-おやつについて 割と毎回、皆でおやつを持ち込んでシェアして食べながら話を聞いたりします。
+おやつについて 🔗割と毎回、皆でおやつを持ち込んでシェアして食べながら話を聞いたりします。
 自分で消化できる範囲で、 おやつをお持ちください。 万一余っても分配できるよう、個包装のものが望ましいです。
-フィギュアについて 毎度毎度、受付席にフィギュアとかガンプラとかを展示する謎の習慣があったりするので、何かイチオシのブツがあれば是非お持ちください。</description>
-    </item>
-    
-  </channel>
-</rss>
+フィギュアについて 🔗毎度毎度、受付席にフィギュアとかガンプラとかを展示する謎の習慣があったりするので、何かイチオシのブツがあれば是非お持ちください。
+勉強会の申込み 🔗合同勉強会 in 大都会岡山 -2014 Winter-</description></item></channel></rss>

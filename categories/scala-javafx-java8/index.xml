@@ -1,41 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Scala Javafx Java8 on SHI-Zone</title>
-    <link>http://shizone.github.io/categories/scala-javafx-java8/</link>
-    <description>Recent content in Scala Javafx Java8 on SHI-Zone</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>razon All rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://shizone.github.io/categories/scala-javafx-java8/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>JavaFX 8 on Scala</title>
-      <link>http://shizone.github.io/2013/12/21/0021/</link>
-      <pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://shizone.github.io/2013/12/21/0021/</guid>
-      <description>これは JavaFX Advent Calendar 2013 の21日目のエントリです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scala JavaFX Java8 on SHI-Zone</title><link>http://shizone.github.io/categories/scala-javafx-java8/</link><description>Recent content in Scala JavaFX Java8 on SHI-Zone</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 21 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://shizone.github.io/categories/scala-javafx-java8/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaFX 8 on Scala</title><link>http://shizone.github.io/2013/12/21/0021/</link><pubDate>Sat, 21 Dec 2013 00:00:00 +0000</pubDate><guid>http://shizone.github.io/2013/12/21/0021/</guid><description>これは JavaFX Advent Calendar 2013 の21日目のエントリです。
 前日は @MulticolorWorld さんの JavaFXアプリケーション製作中に作ったライブラリの話(未完成) でした。
-本題 タイトルの通り、ScalaでJavaFX8を使う話です。
+本題 🔗タイトルの通り、ScalaでJavaFX8を使う話です。
 JJUG CCC 2013 Fall で発表するため資料作りしてる最中に
-@skrb 8に変えてみたら、Scalaのビルドツールがクラッシュしちゃいました…。&amp;#10;取り敢えずは7でガマンですかねぇ…。
-&amp;mdash; マイクチェックの時間だ！コラァ！！ (@razon) 2013, 11月 3 
 ってことがあったので、ちゃんと動かすために調べてみました。
-Scalaのバージョン指定 Scalaは2.10.2以降のバージョンを指定する必要があります。
-sbtのバージョン指定 sbtは、0.12系だと動作しないので0.13系を指定します。
-jfxrt.jarの配備位置の変更対応 sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。
+Scalaのバージョン指定 🔗Scalaは2.10.2以降のバージョンを指定する必要があります。
+sbtのバージョン指定 🔗sbtは、0.12系だと動作しないので0.13系を指定します。
+jfxrt.jarの配備位置の変更対応 🔗sbtでコンパイルする際に、jfxrt.jarがクラスパスに指定されないため、unmanagedJarsに追加しておく必要があります。
 当方ではJAVA_HOMEからの相対パスで指定する方式( 参考 )にしていたのですが、JavaFX8ではjfxrt.jarの位置がjre/lib/からjre/lib/ext/に変更になっています。
 両方に対応するように修正してみました。
- 拙作のGiter8テンプレート で対応しているので、参考にして頂ければ。
-余談 自前のJavaFXアプリ で動作確認してみたのですが、WebViewはだいぶ良くなってますね。
+拙作のGiter8テンプレート で対応しているので、参考にして頂ければ。
+余談 🔗自前のJavaFXアプリ で動作確認してみたのですが、WebViewはだいぶ良くなってますね。
 露骨にもっさりしてたのがだいぶ改善されてるしCSSもいい感じに効くようになってました。
-![Tengu on JavaFX8](https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_&amp;quot;2013-12-21&amp;quot; グリグリ動きますね
-最後に 翌日は @kikutaro_ さんの JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx です。</description>
-    </item>
-    
-  </channel>
-</rss>
+![Tengu on JavaFX8](https://lh6.googleusercontent.com/-cvvMb8vsg8g/UrWEIkSGELI/AAAAAAAAAkY/3sZtCbJZEts/s800/Screenshot_from_"2013-12-21" グリグリ動きますね
+最後に 🔗翌日は @kikutaro_ さんの JavaFXのサードパーティ「JFXtras」を触ってみる！ #javafx です。</description></item></channel></rss>
